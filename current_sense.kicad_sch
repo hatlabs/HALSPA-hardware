@@ -1,0 +1,176 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6a9cae71-f926-424f-aa66-f108b1de935a")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 57.15 128.27)
+		(size 26.67 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4af25350-e1ae-4cb6-8ebc-d8cb232dd08c")
+		(property "Sheetname" "INA199 4"
+			(at 57.15 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ina199.kicad_sch"
+			(at 57.15 146.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HALTEST"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444"
+					(page "19")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 57.15 99.06)
+		(size 26.67 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "622497c5-aad0-4b8f-b029-b557d24d2703")
+		(property "Sheetname" "INA199 3"
+			(at 57.15 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ina199.kicad_sch"
+			(at 57.15 117.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HALTEST"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444"
+					(page "18")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 57.15 39.37)
+		(size 26.67 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "77ced212-f85d-4df5-9c9d-672ca2ee0ad7")
+		(property "Sheetname" "INA199 1"
+			(at 57.15 38.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ina199.kicad_sch"
+			(at 57.15 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HALTEST"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 57.15 68.58)
+		(size 26.67 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce058287-6d95-4419-af16-33ee4d22930e")
+		(property "Sheetname" "INA199 2"
+			(at 57.15 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ina199.kicad_sch"
+			(at 57.15 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HALTEST"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444"
+					(page "17")
+				)
+			)
+		)
+	)
+)
