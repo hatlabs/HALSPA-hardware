@@ -2032,7 +2032,7 @@
 			(uuid "4de2b2dd-9a0e-45d6-99d1-fb988bad4354")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "#PWR072")
 					(unit 1)
@@ -2097,7 +2097,7 @@
 			(uuid "cedb70c3-ac2a-4cbe-b688-3a5a583fa22d")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "#PWR073")
 					(unit 1)
@@ -2202,7 +2202,7 @@
 			(uuid "e6a4fa96-ad08-475d-98cf-02f2b9343592")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "C19")
 					(unit 1)
@@ -2268,7 +2268,7 @@
 			(uuid "cb27788f-5fac-4ef9-82c2-d598cb45bf52")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "#PWR069")
 					(unit 1)
@@ -2362,7 +2362,7 @@
 			(uuid "ebde28bc-fd67-4125-883c-c9c4dce7de65")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "R24")
 					(unit 1)
@@ -2428,7 +2428,7 @@
 			(uuid "d32f6580-abab-43c4-af92-fdfff73b5d18")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "#FLG07")
 					(unit 1)
@@ -2511,7 +2511,7 @@
 			(uuid "2cbdb919-148a-428b-a79b-4f28cd38d6e2")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "TP2")
 					(unit 1)
@@ -2637,7 +2637,7 @@
 			(uuid "7e5ec0a9-1538-4884-a26e-152a467d6604")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "U3")
 					(unit 1)
@@ -2732,7 +2732,7 @@
 			(uuid "36864c19-3c3f-4fb4-81e2-79351d65702a")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "R26")
 					(unit 1)
@@ -2798,7 +2798,7 @@
 			(uuid "76ff4b45-cc10-4ad5-b2b0-7ff573b88620")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "#PWR067")
 					(unit 1)
@@ -2909,7 +2909,7 @@
 			(uuid "00fd2273-467f-4f76-bbde-4734af2f6ab0")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "L2")
 					(unit 1)
@@ -3002,7 +3002,7 @@
 			(uuid "3aca485f-1333-4fba-8362-be3675d18c1e")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "R25")
 					(unit 1)
@@ -3068,7 +3068,7 @@
 			(uuid "6d340d2f-f38f-43e2-b661-e4de07edcc7e")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "#PWR066")
 					(unit 1)
@@ -3172,7 +3172,7 @@
 			(uuid "d4673564-d872-44b3-a425-ab95a140d1fc")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "C22")
 					(unit 1)
@@ -3265,7 +3265,7 @@
 			(uuid "4c235b98-fcaf-439e-a2a8-7df85faad51b")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "C18")
 					(unit 1)
@@ -3370,7 +3370,7 @@
 			(uuid "79e690c7-ee44-4530-989f-17f197f11cfc")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "C21")
 					(unit 1)
@@ -3466,7 +3466,7 @@
 			(uuid "5269a0ca-8681-4c2a-b20b-6d1f792b632d")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "C17")
 					(unit 1)
@@ -3562,7 +3562,7 @@
 			(uuid "00002190-7907-45a7-82f3-0e06593f3dee")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "C16")
 					(unit 1)
@@ -3627,7 +3627,7 @@
 			(uuid "68723c5a-d3ef-43e9-acec-83ca50dad7ba")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "#PWR071")
 					(unit 1)
@@ -3723,7 +3723,7 @@
 			(uuid "5d68ff4f-b774-41bb-999e-3e42ad7065fd")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "C15")
 					(unit 1)
@@ -3788,7 +3788,7 @@
 			(uuid "19f5b490-92ff-4de4-93c0-38ccce793e28")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "#PWR070")
 					(unit 1)
@@ -3854,7 +3854,7 @@
 			(uuid "f498fe92-8502-4f71-aff6-5d5cc221a949")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "#PWR068")
 					(unit 1)
@@ -3950,7 +3950,7 @@
 			(uuid "8439bfba-4be7-4389-857d-924635ae88c0")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/3b017fe7-4da4-47f0-996e-c80c0d6dd0eb"
 					(reference "C20")
 					(unit 1)

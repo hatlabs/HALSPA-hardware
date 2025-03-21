@@ -1690,7 +1690,7 @@
 			(uuid "203e671d-2f33-4855-8571-cc2b414e2284")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663"
 					(reference "U102")
 					(unit 1)
@@ -1784,7 +1784,7 @@
 			(uuid "8a499a40-1ba8-4a60-97e0-9124145dc8a7")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663"
 					(reference "U101")
 					(unit 1)
@@ -1949,7 +1949,7 @@
 			(uuid "c84aa781-0cd7-46a2-9691-53ed1a7fc2f2")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663"
 					(reference "U2401")
 					(unit 1)

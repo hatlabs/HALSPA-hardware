@@ -40,7 +40,7 @@
 			)
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444"
 					(page "19")
 				)
@@ -82,7 +82,7 @@
 			)
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444"
 					(page "18")
 				)
@@ -124,7 +124,7 @@
 			)
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444"
 					(page "16")
 				)
@@ -166,7 +166,7 @@
 			)
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444"
 					(page "17")
 				)

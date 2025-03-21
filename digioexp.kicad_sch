@@ -651,7 +651,7 @@
 			(uuid "c62b6ceb-268f-4037-b836-2382d1f0960e")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8430ee6a-627a-47ad-9e6d-72794dbcf6f7"
 					(reference "U1003")
 					(unit 1)

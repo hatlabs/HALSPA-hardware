@@ -1249,7 +1249,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Haltest:Conn_01x20_RPi_GPIO_Even"
+		(symbol "HALSPA:Conn_01x20_RPi_GPIO_Even"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -1858,7 +1858,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Haltest:Conn_01x20_RPi_GPIO_Odd"
+		(symbol "HALSPA:Conn_01x20_RPi_GPIO_Odd"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -16457,7 +16457,7 @@
 		(uuid "ff16582e-fc26-46e1-8487-7086d2a37ae4")
 	)
 	(symbol
-		(lib_id "Haltest:Conn_01x20_RPi_GPIO_Odd")
+		(lib_id "HALSPA:Conn_01x20_RPi_GPIO_Odd")
 		(at 119.38 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16788,7 +16788,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Haltest:Conn_01x20_RPi_GPIO_Even")
+		(lib_id "HALSPA:Conn_01x20_RPi_GPIO_Even")
 		(at 167.64 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17043,7 +17043,7 @@
 			(uuid "1d8556fe-1547-44de-b950-18e62c09ed81")
 		)
 		(instances
-			(project "HALTEST"
+			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d60c1020-d2cb-4d48-a4f2-2128439747bd"
 					(reference "#PWR0261")
 					(unit 1)
