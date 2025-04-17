@@ -1243,10 +1243,46 @@
 		(uuid "e502052a-1719-480e-b746-0561914a74e5")
 	)
 	(junction
+		(at 121.92 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "54baf9a4-5e23-4651-a668-838f01ecf41f")
+	)
+	(junction
+		(at 121.92 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8354eb5f-352d-4821-95a1-aeff3620e4e2")
+	)
+	(junction
+		(at 97.79 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "835e0a6b-5b44-4a41-be5e-6ff18e948d5f")
+	)
+	(junction
+		(at 97.79 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "966fcca3-429a-44eb-b9b0-1fab9fd8538a")
+	)
+	(junction
 		(at 55.88 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a7ceb89b-f5ec-4f4f-a6a4-06ab8adb42bd")
+	)
+	(junction
+		(at 97.79 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b741aec3-c1aa-471e-9267-3249dfcb32b6")
+	)
+	(junction
+		(at 121.92 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d21fb463-7a71-4faf-ba5e-4619337513bd")
 	)
 	(junction
 		(at 74.93 67.31)
@@ -1254,15 +1290,9 @@
 		(color 0 0 0 0)
 		(uuid "d6f1e755-84d3-4938-944c-28a7571a0ab7")
 	)
-	(wire
-		(pts
-			(xy 52.07 85.09) (xy 57.15 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01e459e4-fba6-4e46-bd9f-666c01e51c6e")
+	(no_connect
+		(at 57.15 85.09)
+		(uuid "b201d389-95a1-4271-8194-fc3e33d40bc2")
 	)
 	(wire
 		(pts
@@ -1283,16 +1313,6 @@
 			(type default)
 		)
 		(uuid "1341362e-d641-4883-8e58-76bc94739e0c")
-	)
-	(wire
-		(pts
-			(xy 39.37 87.63) (xy 44.45 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "167131da-9897-428b-a9c5-6fa494d8a15b")
 	)
 	(wire
 		(pts
@@ -1353,6 +1373,16 @@
 			(type default)
 		)
 		(uuid "24ff36e7-9702-430a-a0b3-f9f996e5d78c")
+	)
+	(wire
+		(pts
+			(xy 121.92 148.59) (xy 121.92 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2917021f-19a9-4847-8548-be0e87c51fb6")
 	)
 	(wire
 		(pts
@@ -1466,6 +1496,16 @@
 	)
 	(wire
 		(pts
+			(xy 97.79 151.13) (xy 97.79 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a6a4615-71e6-4b39-a17c-ac608d0659e9")
+	)
+	(wire
+		(pts
 			(xy 95.25 97.79) (xy 92.71 97.79)
 		)
 		(stroke
@@ -1526,6 +1566,16 @@
 	)
 	(wire
 		(pts
+			(xy 97.79 148.59) (xy 97.79 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6932c763-030e-46b6-85e4-2a18f9a7dfeb")
+	)
+	(wire
+		(pts
 			(xy 127 106.68) (xy 139.7 106.68)
 		)
 		(stroke
@@ -1543,6 +1593,16 @@
 			(type default)
 		)
 		(uuid "71a302a8-11a1-4f84-a9f7-8e3f39f8101a")
+	)
+	(wire
+		(pts
+			(xy 121.92 153.67) (xy 121.92 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74515ddb-486d-4a54-9fd4-3756c4904755")
 	)
 	(wire
 		(pts
@@ -1583,16 +1643,6 @@
 			(type default)
 		)
 		(uuid "8597b2ee-2b88-4107-85ae-c347ea88e997")
-	)
-	(wire
-		(pts
-			(xy 49.53 87.63) (xy 49.53 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "85a799d8-bed6-45cc-b979-91137ed1348b")
 	)
 	(wire
 		(pts
@@ -1716,13 +1766,13 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 87.63) (xy 46.99 80.01)
+			(xy 97.79 153.67) (xy 97.79 156.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cc594cdc-cdcf-4e50-8c63-2d2b9fd742f9")
+		(uuid "d0c13fe5-0984-4aba-a5d5-5e9abd16cde2")
 	)
 	(wire
 		(pts
@@ -1756,6 +1806,16 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 146.05) (xy 121.92 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dda55870-1d97-44e6-bfe9-cca77a53874a")
+	)
+	(wire
+		(pts
 			(xy 74.93 63.5) (xy 74.93 67.31)
 		)
 		(stroke
@@ -1763,16 +1823,6 @@
 			(type default)
 		)
 		(uuid "e275b4c1-323d-4b5c-a94d-beae6553e291")
-	)
-	(wire
-		(pts
-			(xy 52.07 87.63) (xy 52.07 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e54bfb00-5243-4e71-b14d-0ad53f98a7e3")
 	)
 	(wire
 		(pts
@@ -1786,7 +1836,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 80.01) (xy 57.15 80.01)
+			(xy 49.53 80.01) (xy 57.15 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1813,6 +1863,16 @@
 			(type default)
 		)
 		(uuid "ec931688-c98e-440e-9b05-787720843e5d")
+	)
+	(wire
+		(pts
+			(xy 97.79 146.05) (xy 97.79 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee4e7e3f-3ce3-47a6-81bb-a33dbdee240a")
 	)
 	(wire
 		(pts
@@ -1843,6 +1903,16 @@
 			(type default)
 		)
 		(uuid "f5baba97-bbb1-4aee-a05c-b4c9987661de")
+	)
+	(wire
+		(pts
+			(xy 121.92 151.13) (xy 121.92 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9a45344-7ec6-477d-830b-7292d005ea3b")
 	)
 	(wire
 		(pts
@@ -1913,16 +1983,6 @@
 			(justify right bottom)
 		)
 		(uuid "1e25dc21-12be-4926-a503-2ddc314dddf7")
-	)
-	(label "SDA"
-		(at 57.15 80.01 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "25ee636f-baea-477c-b8ad-9bdf82fdf978")
 	)
 	(label "B2"
 		(at 95.25 105.41 0)
@@ -2014,16 +2074,6 @@
 		)
 		(uuid "666a6200-80f8-485a-80e5-9fce9283601b")
 	)
-	(label "~{INT}"
-		(at 57.15 85.09 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "74d8048f-c54c-4723-947d-5fe51bdf4570")
-	)
 	(label "INH4"
 		(at 95.25 90.17 0)
 		(effects
@@ -2113,16 +2163,6 @@
 			(justify right bottom)
 		)
 		(uuid "b6c9e730-200f-4d92-b60b-04efc86bd013")
-	)
-	(label "SCL"
-		(at 57.15 82.55 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "bb65cf6c-14b8-4d99-9526-e106ac1e964d")
 	)
 	(label "A4"
 		(at 195.58 123.19 180)
@@ -2214,6 +2254,50 @@
 		)
 		(uuid "f3d4f231-b406-48df-8a2d-86b5167d9f54")
 	)
+	(global_label "SDA"
+		(shape input)
+		(at 49.53 80.01 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7aec588b-fe53-4b80-82a8-09e7edcacfb2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.9767 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 49.53 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c69978c9-1bc7-49c6-a0e0-663c0c09941b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.0372 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(rule_area
 		(polyline
 			(pts
@@ -2226,7 +2310,7 @@
 			(fill
 				(type none)
 			)
-			(uuid a685e025-9fff-42c8-8d73-3424fc09199c)
+			(uuid 49f7bac5-b47d-448c-a2cc-c321472a923f)
 		)
 	)
 	(rule_area
@@ -2241,7 +2325,7 @@
 			(fill
 				(type none)
 			)
-			(uuid d6272d98-c79a-4ea0-a399-d6d2392cd586)
+			(uuid d4958d6e-68a6-4d8d-b65b-6a98aa1d55f9)
 		)
 	)
 	(netclass_flag ""
@@ -2317,7 +2401,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06a76410-6b88-4110-bc51-ff9c54641033")
-		(property "Reference" "J44"
+		(property "Reference" "J38"
 			(at 121.92 97.79 0)
 			(effects
 				(font
@@ -2377,7 +2461,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "J44")
+					(reference "J38")
 					(unit 1)
 				)
 			)
@@ -2385,33 +2469,34 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
-		(at 46.99 92.71 90)
-		(mirror x)
+		(at 102.87 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "22ea08d2-3dad-4536-b45b-2c0bbc08486a")
-		(property "Reference" "J42"
-			(at 48.26 96.52 90)
+		(uuid "1bfe4426-ad28-41e8-847a-c55c4a067c51")
+		(property "Reference" "J26"
+			(at 105.41 148.5899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x04"
-			(at 48.26 99.06 90)
+			(at 105.41 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "HL_Connector_Pad_2.54mm:Pad_1x04_P2.54_1.7x1.7_Rect-Oct"
-			(at 46.99 92.71 0)
+		(property "Footprint" "HL_Connector_Pad_2.54mm:Pad_1x04_P2.54_1.7x1.7_Rect"
+			(at 102.87 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2420,7 +2505,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 46.99 92.71 0)
+			(at 102.87 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2429,7 +2514,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 46.99 92.71 0)
+			(at 102.87 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2437,97 +2522,22 @@
 				(hide yes)
 			)
 		)
-		(property "THT_LCSC" ""
-			(at 46.99 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c994d44d-0064-4518-a86e-71657cb89d32")
+		(pin "4"
+			(uuid "69ccbd64-ca3e-4f1f-94a1-24bccd473bed")
 		)
 		(pin "2"
-			(uuid "b9f9c91f-66cd-4285-af55-49c087a15fdc")
+			(uuid "898bd738-4f0b-4094-b0e3-2de1f554a929")
+		)
+		(pin "1"
+			(uuid "9a548975-e7f4-46bd-8533-e61c8fac9f8d")
 		)
 		(pin "3"
-			(uuid "bbf0bf30-8da5-45f9-adcb-3467e0213312")
-		)
-		(pin "4"
-			(uuid "fb228fde-288d-4535-b95f-2fbfa7d4476e")
+			(uuid "ac4ecbe7-0100-4da2-9e1e-d535aad59c12")
 		)
 		(instances
 			(project ""
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "J42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 39.37 87.63 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4885ed93-6a4c-4cb2-92dd-e75805b2eb93")
-		(property "Reference" "#PWR0181"
-			(at 39.37 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 39.37 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 39.37 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 39.37 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 39.37 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9cda190d-7b4e-426f-a8e5-1c84c60cdc85")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0181")
+					(reference "J26")
 					(unit 1)
 				)
 			)
@@ -2543,7 +2553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58db4dfa-3cba-4702-a916-461c26a11651")
-		(property "Reference" "#PWR0182"
+		(property "Reference" "#PWR0177"
 			(at 55.88 134.62 0)
 			(effects
 				(font
@@ -2593,7 +2603,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0182")
+					(reference "#PWR0177")
 					(unit 1)
 				)
 			)
@@ -2609,7 +2619,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "627bc60a-8dae-45eb-a746-9e4d3515db10")
-		(property "Reference" "#PWR0185"
+		(property "Reference" "#PWR0180"
 			(at 74.93 134.62 0)
 			(effects
 				(font
@@ -2659,7 +2669,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0185")
+					(reference "#PWR0180")
 					(unit 1)
 				)
 			)
@@ -2675,7 +2685,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ced44e6-ec79-4d8a-8e70-c38c6e912eb0")
-		(property "Reference" "#PWR0187"
+		(property "Reference" "#PWR0182"
 			(at 132.08 104.14 0)
 			(effects
 				(font
@@ -2725,7 +2735,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0187")
+					(reference "#PWR0182")
 					(unit 1)
 				)
 			)
@@ -2742,7 +2752,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "757934eb-6541-45ef-93db-3c8a96064370")
-		(property "Reference" "J46"
+		(property "Reference" "J40"
 			(at 181.61 97.79 0)
 			(effects
 				(font
@@ -2802,7 +2812,83 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "J46")
+					(reference "J40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 127 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "89a81297-2d08-495d-993b-802967622133")
+		(property "Reference" "J31"
+			(at 129.54 148.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x04"
+			(at 129.54 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "HL_Connector_Pad_2.54mm:Pad_1x04_P2.54_1.7x1.7_Rect"
+			(at 127 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 127 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 127 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "80e6740a-e0d8-423b-9e15-22bda83a1e4b")
+		)
+		(pin "2"
+			(uuid "b011e20b-8dd5-4740-8ea6-839df081dbd8")
+		)
+		(pin "1"
+			(uuid "9d28525f-9215-43f4-b7c8-b4913e69f83c")
+		)
+		(pin "3"
+			(uuid "693f122b-c48f-4874-9348-366107a0396f")
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
+					(reference "J31")
 					(unit 1)
 				)
 			)
@@ -2818,7 +2904,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f1380d5-2704-4ae4-8b61-978936538ab3")
-		(property "Reference" "#PWR0189"
+		(property "Reference" "#PWR0184"
 			(at 191.77 104.14 0)
 			(effects
 				(font
@@ -2868,7 +2954,73 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0189")
+					(reference "#PWR0184")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 97.79 156.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "983a611d-32b3-48b3-a1eb-8b927e1f20ad")
+		(property "Reference" "#PWR0185"
+			(at 97.79 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 97.79 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 97.79 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 97.79 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 97.79 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "120d8549-cd03-4806-b8c2-b11b7bcec1bd")
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
+					(reference "#PWR0185")
 					(unit 1)
 				)
 			)
@@ -2884,7 +3036,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a11e2c5f-1e1c-4435-8bac-1ec5f8c8cdcd")
-		(property "Reference" "#PWR0184"
+		(property "Reference" "#PWR0179"
 			(at 74.93 67.31 0)
 			(effects
 				(font
@@ -2934,7 +3086,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0184")
+					(reference "#PWR0179")
 					(unit 1)
 				)
 			)
@@ -2950,7 +3102,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a82e4e54-df42-47fb-ab13-2daff5d42edb")
-		(property "Reference" "#PWR0186"
+		(property "Reference" "#PWR0181"
 			(at 132.08 53.34 0)
 			(effects
 				(font
@@ -3000,7 +3152,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0186")
+					(reference "#PWR0181")
 					(unit 1)
 				)
 			)
@@ -3178,7 +3330,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0ec47af-647f-4de6-b137-2a0e52bd737e")
-		(property "Reference" "#PWR0274"
+		(property "Reference" "#PWR0176"
 			(at 52.07 121.92 0)
 			(effects
 				(font
@@ -3228,7 +3380,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0274")
+					(reference "#PWR0176")
 					(unit 1)
 				)
 			)
@@ -3340,7 +3492,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbc3fc18-728b-4eab-af12-e996c760dac7")
-		(property "Reference" "#PWR0183"
+		(property "Reference" "#PWR0178"
 			(at 63.5 73.66 0)
 			(effects
 				(font
@@ -3390,7 +3542,73 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0183")
+					(reference "#PWR0178")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 121.92 156.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f7e6f2df-4e49-4fbd-b291-df04fc2a1f20")
+		(property "Reference" "#PWR0199"
+			(at 121.92 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 121.92 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 121.92 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6cb8b5f1-bb56-4a17-98f5-46f3455810fc")
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
+					(reference "#PWR0199")
 					(unit 1)
 				)
 			)
@@ -3406,7 +3624,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f84bd1e5-f84f-439d-9e84-678f03c9474d")
-		(property "Reference" "#PWR0188"
+		(property "Reference" "#PWR0183"
 			(at 191.77 53.34 0)
 			(effects
 				(font
@@ -3456,7 +3674,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0188")
+					(reference "#PWR0183")
 					(unit 1)
 				)
 			)
@@ -3473,7 +3691,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa68b750-5364-4904-9a5c-b0d45060d977")
-		(property "Reference" "J43"
+		(property "Reference" "J37"
 			(at 121.92 46.99 0)
 			(effects
 				(font
@@ -3533,7 +3751,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "J43")
+					(reference "J37")
 					(unit 1)
 				)
 			)
@@ -3550,7 +3768,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc9cf663-c4ef-455f-9dcf-6597ba2e02fa")
-		(property "Reference" "J45"
+		(property "Reference" "J39"
 			(at 181.61 46.99 0)
 			(effects
 				(font
@@ -3610,7 +3828,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "J45")
+					(reference "J39")
 					(unit 1)
 				)
 			)

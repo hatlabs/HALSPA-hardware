@@ -5,7 +5,7 @@
 
 (rule "digital"
     (condition "(A.hasNetClass('Digital'))")
-    (constraint track_width (min 0.1mm) (opt 0.15mm) (max 0.3mm))
+    (constraint track_width (min 0.1mm) (opt 0.15mm))
     (constraint clearance (min 0.3mm)))
 
 ########################################################################################

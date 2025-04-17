@@ -286,6 +286,16 @@
 	)
 	(wire
 		(pts
+			(xy 140.97 71.12) (xy 137.16 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6996ccb-0dbf-40f8-a07b-ee0b72173933")
+	)
+	(wire
+		(pts
 			(xy 96.52 50.8) (xy 100.33 50.8)
 		)
 		(stroke
@@ -293,6 +303,38 @@
 			(type default)
 		)
 		(uuid "c4f49c4d-ded8-4f8f-bd42-69e818d8c18e")
+	)
+	(wire
+		(pts
+			(xy 140.97 38.1) (xy 137.16 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc1df581-3d8f-4c48-96a3-aacd814bf249")
+	)
+	(hierarchical_label "ALERT1"
+		(shape output)
+		(at 140.97 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "72a5e571-91d7-468d-b54c-3d314f58fc2d")
+	)
+	(hierarchical_label "ALERT2"
+		(shape output)
+		(at 140.97 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ae6c1aba-b366-4f5f-9f97-c303af861037")
 	)
 	(symbol
 		(lib_id "power:+3.3V")
@@ -304,7 +346,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "645db5e6-8d9b-47ff-b249-a6b69255b029")
-		(property "Reference" "#PWR0157"
+		(property "Reference" "#PWR0154"
 			(at 96.52 86.36 0)
 			(effects
 				(font
@@ -354,7 +396,7 @@
 		(instances
 			(project ""
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80"
-					(reference "#PWR0157")
+					(reference "#PWR0154")
 					(unit 1)
 				)
 			)
@@ -370,7 +412,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b6e8c6f-b1ef-4814-aecf-aa6ebeb5733b")
-		(property "Reference" "#PWR0156"
+		(property "Reference" "#PWR0153"
 			(at 96.52 58.42 0)
 			(effects
 				(font
@@ -420,7 +462,7 @@
 		(instances
 			(project ""
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80"
-					(reference "#PWR0156")
+					(reference "#PWR0153")
 					(unit 1)
 				)
 			)
@@ -468,6 +510,16 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "ALERT{slash}RDY" output
+			(at 137.16 71.12 0)
+			(uuid "b675dfd0-3404-447b-b3ff-c9e5517ea8d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -520,6 +572,16 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "ALERT{slash}RDY" output
+			(at 137.16 38.1 0)
+			(uuid "71b8de9e-4bf4-406f-8316-32f242b0234c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
