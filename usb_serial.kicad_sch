@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "fd65b210-ffd1-476d-a8db-8e8c9e59478d")
 	(paper "A4")
+	(title_block
+		(title "HALSPA - Hat Labs Spaghetti Board")
+		(date "2025-04-17")
+		(rev "v0.2.0")
+		(company "Hat Labs Oy")
+		(comment 1 "See the accompanying LICENSE.md file for license details.")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x04_Odd_Even"
 			(pin_names
@@ -2638,21 +2645,6 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 107.95 67.31) (xy 107.95 72.39) (xy 105.41 72.39) (xy 105.41 67.31)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 56a6dc33-7bb3-4c37-a093-bc698b35fe7f)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
 				(xy 72.39 74.93) (xy 69.85 74.93) (xy 69.85 80.01) (xy 72.39 80.01)
 			)
 			(stroke
@@ -2662,7 +2654,7 @@
 			(fill
 				(type none)
 			)
-			(uuid cd7492a2-f51b-4e0d-92df-998a5b92b040)
+			(uuid 19212e9e-0888-4174-8f35-0ade4ecb14bd)
 		)
 	)
 	(rule_area
@@ -2677,7 +2669,22 @@
 			(fill
 				(type none)
 			)
-			(uuid f6b372c4-c12f-4d6b-a276-cae251a35688)
+			(uuid 5419846e-1bc7-4ae6-83a9-c76d72bbf812)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 107.95 67.31) (xy 107.95 72.39) (xy 105.41 72.39) (xy 105.41 67.31)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid a365422a-b9ed-4610-be7c-3e33647926a4)
 		)
 	)
 	(netclass_flag ""

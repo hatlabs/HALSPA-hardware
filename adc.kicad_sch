@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "7e4a9a70-d428-4609-87b6-04a5a41148e8")
 	(paper "A4")
+	(title_block
+		(title "HALSPA - Hat Labs Spaghetti Board")
+		(date "2025-04-17")
+		(rev "v0.2.0")
+		(company "Hat Labs Oy")
+		(comment 1 "See the accompanying LICENSE.md file for license details.")
+	)
 	(lib_symbols
 		(symbol "power:+3.3V"
 			(power)

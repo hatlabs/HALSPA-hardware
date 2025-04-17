@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "21e4e213-f5a3-4fc8-a88f-b4ec45ce85af")
 	(paper "A4")
+	(title_block
+		(title "HALSPA - Hat Labs Spaghetti Board")
+		(date "2025-04-17")
+		(rev "v0.2.0")
+		(company "Hat Labs Oy")
+		(comment 1 "See the accompanying LICENSE.md file for license details.")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
@@ -2310,7 +2317,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 9b4b06a4-824d-4e40-b9aa-7a9917a9b38b)
+			(uuid 1f585578-c5f3-4dc2-8207-ba04e3450a6c)
 		)
 	)
 	(rule_area
@@ -2325,7 +2332,7 @@
 			(fill
 				(type none)
 			)
-			(uuid a95f7598-e707-4bb1-b352-d71cdaed6c14)
+			(uuid 43350551-52c0-417b-9de9-43dd600b8125)
 		)
 	)
 	(netclass_flag ""
