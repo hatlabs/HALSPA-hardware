@@ -2398,7 +2398,7 @@
 			(fill
 				(type none)
 			)
-			(uuid f9f7261e-2cdb-4ba8-bca0-3c2ee60791dd)
+			(uuid 4c8a678c-1c5f-4cf0-b30d-985614454507)
 		)
 	)
 	(netclass_flag ""
@@ -2509,7 +2509,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e867e4a-8e78-4460-a370-8cbb5fdfebb6")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR014"
 			(at 77.47 95.25 0)
 			(effects
 				(font
@@ -2559,7 +2559,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7"
-					(reference "#PWR013")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -2957,6 +2957,15 @@
 				)
 			)
 		)
+		(property "LCSC" "C7501275"
+			(at 31.75 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "c164ff68-2c16-411c-ab8d-2375075eccb5")
 		)
@@ -3149,7 +3158,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "674f33f9-01e5-4a74-a184-81b840b5e76a")
-		(property "Reference" "J5"
+		(property "Reference" "J6"
 			(at 83.82 78.74 0)
 			(effects
 				(font
@@ -3215,7 +3224,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7"
-					(reference "J5")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -3297,7 +3306,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d34f33c-69e1-4a76-9755-fb811e285bfd")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR015"
 			(at 90.17 83.82 0)
 			(effects
 				(font
@@ -3347,7 +3356,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7"
-					(reference "#PWR014")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -3431,7 +3440,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75685f07-75d6-4e02-a69e-e0a259a89344")
-		(property "Reference" "J50"
+		(property "Reference" "J5"
 			(at 57.15 100.33 0)
 			(effects
 				(font
@@ -3474,6 +3483,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C492407"
+			(at 57.15 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "8b106112-2601-45c2-a16e-077fbe56ba7f")
 		)
@@ -3501,7 +3519,7 @@
 		(instances
 			(project ""
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7"
-					(reference "J50")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -3584,7 +3602,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88ec2130-4169-4521-acc0-dc75ebfaa46d")
-		(property "Reference" "#PWR0218"
+		(property "Reference" "#PWR013"
 			(at 67.31 105.41 0)
 			(effects
 				(font
@@ -3634,7 +3652,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7"
-					(reference "#PWR0218")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -3845,6 +3863,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" "C7501275"
+			(at 57.15 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "3"
