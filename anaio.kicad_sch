@@ -2317,7 +2317,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 1f585578-c5f3-4dc2-8207-ba04e3450a6c)
+			(uuid 4c19be4f-b6f6-4649-a802-1c2f57895be5)
 		)
 	)
 	(rule_area
@@ -2332,7 +2332,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 43350551-52c0-417b-9de9-43dd600b8125)
+			(uuid 50911269-e73d-4930-8699-116b5b930402)
 		)
 	)
 	(netclass_flag ""
@@ -2468,6 +2468,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_CORRECTION" "0;1.27;270"
+			(at 121.92 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "95eaf1bd-ea75-4de7-b8ae-1f7e3919c98d")
 		)
@@ -2539,6 +2548,15 @@
 			)
 		)
 		(property "LCSC" "C2691448"
+			(at 102.87 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;3.81;270"
 			(at 102.87 148.59 0)
 			(effects
 				(font
@@ -2837,6 +2855,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_CORRECTION" "0;1.27;270"
+			(at 181.61 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f4940cd4-c7d3-4c4d-85a4-5014c76c50c2")
 		)
@@ -2908,6 +2935,15 @@
 			)
 		)
 		(property "LCSC" "C2691448"
+			(at 127 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;3.81;270"
 			(at 127 148.59 0)
 			(effects
 				(font
@@ -3238,7 +3274,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410010333_UMW-Youtai-Semiconductor-Co---Ltd--TCA9535PWR-UMW_C22396388.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tca9535.pdf"
 			(at 62.23 77.47 0)
 			(effects
 				(font
@@ -3256,7 +3292,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22396388"
+		(property "LCSC" "C130204"
 			(at 74.93 100.33 0)
 			(effects
 				(font
@@ -3794,6 +3830,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_CORRECTION" "0;1.27;270"
+			(at 121.92 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "00a1ef98-a5d9-4c38-b809-a56b1831d4c7")
 		)
@@ -3872,6 +3917,15 @@
 			)
 		)
 		(property "LCSC" "C492401"
+			(at 181.61 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;1.27;270"
 			(at 181.61 53.34 0)
 			(effects
 				(font

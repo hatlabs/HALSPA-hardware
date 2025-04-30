@@ -1886,6 +1886,14 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_CORRECTION" "0;8.89;270"
+			(at 120.65 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b4d9629c-2200-44fd-af3a-a60e10851c85")
 		)

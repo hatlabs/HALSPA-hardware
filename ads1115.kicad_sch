@@ -2166,7 +2166,7 @@
 		(at 91.44 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "0de67222-8a62-482c-afb7-fdcb763d01a5")
@@ -2331,7 +2331,7 @@
 		(at 69.85 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "13f5f62c-6c7c-45ae-a1ac-bd926066e03a")
@@ -2514,7 +2514,7 @@
 		(at 113.03 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "195ae72f-6f90-44a5-8b05-95c0776ea307")
@@ -2904,7 +2904,7 @@
 		(at 134.62 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "4ae1d4a4-485b-4809-8d1b-436286dac174")
@@ -3552,6 +3552,15 @@
 			)
 		)
 		(property "LCSC" "C492404"
+			(at 44.45 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;5.08;270"
 			(at 44.45 77.47 0)
 			(effects
 				(font
