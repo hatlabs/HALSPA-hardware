@@ -5764,6 +5764,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_CORRECTION" "0;24.13;270"
+			(at 171.45 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "df99d5f1-4471-4bd4-b487-9ef038330506")
 		)
@@ -5852,7 +5861,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x20"
+		(property "Value" "Socket_01x20"
 			(at 93.98 67.31 0)
 			(effects
 				(font
@@ -5896,6 +5905,15 @@
 			)
 		)
 		(property "LCSC" "C2905423"
+			(at 93.98 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;24.13;270"
 			(at 93.98 96.52 0)
 			(effects
 				(font
@@ -6202,7 +6220,16 @@
 				)
 			)
 		)
-		(property "LCSC§" "C50981"
+		(property "LCSC" "C50981"
+			(at 90.17 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;24.13;270"
 			(at 90.17 96.52 0)
 			(effects
 				(font
@@ -6298,7 +6325,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x20"
+		(property "Value" "Socket_01x20"
 			(at 167.64 67.31 0)
 			(effects
 				(font
@@ -6342,6 +6369,15 @@
 			)
 		)
 		(property "LCSC" "C2905423"
+			(at 167.64 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;24.13;270"
 			(at 167.64 96.52 0)
 			(effects
 				(font
@@ -6566,6 +6602,15 @@
 			)
 		)
 		(property "LCSC" "C50981"
+			(at 196.85 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;24.13;270"
 			(at 196.85 96.52 0)
 			(effects
 				(font
@@ -8589,6 +8634,15 @@
 			)
 		)
 		(property "LCSC" "C50981"
+			(at 64.77 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;24.13;270"
 			(at 64.77 96.52 0)
 			(effects
 				(font

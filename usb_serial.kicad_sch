@@ -2654,22 +2654,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 19212e9e-0888-4174-8f35-0ade4ecb14bd)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 139.7 52.07) (xy 181.61 52.07) (xy 181.61 102.87) (xy 139.7 102.87)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 5419846e-1bc7-4ae6-83a9-c76d72bbf812)
+			(uuid 1ae5b9a4-8571-4cfe-98aa-f2bb3d61ff28)
 		)
 	)
 	(rule_area
@@ -2684,7 +2669,22 @@
 			(fill
 				(type none)
 			)
-			(uuid a365422a-b9ed-4610-be7c-3e33647926a4)
+			(uuid 91975602-1391-4b65-87b4-412c3c6536c6)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 139.7 52.07) (xy 181.61 52.07) (xy 181.61 102.87) (xy 139.7 102.87)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 9f9bf095-8638-45d1-85c3-688b132e55e1)
 		)
 	)
 	(netclass_flag ""
@@ -2841,7 +2841,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB_CORRECTION" "1.3;0.5;0"
+		(property "JLCPCB_CORRECTION" ""
 			(at 53.34 76.2 0)
 			(effects
 				(font
@@ -3492,6 +3492,15 @@
 			)
 		)
 		(property "LCSC" "C7501275"
+			(at 238.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "1.27;3.81;270"
 			(at 238.76 77.47 0)
 			(effects
 				(font

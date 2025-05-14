@@ -2960,7 +2960,7 @@
 		(at 157.48 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3020,6 +3020,15 @@
 			)
 		)
 		(property "THT_LCSC" ""
+			(at 157.48 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;0;90"
 			(at 157.48 115.57 0)
 			(effects
 				(font
@@ -3247,7 +3256,7 @@
 		(at 157.48 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3307,6 +3316,15 @@
 			)
 		)
 		(property "THT_LCSC" ""
+			(at 157.48 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;0;90"
 			(at 157.48 52.07 0)
 			(effects
 				(font
@@ -3512,7 +3530,7 @@
 		(at 62.23 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3572,6 +3590,15 @@
 			)
 		)
 		(property "THT_LCSC" ""
+			(at 62.23 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;0;90"
 			(at 62.23 115.57 0)
 			(effects
 				(font
@@ -3953,6 +3980,15 @@
 			)
 		)
 		(property "LCSC" "C492404"
+			(at 250.19 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;5.08;270"
 			(at 250.19 90.17 0)
 			(effects
 				(font
@@ -4830,7 +4866,6 @@
 		)
 		(property "Value" "Conn_01x05"
 			(at 33.02 92.7099 0)
-			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4874,6 +4909,15 @@
 			)
 		)
 		(property "LCSC" "C492404"
+			(at 35.56 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;5.08;270"
 			(at 35.56 90.17 0)
 			(effects
 				(font
@@ -5915,7 +5959,7 @@
 		(at 62.23 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5975,6 +6019,15 @@
 			)
 		)
 		(property "THT_LCSC" ""
+			(at 62.23 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;0;90"
 			(at 62.23 52.07 0)
 			(effects
 				(font

@@ -7070,7 +7070,7 @@
 		(at 128.27 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c3b24207-7228-4c36-9c24-b70da8be30d6")
@@ -7303,6 +7303,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_CORRECTION" "0;1.27;270"
+			(at 205.74 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b37f5579-817e-48d3-9d7c-d8abc1cac4f0")
 		)
@@ -7485,6 +7494,15 @@
 			)
 		)
 		(property "LCSC" "C2937625"
+			(at 205.74 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;2.54;270"
 			(at 205.74 36.83 0)
 			(effects
 				(font

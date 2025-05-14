@@ -564,6 +564,8 @@
         "schematic_color": "rgb(255, 141, 141)"
       },
       {
+        "diff_pair_gap": 0.2,
+        "diff_pair_width": 0.2182,
         "name": "Diff90ohm",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2,
@@ -816,6 +818,18 @@
       "/UEN": [
         "Digital"
       ],
+      "/USB connector/D+": [
+        "Diff90ohm"
+      ],
+      "/USB connector/D-": [
+        "Diff90ohm"
+      ],
+      "/USB connector/MHL+": [
+        "Diff90ohm"
+      ],
+      "/USB connector/MHL-": [
+        "Diff90ohm"
+      ],
       "/USB connector/VBUS": [
         "Power"
       ],
@@ -1025,18 +1039,6 @@
           "label": "LCSC",
           "name": "LCSC",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "LCSC Part",
-          "name": "LCSC Part",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "LCSC§",
-          "name": "LCSC§",
-          "show": false
         },
         {
           "group_by": false,

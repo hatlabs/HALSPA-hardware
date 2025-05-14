@@ -4082,6 +4082,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_CORRECTION" "0;3.81;270"
+			(at 210.82 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "c7af729f-3bcb-478c-a7c0-f34e7114de42")
 		)
@@ -4643,6 +4652,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_CORRECTION" "0;8.89;270"
+			(at 180.34 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5cf2b9fe-168f-4f5d-86d8-1e486afc040e")
 		)
@@ -4872,6 +4890,15 @@
 			)
 		)
 		(property "LCSC" "C492407"
+			(at 180.34 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;8.89;270"
 			(at 180.34 119.38 0)
 			(effects
 				(font
@@ -5352,7 +5379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410010333_UMW-Youtai-Semiconductor-Co---Ltd--TCA9535PWR-UMW_C22396388.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tca9535.pdf"
 			(at 78.74 109.22 0)
 			(effects
 				(font
@@ -5370,7 +5397,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22396388"
+		(property "LCSC" "C130204"
 			(at 93.5833 162.56 0)
 			(effects
 				(font
@@ -5778,7 +5805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410010333_UMW-Youtai-Semiconductor-Co---Ltd--TCA9535PWR-UMW_C22396388.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tca9535.pdf"
 			(at 78.74 31.75 0)
 			(effects
 				(font
@@ -5796,7 +5823,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22396388"
+		(property "LCSC" "C130204"
 			(at 91.44 54.61 0)
 			(effects
 				(font
@@ -6051,6 +6078,15 @@
 			)
 		)
 		(property "LCSC" "C492407"
+			(at 180.34 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;8.89;270"
 			(at 180.34 64.77 0)
 			(effects
 				(font
@@ -6561,6 +6597,15 @@
 			)
 		)
 		(property "LCSC" "C2691448"
+			(at 210.82 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;3.81;270"
 			(at 210.82 129.54 0)
 			(effects
 				(font
@@ -7206,6 +7251,15 @@
 			)
 		)
 		(property "LCSC" "C492407"
+			(at 180.34 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;8.89;270"
 			(at 180.34 41.91 0)
 			(effects
 				(font

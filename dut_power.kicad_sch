@@ -5891,7 +5891,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 62b7e8d4-d36d-4a96-8417-9f3370e6dab0)
+			(uuid 3123d17c-abb1-454f-abad-6893228a0ce1)
 		)
 	)
 	(rule_area
@@ -5906,7 +5906,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 6ab69fdc-a919-4a12-8161-a0036dec0eb0)
+			(uuid a2e48bfc-39fe-4e35-a98d-10c3a873b8dc)
 		)
 	)
 	(netclass_flag ""
@@ -6592,7 +6592,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2986059"
+		(property "LCSC" "C84267"
 			(at 113.03 138.43 0)
 			(effects
 				(font
@@ -6705,7 +6705,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2986059"
+		(property "LCSC" "C84267"
 			(at 153.67 138.43 0)
 			(effects
 				(font
@@ -7021,6 +7021,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_CORRECTION" "1.27;3.81;270"
+			(at 66.04 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "7c822202-76c4-4bf7-b924-1011e3d273f9")
 		)
@@ -7240,7 +7249,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2986059"
+		(property "LCSC" "C84267"
 			(at 163.83 138.43 0)
 			(effects
 				(font
@@ -7433,14 +7442,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 144.78 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "Field8" ""
@@ -7667,6 +7668,15 @@
 			)
 		)
 		(property "LCSC" "C7501275"
+			(at 45.72 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "1.27;3.81;270"
 			(at 45.72 127 0)
 			(effects
 				(font
@@ -8187,14 +8197,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 166.37 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Field8" ""
 			(at 166.37 27.94 0)
 			(effects
@@ -8393,7 +8395,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2986059"
+		(property "LCSC" "C84267"
 			(at 133.35 138.43 0)
 			(effects
 				(font
@@ -8506,7 +8508,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2986059"
+		(property "LCSC" "C84267"
 			(at 104.14 138.43 0)
 			(effects
 				(font
@@ -8636,14 +8638,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 156.21 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "Field8" ""
@@ -9828,14 +9822,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 134.62 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Field8" ""
 			(at 134.62 27.94 0)
 			(effects
@@ -10553,7 +10539,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2986059"
+		(property "LCSC" "C84267"
 			(at 60.96 171.45 0)
 			(effects
 				(font
@@ -10854,7 +10840,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2986059"
+		(property "LCSC" "C84267"
 			(at 31.75 171.45 0)
 			(effects
 				(font
@@ -10983,14 +10969,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 110.49 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "Field8" ""
@@ -11372,7 +11350,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2986059"
+		(property "LCSC" "C84267"
 			(at 123.19 138.43 0)
 			(effects
 				(font
@@ -11795,7 +11773,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2986059"
+		(property "LCSC" "C84267"
 			(at 93.98 138.43 0)
 			(effects
 				(font
@@ -12267,14 +12245,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 161.29 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Field8" ""
 			(at 161.29 36.83 0)
 			(effects
@@ -12720,7 +12690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410010333_UMW-Youtai-Semiconductor-Co---Ltd--TCA9535PWR-UMW_C22396388.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tca9535.pdf"
 			(at 143.51 59.69 0)
 			(effects
 				(font
@@ -12738,7 +12708,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22396388"
+		(property "LCSC" "C130204"
 			(at 156.21 82.55 0)
 			(effects
 				(font
@@ -12907,6 +12877,15 @@
 			)
 		)
 		(property "LCSC" "C7501275"
+			(at 25.4 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "1.27;3.81;270"
 			(at 25.4 127 0)
 			(effects
 				(font
@@ -13880,7 +13859,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2986059"
+		(property "LCSC" "C84267"
 			(at 143.51 138.43 0)
 			(effects
 				(font
@@ -14123,7 +14102,7 @@
 		(at 33.02 25.4 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14182,7 +14161,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB_CORRECTION" ""
+		(property "JLCPCB_CORRECTION" "1.905;0;0"
 			(at 33.02 25.4 0)
 			(effects
 				(font
@@ -15008,7 +14987,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2986059"
+		(property "LCSC" "C84267"
 			(at 45.72 171.45 0)
 			(effects
 				(font
@@ -15785,14 +15764,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
-			(at 123.19 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "Field8" ""
