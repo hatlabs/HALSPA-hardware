@@ -2,5 +2,5 @@
 
 This repository contains the PCB design files of the HALSPA.
 HALSPA is a board designed for creating PCB test fixtures. It acts as a
-functional glue between a device under test (DUT) and test controllers
-including MCUs and a Raspberry Pi.
+Raspberry Pi Pico 2 -powered functional glue between a device under test (DUT)
+and test controllers running a Raspberry Pi.
