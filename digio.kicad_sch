@@ -1536,6 +1536,46 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "0x22"
+		(exclude_from_sim no)
+		(at 55.88 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0115ca3c-e505-4f65-9d27-55de04358e0b")
+	)
+	(text "DIGEXP2"
+		(exclude_from_sim no)
+		(at 55.88 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "04d9ce99-12a1-4bbc-9715-c772aa78fd95")
+	)
+	(text "DIGEXP1"
+		(exclude_from_sim no)
+		(at 55.88 132.08 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "372f7b61-cd45-4b93-8b3f-d0281eb6984b")
+	)
+	(text "0x23"
+		(exclude_from_sim no)
+		(at 55.88 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e2e814e1-61f6-470d-8953-b14407db5e33")
+	)
 	(junction
 		(at 205.74 53.34)
 		(diameter 0)
@@ -2218,7 +2258,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 149.86) (xy 73.66 149.86)
+			(xy 62.23 149.86) (xy 73.66 149.86)
 		)
 		(stroke
 			(width 0)
@@ -6393,7 +6433,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 60.96 149.86 0)
+		(at 62.23 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6402,7 +6442,7 @@
 		(fields_autoplaced yes)
 		(uuid "a35ffcd0-b37c-4978-95ff-11624fea5657")
 		(property "Reference" "#PWR0152"
-			(at 60.96 153.67 0)
+			(at 62.23 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6411,7 +6451,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 60.96 144.78 0)
+			(at 62.23 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6419,7 +6459,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 149.86 0)
+			(at 62.23 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6428,7 +6468,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 149.86 0)
+			(at 62.23 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6437,7 +6477,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 60.96 149.86 0)
+			(at 62.23 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
