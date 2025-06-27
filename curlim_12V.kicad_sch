@@ -3454,7 +3454,7 @@
 		)
 		(uuid "bc9aacf7-b3ba-4524-a16b-f5a48f4e21c2")
 	)
-	(text "INA199A1 amplification is 50x"
+	(text "INA199A1 amplification is 50x.\nAdjust V_{CV-} to 0.5 V/A  * Imax."
 		(exclude_from_sim no)
 		(at 101.6 74.168 0)
 		(effects
@@ -3562,6 +3562,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7a380250-633d-414d-be0f-c513918c97b9")
+	)
+	(junction
+		(at 204.47 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "82793f1e-7c07-41a3-b7e5-7f458522e59c")
 	)
 	(junction
 		(at 114.3 43.18)
@@ -3710,6 +3716,16 @@
 			(type default)
 		)
 		(uuid "1824ce16-347d-4027-9c5a-66704cc6a344")
+	)
+	(wire
+		(pts
+			(xy 194.31 115.57) (xy 196.85 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18eca2ec-b32a-454e-89b6-4ca484134d3f")
 	)
 	(wire
 		(pts
@@ -3863,6 +3879,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 115.57) (xy 204.47 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5eb66fd9-d957-403a-946d-1b07685335b3")
+	)
+	(wire
+		(pts
 			(xy 243.84 97.79) (xy 224.79 97.79)
 		)
 		(stroke
@@ -3953,16 +3979,6 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 90.17) (xy 224.79 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76fe12d3-ca65-47f4-941a-0de8e0e0bdbc")
-	)
-	(wire
-		(pts
 			(xy 198.12 34.29) (xy 200.66 34.29)
 		)
 		(stroke
@@ -4010,6 +4026,16 @@
 			(type default)
 		)
 		(uuid "8799920e-ab3f-42b2-af2e-0367358a6bfa")
+	)
+	(wire
+		(pts
+			(xy 204.47 115.57) (xy 204.47 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89a9c8ea-279d-46e3-a352-b568682a800e")
 	)
 	(wire
 		(pts
@@ -4070,6 +4096,16 @@
 			(type default)
 		)
 		(uuid "92ac742a-89c4-4ee2-9c8d-bb09c02a7daa")
+	)
+	(wire
+		(pts
+			(xy 204.47 115.57) (xy 220.98 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94e91e7f-f87d-4f06-af8a-e296289f8f38")
 	)
 	(wire
 		(pts
@@ -4193,6 +4229,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 124.46) (xy 204.47 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9544f58-d85a-45cc-aab1-aa7b73d988e6")
+	)
+	(wire
+		(pts
 			(xy 49.53 132.08) (xy 49.53 135.89)
 		)
 		(stroke
@@ -4303,6 +4349,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 90.17) (xy 226.06 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed63bebf-b0d5-4352-bda4-3f3a4f946acf")
+	)
+	(wire
+		(pts
 			(xy 64.77 157.48) (xy 64.77 161.29)
 		)
 		(stroke
@@ -4310,6 +4366,16 @@
 			(type default)
 		)
 		(uuid "f1bc006a-1822-4844-bf64-441d440b8380")
+	)
+	(wire
+		(pts
+			(xy 220.98 90.17) (xy 220.98 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2020e31-3816-40f7-88a2-43425dc649ff")
 	)
 	(wire
 		(pts
@@ -4362,7 +4428,7 @@
 		(uuid "fc402d3c-25e5-4ad6-8374-3d0d41b1d26c")
 	)
 	(label "FAULT"
-		(at 224.79 90.17 180)
+		(at 194.31 115.57 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4510,6 +4576,16 @@
 			(justify left bottom)
 		)
 		(uuid "c54add1a-dc7a-44d1-870c-9c40c7111c2e")
+	)
+	(label "FAULT_F"
+		(at 209.55 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d2f1cce4-5256-4800-bdf3-2dfe48c84591")
 	)
 	(label "FAULT"
 		(at 163.83 58.42 180)
@@ -5015,6 +5091,107 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 204.47 121.92 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "32c33d9e-3c45-4f86-819b-b1f4220eb900")
+		(property "Reference" "C67"
+			(at 207.01 120.6562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1uF"
+			(at 207.01 123.1962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 204.47 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 204.47 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 204.47 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C15849"
+			(at 204.47 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Characteristics" ""
+			(at 204.47 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "THT_LCSC" ""
+			(at 204.47 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c93c8da2-567b-4673-ba0f-c7bff80945bf")
+		)
+		(pin "1"
+			(uuid "5a70040a-b403-4e08-95ec-6c3ed6bcfcb2")
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/bdd06149-f2cd-411d-9834-295c431deac0"
+					(reference "C67")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/e3bbb823-378e-479b-b487-992af39023d2"
+					(reference "C68")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 233.68 124.46 0)
 		(mirror y)
@@ -5222,6 +5399,87 @@
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/e3bbb823-378e-479b-b487-992af39023d2"
 					(reference "#PWR0144")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 199.39 115.57 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "368ae462-4922-47c1-bc6a-2b6c0335e65b")
+		(property "Reference" "R189"
+			(at 199.39 110.49 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 199.39 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 199.39 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 199.39 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 199.39 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 199.39 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aefb01bb-6fff-4925-b469-0e00337e1c44")
+		)
+		(pin "2"
+			(uuid "2665143d-7556-4b05-8fbe-40f883131be2")
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/bdd06149-f2cd-411d-9834-295c431deac0"
+					(reference "R189")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/e3bbb823-378e-479b-b487-992af39023d2"
+					(reference "R190")
 					(unit 1)
 				)
 			)
@@ -5619,6 +5877,77 @@
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/e3bbb823-378e-479b-b487-992af39023d2"
 					(reference "U17")
 					(unit 5)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 204.47 129.54 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5fdec73c-26c9-4be5-8cb5-ae3595590ac0")
+		(property "Reference" "#PWR0273"
+			(at 204.47 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 204.47 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 204.47 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 204.47 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8ed91352-fb83-48f6-8647-f88dfade1c03")
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/bdd06149-f2cd-411d-9834-295c431deac0"
+					(reference "#PWR0273")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/e3bbb823-378e-479b-b487-992af39023d2"
+					(reference "#PWR0274")
+					(unit 1)
 				)
 			)
 		)
@@ -7170,7 +7499,7 @@
 		(dnp no)
 		(uuid "d282450e-3baa-4c64-ae11-839fb38681a6")
 		(property "Reference" "J19"
-			(at 139.7 74.93 0)
+			(at 144.78 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7178,7 +7507,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 139.7 77.47 0)
+			(at 148.59 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)

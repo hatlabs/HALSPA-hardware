@@ -4744,7 +4744,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3db851aa-03f1-4316-9674-b88df9f2c93d")
-		(property "Reference" "#PWR0153"
+		(property "Reference" "#PWR0152"
 			(at 62.23 71.12 0)
 			(effects
 				(font
@@ -4794,7 +4794,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "#PWR0153")
+					(reference "#PWR0152")
 					(unit 1)
 				)
 			)
@@ -6441,7 +6441,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a35ffcd0-b37c-4978-95ff-11624fea5657")
-		(property "Reference" "#PWR0152"
+		(property "Reference" "#PWR0153"
 			(at 62.23 153.67 0)
 			(effects
 				(font
@@ -6491,7 +6491,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "#PWR0152")
+					(reference "#PWR0153")
 					(unit 1)
 				)
 			)
