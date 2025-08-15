@@ -636,10 +636,46 @@
       "/AAL2": [
         "Digital"
       ],
+      "/Analog IO/A0_1": [
+        "Digital"
+      ],
+      "/Analog IO/A0_2": [
+        "Digital"
+      ],
+      "/Analog IO/A0_3": [
+        "Digital"
+      ],
+      "/Analog IO/A0_4": [
+        "Digital"
+      ],
       "/Analog IO/A1": [
         "Digital"
       ],
+      "/Analog IO/A1_1": [
+        "Digital"
+      ],
+      "/Analog IO/A1_2": [
+        "Digital"
+      ],
+      "/Analog IO/A1_3": [
+        "Digital"
+      ],
+      "/Analog IO/A1_4": [
+        "Digital"
+      ],
       "/Analog IO/A2": [
+        "Digital"
+      ],
+      "/Analog IO/A2_1": [
+        "Digital"
+      ],
+      "/Analog IO/A2_2": [
+        "Digital"
+      ],
+      "/Analog IO/A2_3": [
+        "Digital"
+      ],
+      "/Analog IO/A2_4": [
         "Digital"
       ],
       "/Analog IO/A3": [
@@ -647,6 +683,18 @@
       ],
       "/Analog IO/A4": [
         "Digital"
+      ],
+      "/Analog IO/Analog MUX 1/VDD": [
+        "Power"
+      ],
+      "/Analog IO/Analog MUX 2/VDD": [
+        "Power"
+      ],
+      "/Analog IO/Analog MUX 3/VDD": [
+        "Power"
+      ],
+      "/Analog IO/Analog MUX 4/VDD": [
+        "Power"
       ],
       "/Analog IO/B1": [
         "Digital"
@@ -688,6 +736,18 @@
         "Digital"
       ],
       "/Analog IO/SDA": [
+        "Digital"
+      ],
+      "/Analog IO/~{EN_1}": [
+        "Digital"
+      ],
+      "/Analog IO/~{EN_2}": [
+        "Digital"
+      ],
+      "/Analog IO/~{EN_3}": [
+        "Digital"
+      ],
+      "/Analog IO/~{EN_4}": [
         "Digital"
       ],
       "/Analog IO/~{INT}": [
