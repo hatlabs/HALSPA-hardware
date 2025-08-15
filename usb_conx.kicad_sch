@@ -3151,7 +3151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HL_Connector_USB:MICRO-USB-SMD_MICRO-21-P2-T3"
+		(property "Footprint" "HL_Connector_USB:MICRO-USB-SMD_MICROXNJ"
 			(at 114.3 76.2 0)
 			(effects
 				(font
@@ -3178,7 +3178,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2834965"
+		(property "LCSC" "C404969"
 			(at 110.49 74.93 0)
 			(effects
 				(font
