@@ -8120,7 +8120,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e9e86e1c-2156-4c9f-965e-e29fd6d8ed30")
-		(property "Reference" "J106"
+		(property "Reference" "J1106"
 			(at 166.37 78.74 0)
 			(effects
 				(font
@@ -8171,7 +8171,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/0857553c-a85e-4345-93e2-1af8db70e954"
-					(reference "J106")
+					(reference "J1106")
 					(unit 1)
 				)
 			)
@@ -8489,7 +8489,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f9090880-8336-4037-8d2e-8608904a1a71")
-		(property "Reference" "J107"
+		(property "Reference" "J1107"
 			(at 166.37 81.28 0)
 			(effects
 				(font
@@ -8540,7 +8540,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/0857553c-a85e-4345-93e2-1af8db70e954"
-					(reference "J107")
+					(reference "J1107")
 					(unit 1)
 				)
 			)
