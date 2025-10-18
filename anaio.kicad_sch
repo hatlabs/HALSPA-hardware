@@ -6,356 +6,14 @@
 	(paper "A4")
 	(title_block
 		(title "HALSPA - Hat Labs Spaghetti Board")
-		(date "2025-08-15")
-		(rev "v0.3.0")
+		(date "2025-10-17")
+		(rev "v0.4.0")
 		(company "Hat Labs Oy")
 		(comment 1 "https://ohwr.org/cern_ohl_s_v2.pdf")
 		(comment 2 "To view a copy of this license, visit ")
 		(comment 3 "HALSPA is licensed under CERN-OHL-S v2.")
 	)
 	(lib_symbols
-		(symbol "Connector_Generic:Conn_01x02"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x02"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x02_1_1"
-				(rectangle
-					(start -1.27 1.27)
-					(end 1.27 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Connector_Generic:Conn_01x04"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x04"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x04_1_1"
-				(rectangle
-					(start -1.27 3.81)
-					(end 1.27 -6.35)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -4.953)
-					(end 0 -5.207)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 3.81)
-					(name "Pin_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
@@ -1252,46 +910,10 @@
 		(uuid "e502052a-1719-480e-b746-0561914a74e5")
 	)
 	(junction
-		(at 121.92 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "54baf9a4-5e23-4651-a668-838f01ecf41f")
-	)
-	(junction
-		(at 121.92 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8354eb5f-352d-4821-95a1-aeff3620e4e2")
-	)
-	(junction
-		(at 97.79 148.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "835e0a6b-5b44-4a41-be5e-6ff18e948d5f")
-	)
-	(junction
-		(at 97.79 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "966fcca3-429a-44eb-b9b0-1fab9fd8538a")
-	)
-	(junction
 		(at 55.88 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a7ceb89b-f5ec-4f4f-a6a4-06ab8adb42bd")
-	)
-	(junction
-		(at 97.79 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b741aec3-c1aa-471e-9267-3249dfcb32b6")
-	)
-	(junction
-		(at 121.92 148.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d21fb463-7a71-4faf-ba5e-4619337513bd")
 	)
 	(junction
 		(at 74.93 67.31)
@@ -1315,16 +937,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 46.99) (xy 186.69 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1341362e-d641-4883-8e58-76bc94739e0c")
-	)
-	(wire
-		(pts
 			(xy 135.89 74.93) (xy 139.7 74.93)
 		)
 		(stroke
@@ -1342,16 +954,6 @@
 			(type default)
 		)
 		(uuid "1bcfa924-957c-43d5-87e3-4469954f088e")
-	)
-	(wire
-		(pts
-			(xy 127 46.99) (xy 127 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e227ef5-0dbd-4caa-9d79-ce5360d1fcba")
 	)
 	(wire
 		(pts
@@ -1382,16 +984,6 @@
 			(type default)
 		)
 		(uuid "24ff36e7-9702-430a-a0b3-f9f996e5d78c")
-	)
-	(wire
-		(pts
-			(xy 121.92 148.59) (xy 121.92 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2917021f-19a9-4847-8548-be0e87c51fb6")
 	)
 	(wire
 		(pts
@@ -1432,16 +1024,6 @@
 			(type default)
 		)
 		(uuid "3b34034c-80fd-4c32-8062-e59be10eab7f")
-	)
-	(wire
-		(pts
-			(xy 186.69 97.79) (xy 186.69 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d6bc73e-ad8e-41a7-871f-7e11457c492f")
 	)
 	(wire
 		(pts
@@ -1492,26 +1074,6 @@
 			(type default)
 		)
 		(uuid "4704f6ca-ef21-4ae5-af7e-746dc9d8d4e9")
-	)
-	(wire
-		(pts
-			(xy 186.69 55.88) (xy 199.39 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a331304-cbfd-4fb5-afc9-2b5609dc10d0")
-	)
-	(wire
-		(pts
-			(xy 97.79 151.13) (xy 97.79 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a6a4615-71e6-4b39-a17c-ac608d0659e9")
 	)
 	(wire
 		(pts
@@ -1575,26 +1137,6 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 148.59) (xy 97.79 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6932c763-030e-46b6-85e4-2a18f9a7dfeb")
-	)
-	(wire
-		(pts
-			(xy 127 106.68) (xy 139.7 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6db0a027-df4e-4d11-859b-ee225d54a422")
-	)
-	(wire
-		(pts
 			(xy 95.25 85.09) (xy 92.71 85.09)
 		)
 		(stroke
@@ -1602,26 +1144,6 @@
 			(type default)
 		)
 		(uuid "71a302a8-11a1-4f84-a9f7-8e3f39f8101a")
-	)
-	(wire
-		(pts
-			(xy 121.92 153.67) (xy 121.92 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74515ddb-486d-4a54-9fd4-3756c4904755")
-	)
-	(wire
-		(pts
-			(xy 191.77 97.79) (xy 186.69 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76a9848e-7942-4611-b358-c770809a1b22")
 	)
 	(wire
 		(pts
@@ -1695,16 +1217,6 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 46.99) (xy 127 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "961acee2-78bb-42df-a715-3e8b88a0e32b")
-	)
-	(wire
-		(pts
 			(xy 195.58 72.39) (xy 199.39 72.39)
 		)
 		(stroke
@@ -1722,16 +1234,6 @@
 			(type default)
 		)
 		(uuid "9d47b9aa-948e-4a5d-ad40-9be8dcbf42ca")
-	)
-	(wire
-		(pts
-			(xy 127 55.88) (xy 139.7 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aea74f0b-8580-4b9a-9fa0-3c57c7751e67")
 	)
 	(wire
 		(pts
@@ -1775,16 +1277,6 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 153.67) (xy 97.79 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0c13fe5-0984-4aba-a5d5-5e9abd16cde2")
-	)
-	(wire
-		(pts
 			(xy 195.58 120.65) (xy 199.39 120.65)
 		)
 		(stroke
@@ -1792,16 +1284,6 @@
 			(type default)
 		)
 		(uuid "d380c604-3c02-42a8-9844-84fabea2261f")
-	)
-	(wire
-		(pts
-			(xy 186.69 106.68) (xy 199.39 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d510d629-2082-4c05-b562-63912bd74e7c")
 	)
 	(wire
 		(pts
@@ -1815,16 +1297,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 146.05) (xy 121.92 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dda55870-1d97-44e6-bfe9-cca77a53874a")
-	)
-	(wire
-		(pts
 			(xy 74.93 63.5) (xy 74.93 67.31)
 		)
 		(stroke
@@ -1832,16 +1304,6 @@
 			(type default)
 		)
 		(uuid "e275b4c1-323d-4b5c-a94d-beae6553e291")
-	)
-	(wire
-		(pts
-			(xy 132.08 97.79) (xy 127 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6322628-f90c-467b-9482-405982f0cd38")
 	)
 	(wire
 		(pts
@@ -1865,26 +1327,6 @@
 	)
 	(wire
 		(pts
-			(xy 127 97.79) (xy 127 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec931688-c98e-440e-9b05-787720843e5d")
-	)
-	(wire
-		(pts
-			(xy 97.79 146.05) (xy 97.79 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee4e7e3f-3ce3-47a6-81bb-a33dbdee240a")
-	)
-	(wire
-		(pts
 			(xy 95.25 90.17) (xy 92.71 90.17)
 		)
 		(stroke
@@ -1895,16 +1337,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 46.99) (xy 186.69 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f47cfc92-9cbd-4939-b6f7-80bdbc3e8684")
-	)
-	(wire
-		(pts
 			(xy 95.25 107.95) (xy 92.71 107.95)
 		)
 		(stroke
@@ -1912,16 +1344,6 @@
 			(type default)
 		)
 		(uuid "f5baba97-bbb1-4aee-a05c-b4c9987661de")
-	)
-	(wire
-		(pts
-			(xy 121.92 151.13) (xy 121.92 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9a45344-7ec6-477d-830b-7292d005ea3b")
 	)
 	(wire
 		(pts
@@ -2400,195 +1822,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 121.92 104.14 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "06a76410-6b88-4110-bc51-ff9c54641033")
-		(property "Reference" "J44"
-			(at 121.92 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02"
-			(at 121.92 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "HL_Connector_Pad_2.54mm:Pad_1x02_P2.54_1.7x1.7_Rect-Rnd"
-			(at 121.92 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 121.92 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 121.92 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "THT_LCSC" ""
-			(at 121.92 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C492401"
-			(at 121.92 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB_CORRECTION" "0;1.27;270"
-			(at 121.92 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "95eaf1bd-ea75-4de7-b8ae-1f7e3919c98d")
-		)
-		(pin "1"
-			(uuid "cbf49b3b-8d01-4afd-a639-3a2240ae5e3c")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "J44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x04")
-		(at 102.87 148.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1bfe4426-ad28-41e8-847a-c55c4a067c51")
-		(property "Reference" "J42"
-			(at 105.41 148.5899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x04"
-			(at 105.41 151.1299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "HL_Connector_Pad_2.54mm:Pad_1x04_P2.54_1.7x1.7_Rect"
-			(at 102.87 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 102.87 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 102.87 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2691448"
-			(at 102.87 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB_CORRECTION" "0;3.81;270"
-			(at 102.87 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "69ccbd64-ca3e-4f1f-94a1-24bccd473bed")
-		)
-		(pin "2"
-			(uuid "898bd738-4f0b-4094-b0e3-2de1f554a929")
-		)
-		(pin "1"
-			(uuid "9a548975-e7f4-46bd-8533-e61c8fac9f8d")
-		)
-		(pin "3"
-			(uuid "ac4ecbe7-0100-4da2-9e1e-d535aad59c12")
-		)
-		(instances
-			(project ""
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "J42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 55.88 128.27 0)
 		(unit 1)
@@ -2598,7 +1831,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58db4dfa-3cba-4702-a916-461c26a11651")
-		(property "Reference" "#PWR0187"
+		(property "Reference" "#PWR0198"
 			(at 55.88 134.62 0)
 			(effects
 				(font
@@ -2648,7 +1881,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0187")
+					(reference "#PWR0198")
 					(unit 1)
 				)
 			)
@@ -2664,7 +1897,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "627bc60a-8dae-45eb-a746-9e4d3515db10")
-		(property "Reference" "#PWR0190"
+		(property "Reference" "#PWR0201"
 			(at 74.93 134.62 0)
 			(effects
 				(font
@@ -2714,394 +1947,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0190")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 132.08 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6ced44e6-ec79-4d8a-8e70-c38c6e912eb0")
-		(property "Reference" "#PWR0194"
-			(at 132.08 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 132.08 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 132.08 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 132.08 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 132.08 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6460f35f-a1c7-4b57-90a9-ee969cd7e4a3")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0194")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 181.61 104.14 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "757934eb-6541-45ef-93db-3c8a96064370")
-		(property "Reference" "J47"
-			(at 181.61 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02"
-			(at 181.61 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "HL_Connector_Pad_2.54mm:Pad_1x02_P2.54_1.7x1.7_Rect-Rnd"
-			(at 181.61 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 181.61 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 181.61 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "THT_LCSC" ""
-			(at 181.61 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C492401"
-			(at 181.61 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB_CORRECTION" "0;1.27;270"
-			(at 181.61 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f4940cd4-c7d3-4c4d-85a4-5014c76c50c2")
-		)
-		(pin "1"
-			(uuid "0db53c53-3a9b-4a43-9750-9bfbf5a3dd41")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "J47")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x04")
-		(at 127 148.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "89a81297-2d08-495d-993b-802967622133")
-		(property "Reference" "J45"
-			(at 129.54 148.5899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x04"
-			(at 129.54 151.1299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "HL_Connector_Pad_2.54mm:Pad_1x04_P2.54_1.7x1.7_Rect"
-			(at 127 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 127 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 127 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2691448"
-			(at 127 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB_CORRECTION" "0;3.81;270"
-			(at 127 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "80e6740a-e0d8-423b-9e15-22bda83a1e4b")
-		)
-		(pin "2"
-			(uuid "b011e20b-8dd5-4740-8ea6-839df081dbd8")
-		)
-		(pin "1"
-			(uuid "9d28525f-9215-43f4-b7c8-b4913e69f83c")
-		)
-		(pin "3"
-			(uuid "693f122b-c48f-4874-9348-366107a0396f")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "J45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 191.77 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8f1380d5-2704-4ae4-8b61-978936538ab3")
-		(property "Reference" "#PWR0196"
-			(at 191.77 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 191.77 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 191.77 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 191.77 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "255be128-cb12-4b75-854a-d6650c15c1f7")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0196")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 97.79 156.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "983a611d-32b3-48b3-a1eb-8b927e1f20ad")
-		(property "Reference" "#PWR0191"
-			(at 97.79 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 97.79 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 97.79 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 97.79 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 97.79 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "120d8549-cd03-4806-b8c2-b11b7bcec1bd")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0191")
+					(reference "#PWR0201")
 					(unit 1)
 				)
 			)
@@ -3117,7 +1963,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a11e2c5f-1e1c-4435-8bac-1ec5f8c8cdcd")
-		(property "Reference" "#PWR0189"
+		(property "Reference" "#PWR0200"
 			(at 74.93 67.31 0)
 			(effects
 				(font
@@ -3167,73 +2013,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0189")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 132.08 46.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a82e4e54-df42-47fb-ab13-2daff5d42edb")
-		(property "Reference" "#PWR0193"
-			(at 132.08 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 132.08 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 132.08 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 132.08 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 132.08 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1112baf4-e3ed-4947-80cb-6be781ba5319")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0193")
+					(reference "#PWR0200")
 					(unit 1)
 				)
 			)
@@ -3411,7 +2191,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0ec47af-647f-4de6-b137-2a0e52bd737e")
-		(property "Reference" "#PWR0186"
+		(property "Reference" "#PWR0197"
 			(at 52.07 121.92 0)
 			(effects
 				(font
@@ -3461,7 +2241,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0186")
+					(reference "#PWR0197")
 					(unit 1)
 				)
 			)
@@ -3478,7 +2258,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6158160-3b4a-4863-99f5-a9b4c8970852")
-		(property "Reference" "C51"
+		(property "Reference" "C61"
 			(at 68.5736 60.96 90)
 			(effects
 				(font
@@ -3556,7 +2336,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "C51")
+					(reference "C61")
 					(unit 1)
 				)
 			)
@@ -3573,7 +2353,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbc3fc18-728b-4eab-af12-e996c760dac7")
-		(property "Reference" "#PWR0188"
+		(property "Reference" "#PWR0199"
 			(at 63.5 73.66 0)
 			(effects
 				(font
@@ -3623,329 +2403,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0188")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 121.92 156.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f7e6f2df-4e49-4fbd-b291-df04fc2a1f20")
-		(property "Reference" "#PWR0192"
-			(at 121.92 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 121.92 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 121.92 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 121.92 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 121.92 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6cb8b5f1-bb56-4a17-98f5-46f3455810fc")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0192")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 191.77 46.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f84bd1e5-f84f-439d-9e84-678f03c9474d")
-		(property "Reference" "#PWR0195"
-			(at 191.77 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 191.77 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 191.77 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 191.77 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e5bcbe86-147e-4da4-b6fc-a7222dec71d1")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "#PWR0195")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 121.92 53.34 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fa68b750-5364-4904-9a5c-b0d45060d977")
-		(property "Reference" "J43"
-			(at 121.92 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02"
-			(at 121.92 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "HL_Connector_Pad_2.54mm:Pad_1x02_P2.54_1.7x1.7_Rect-Rnd"
-			(at 121.92 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 121.92 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 121.92 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "THT_LCSC" ""
-			(at 121.92 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C492401"
-			(at 121.92 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB_CORRECTION" "0;1.27;270"
-			(at 121.92 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "00a1ef98-a5d9-4c38-b809-a56b1831d4c7")
-		)
-		(pin "1"
-			(uuid "ae78bf6c-cfc3-4f1c-930c-371e22c4299e")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "J43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 181.61 53.34 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fc9cf663-c4ef-455f-9dcf-6597ba2e02fa")
-		(property "Reference" "J46"
-			(at 181.61 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02"
-			(at 181.61 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "HL_Connector_Pad_2.54mm:Pad_1x02_P2.54_1.7x1.7_Rect-Rnd"
-			(at 181.61 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 181.61 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 181.61 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "THT_LCSC" ""
-			(at 181.61 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C492401"
-			(at 181.61 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB_CORRECTION" "0;1.27;270"
-			(at 181.61 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "31ed6ae3-8285-4621-8b6b-040a0b45a55f")
-		)
-		(pin "1"
-			(uuid "fe52cd41-7c29-4e49-a99d-bf7cfcfe8b99")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
-					(reference "J46")
+					(reference "#PWR0199")
 					(unit 1)
 				)
 			)
@@ -4025,16 +2483,6 @@
 				(justify left)
 			)
 		)
-		(pin "D" bidirectional
-			(at 139.7 55.88 180)
-			(uuid "c8ae63b3-8642-4476-b458-13be0a67d025")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684"
@@ -4100,16 +2548,6 @@
 		(pin "A2" input
 			(at 199.39 128.27 180)
 			(uuid "9805d0d5-39c4-4afd-b1ea-1682e31066e3")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "D" bidirectional
-			(at 199.39 106.68 180)
-			(uuid "fa147673-ff7b-4a69-b65e-1baa8f55b4b1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4199,16 +2637,6 @@
 				(justify left)
 			)
 		)
-		(pin "D" bidirectional
-			(at 139.7 106.68 180)
-			(uuid "eaff656f-e351-4533-8e43-fe744ae6810e")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "~{EN}" input
 			(at 139.7 120.65 180)
 			(uuid "85d7b695-ae25-48a6-8005-0fc7e649fa02")
@@ -4284,16 +2712,6 @@
 		(pin "A2" input
 			(at 199.39 77.47 180)
 			(uuid "d735c5cf-e1b5-4627-a3f5-f238c11cedaf")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "D" bidirectional
-			(at 199.39 55.88 180)
-			(uuid "101e94ad-9182-4436-a5e0-d69060fab19a")
 			(effects
 				(font
 					(size 1.27 1.27)

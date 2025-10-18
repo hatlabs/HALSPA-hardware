@@ -30,4 +30,6 @@ subsection below.
 
 ## Notices to Modified Covered Source
 
+The proto board design at the middle of the PCB is adapted from [https://github.com/electroniceel/protoboard](https://github.com/electroniceel/protoboard) and licensed under CC-BY 4.0.
+
 Add any additional notices here, replacing this text.

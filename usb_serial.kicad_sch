@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "HALSPA - Hat Labs Spaghetti Board")
-		(date "2025-08-15")
-		(rev "v0.3.0")
+		(date "2025-10-17")
+		(rev "v0.4.0")
 		(company "Hat Labs Oy")
 		(comment 1 "https://ohwr.org/cern_ohl_s_v2.pdf")
 		(comment 2 "To view a copy of this license, visit ")
@@ -2791,7 +2791,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f8a0329")
-		(property "Reference" "J53"
+		(property "Reference" "J37"
 			(at 54.7878 64.3382 0)
 			(effects
 				(font
@@ -2807,7 +2807,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HL_Connector_USB:MICRO-USB-SMD_MICROXNJ"
+		(property "Footprint" "HL_Connector_USB:MICRO-USB-SMD_920-154A2021Y10109"
 			(at 57.15 77.47 0)
 			(effects
 				(font
@@ -2834,7 +2834,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C404969"
+		(property "LCSC" "C399946"
 			(at 53.34 76.2 0)
 			(effects
 				(font
@@ -2881,7 +2881,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "J53")
+					(reference "J37")
 					(unit 1)
 				)
 			)
@@ -2896,7 +2896,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f8ac4f2")
-		(property "Reference" "R105"
+		(property "Reference" "R109"
 			(at 149.86 83.6422 90)
 			(effects
 				(font
@@ -2974,7 +2974,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "R105")
+					(reference "R109")
 					(unit 1)
 				)
 			)
@@ -3186,7 +3186,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f922a7a")
-		(property "Reference" "#PWR0216"
+		(property "Reference" "#PWR0226"
 			(at 190.5 72.39 0)
 			(effects
 				(font
@@ -3236,7 +3236,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "#PWR0216")
+					(reference "#PWR0226")
 					(unit 1)
 				)
 			)
@@ -3251,7 +3251,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fe404c1")
-		(property "Reference" "R106"
+		(property "Reference" "R110"
 			(at 188.468 92.8116 0)
 			(effects
 				(font
@@ -3331,7 +3331,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "R106")
+					(reference "R110")
 					(unit 1)
 				)
 			)
@@ -3346,7 +3346,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0459454a-fdc4-4b2b-95f4-17491b21a8c0")
-		(property "Reference" "C57"
+		(property "Reference" "C67"
 			(at 193.421 61.0616 0)
 			(effects
 				(font
@@ -3426,7 +3426,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "C57")
+					(reference "C67")
 					(unit 1)
 				)
 			)
@@ -3442,7 +3442,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f82ca24-5a9e-4e5a-ad44-10a8fd8bd4a1")
-		(property "Reference" "J54"
+		(property "Reference" "J38"
 			(at 240.03 68.58 0)
 			(effects
 				(font
@@ -3450,7 +3450,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x04_Odd_Even"
+		(property "Value" "Conn_02x04_Pin"
 			(at 240.03 71.12 0)
 			(effects
 				(font
@@ -3502,7 +3502,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB_CORRECTION" "1.27;3.81;270"
+		(property "JLCPCB_CORRECTION" "1.27;-3.81;270"
 			(at 238.76 77.47 0)
 			(effects
 				(font
@@ -3538,7 +3538,7 @@
 		(instances
 			(project ""
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "J54")
+					(reference "J38")
 					(unit 1)
 				)
 			)
@@ -3554,7 +3554,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "237151bb-bec3-48c4-a273-2b7cdc45bfe6")
-		(property "Reference" "JP2"
+		(property "Reference" "JP34"
 			(at 115.5699 91.44 90)
 			(effects
 				(font
@@ -3616,7 +3616,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "JP2")
+					(reference "JP34")
 					(unit 1)
 				)
 			)
@@ -3631,7 +3631,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "32cf6277-d773-41cd-8c96-f852dfcc4e2c")
-		(property "Reference" "#PWR0217"
+		(property "Reference" "#PWR0227"
 			(at 229.87 74.93 0)
 			(effects
 				(font
@@ -3681,7 +3681,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "#PWR0217")
+					(reference "#PWR0227")
 					(unit 1)
 				)
 			)
@@ -3696,7 +3696,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3ec8e108-fcbf-4f27-a214-3f09cc7ba3d7")
-		(property "Reference" "R107"
+		(property "Reference" "R111"
 			(at 192.278 52.1716 0)
 			(effects
 				(font
@@ -3776,7 +3776,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "R107")
+					(reference "R111")
 					(unit 1)
 				)
 			)
@@ -3791,7 +3791,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4e58b029-b8fb-47d3-a79f-1e1e6a5c7468")
-		(property "Reference" "R104"
+		(property "Reference" "R108"
 			(at 149.86 64.5922 90)
 			(effects
 				(font
@@ -3869,7 +3869,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "R104")
+					(reference "R108")
 					(unit 1)
 				)
 			)
@@ -3884,7 +3884,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7be58ba6-32b8-4e4b-8e66-879b3523105e")
-		(property "Reference" "#PWR0213"
+		(property "Reference" "#PWR0223"
 			(at 105.41 60.96 0)
 			(effects
 				(font
@@ -3934,7 +3934,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "#PWR0213")
+					(reference "#PWR0223")
 					(unit 1)
 				)
 			)
@@ -3950,7 +3950,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8860371d-bbeb-4f8b-afab-6fdbe00b1423")
-		(property "Reference" "#PWR0215"
+		(property "Reference" "#PWR0225"
 			(at 190.5 52.07 0)
 			(effects
 				(font
@@ -4000,7 +4000,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "#PWR0215")
+					(reference "#PWR0225")
 					(unit 1)
 				)
 			)
@@ -4016,7 +4016,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "95b5b9c2-93f4-428f-ba6a-da44b45a60c8")
-		(property "Reference" "JP1"
+		(property "Reference" "JP33"
 			(at 118.1101 83.82 90)
 			(effects
 				(font
@@ -4078,7 +4078,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "JP1")
+					(reference "JP33")
 					(unit 1)
 				)
 			)
@@ -4093,7 +4093,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a17079a3-fcd6-48ba-9330-55a1725c17e0")
-		(property "Reference" "#PWR0212"
+		(property "Reference" "#PWR0222"
 			(at 93.98 100.33 0)
 			(effects
 				(font
@@ -4143,7 +4143,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "#PWR0212")
+					(reference "#PWR0222")
 					(unit 1)
 				)
 			)
@@ -4158,7 +4158,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a4167114-469a-4aa9-8c40-4a5d650c0426")
-		(property "Reference" "#PWR0210"
+		(property "Reference" "#PWR0220"
 			(at 53.34 99.06 0)
 			(effects
 				(font
@@ -4208,7 +4208,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "#PWR0210")
+					(reference "#PWR0220")
 					(unit 1)
 				)
 			)
@@ -4223,7 +4223,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c932d9f9-78ae-4d6b-a6b8-b3cfbf4d4aab")
-		(property "Reference" "#PWR0218"
+		(property "Reference" "#PWR0228"
 			(at 246.38 88.9 0)
 			(effects
 				(font
@@ -4273,7 +4273,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "#PWR0218")
+					(reference "#PWR0228")
 					(unit 1)
 				)
 			)
@@ -4289,7 +4289,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3b5e08a-f738-404f-85ce-238329d2edef")
-		(property "Reference" "C56"
+		(property "Reference" "C66"
 			(at 99.06 46.99 90)
 			(effects
 				(font
@@ -4367,7 +4367,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "C56")
+					(reference "C66")
 					(unit 1)
 				)
 			)
@@ -4383,7 +4383,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4d99913-2836-40da-8b70-26e1d6bd2f0b")
-		(property "Reference" "#PWR0214"
+		(property "Reference" "#PWR0224"
 			(at 186.69 92.71 0)
 			(effects
 				(font
@@ -4433,7 +4433,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "#PWR0214")
+					(reference "#PWR0224")
 					(unit 1)
 				)
 			)
@@ -4449,7 +4449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f24d803c-cdd5-4d23-8f74-56278730fa31")
-		(property "Reference" "#PWR0211"
+		(property "Reference" "#PWR0221"
 			(at 91.44 54.61 0)
 			(effects
 				(font
@@ -4499,7 +4499,7 @@
 		(instances
 			(project ""
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d2563b9c-21b7-43a8-ad57-d0568fac8495"
-					(reference "#PWR0211")
+					(reference "#PWR0221")
 					(unit 1)
 				)
 			)
