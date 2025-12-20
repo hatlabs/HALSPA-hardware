@@ -2239,7 +2239,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C492407"
+		(property "LCSC" "C492422"
 			(at 50.8 107.95 0)
 			(effects
 				(font
@@ -2873,48 +2873,6 @@
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7"
 					(reference "#PWR06")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(sheet
-		(at 180.34 133.35)
-		(size 22.86 12.7)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "0857553c-a85e-4345-93e2-1af8db70e954")
-		(property "Sheetname" "MCU 2"
-			(at 180.34 132.6384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "mcu2.kicad_sch"
-			(at 180.34 146.6346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7"
-					(page "23")
 				)
 			)
 		)
