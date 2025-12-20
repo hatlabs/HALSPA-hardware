@@ -2367,7 +2367,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C5383108"
+		(property "LCSC" "C492426"
 			(at 123.19 78.74 0)
 			(effects
 				(font
@@ -2376,7 +2376,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB_CORRECTION" "1.27;-8.89;270"
+		(property "JLCPCB_CORRECTION" "1.27;-10.16;270"
 			(at 123.19 78.74 0)
 			(effects
 				(font
