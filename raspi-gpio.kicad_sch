@@ -6,10 +6,12 @@
 	(paper "A4")
 	(title_block
 		(title "HALSPA - Hat Labs Spaghetti Board")
-		(date "2025-04-17")
-		(rev "v0.2.0")
+		(date "2025-08-15")
+		(rev "v0.3.0")
 		(company "Hat Labs Oy")
-		(comment 1 "See the accompanying LICENSE.md file for license details.")
+		(comment 1 "https://ohwr.org/cern_ohl_s_v2.pdf")
+		(comment 2 "To view a copy of this license, visit ")
+		(comment 3 "HALSPA is licensed under CERN-OHL-S v2.")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x20_Odd_Even"
@@ -16689,7 +16691,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4bc3d14c-b286-4301-9677-49503d6a2cb0")
-		(property "Reference" "J88"
+		(property "Reference" "J124"
 			(at 119.38 54.61 0)
 			(effects
 				(font
@@ -16821,7 +16823,7 @@
 		(instances
 			(project ""
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d60c1020-d2cb-4d48-a4f2-2128439747bd"
-					(reference "J88")
+					(reference "J124")
 					(unit 1)
 				)
 			)
@@ -16837,7 +16839,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f823bf2-b8b4-4ee9-9105-7dc9eb549344")
-		(property "Reference" "J89"
+		(property "Reference" "J125"
 			(at 143.51 54.61 0)
 			(effects
 				(font
@@ -17031,7 +17033,7 @@
 		(instances
 			(project ""
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d60c1020-d2cb-4d48-a4f2-2128439747bd"
-					(reference "J89")
+					(reference "J125")
 					(unit 1)
 				)
 			)
@@ -17047,7 +17049,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "978d4983-3472-430a-a5ad-f000a19a6288")
-		(property "Reference" "J90"
+		(property "Reference" "J126"
 			(at 170.18 83.8199 0)
 			(effects
 				(font
@@ -17181,7 +17183,7 @@
 		(instances
 			(project ""
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d60c1020-d2cb-4d48-a4f2-2128439747bd"
-					(reference "J90")
+					(reference "J126")
 					(unit 1)
 				)
 			)
@@ -17197,7 +17199,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc2ce49a-eba9-4291-b0cd-3c6f8aeed495")
-		(property "Reference" "#PWR0270"
+		(property "Reference" "#PWR0271"
 			(at 135.89 118.11 0)
 			(effects
 				(font
@@ -17247,7 +17249,7 @@
 		(instances
 			(project ""
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d60c1020-d2cb-4d48-a4f2-2128439747bd"
-					(reference "#PWR0270")
+					(reference "#PWR0271")
 					(unit 1)
 				)
 			)
@@ -17263,7 +17265,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2a5ddb7-b6e4-447c-b179-bfd2b0977a09")
-		(property "Reference" "#PWR0271"
+		(property "Reference" "#PWR0272"
 			(at 151.13 118.11 0)
 			(effects
 				(font
@@ -17313,7 +17315,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d60c1020-d2cb-4d48-a4f2-2128439747bd"
-					(reference "#PWR0271")
+					(reference "#PWR0272")
 					(unit 1)
 				)
 			)

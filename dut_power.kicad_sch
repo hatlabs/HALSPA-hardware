@@ -6,10 +6,12 @@
 	(paper "A4")
 	(title_block
 		(title "HALSPA - Hat Labs Spaghetti Board")
-		(date "2025-04-17")
-		(rev "v0.2.0")
+		(date "2025-08-15")
+		(rev "v0.3.0")
 		(company "Hat Labs Oy")
-		(comment 1 "See the accompanying LICENSE.md file for license details.")
+		(comment 1 "https://ohwr.org/cern_ohl_s_v2.pdf")
+		(comment 2 "To view a copy of this license, visit ")
+		(comment 3 "HALSPA is licensed under CERN-OHL-S v2.")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
@@ -5882,21 +5884,6 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 173.99 60.96) (xy 173.99 104.14) (xy 176.53 104.14) (xy 176.53 60.96)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 1113d37f-a761-4aa5-ab7f-e401457642c7)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
 				(xy 137.16 68.58) (xy 137.16 59.69) (xy 134.62 59.69) (xy 134.62 68.58)
 			)
 			(stroke
@@ -5906,7 +5893,22 @@
 			(fill
 				(type none)
 			)
-			(uuid 414705e3-5a95-4e1d-b561-e44f18bda39f)
+			(uuid b74dbb4e-0395-4f7b-8275-be30e16c1cc7)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 173.99 60.96) (xy 173.99 104.14) (xy 176.53 104.14) (xy 176.53 60.96)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid cacce341-9908-4c82-a9b5-4a5722a15c30)
 		)
 	)
 	(netclass_flag ""

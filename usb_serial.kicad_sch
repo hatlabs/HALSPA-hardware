@@ -6,10 +6,12 @@
 	(paper "A4")
 	(title_block
 		(title "HALSPA - Hat Labs Spaghetti Board")
-		(date "2025-04-17")
-		(rev "v0.2.0")
+		(date "2025-08-15")
+		(rev "v0.3.0")
 		(company "Hat Labs Oy")
-		(comment 1 "See the accompanying LICENSE.md file for license details.")
+		(comment 1 "https://ohwr.org/cern_ohl_s_v2.pdf")
+		(comment 2 "To view a copy of this license, visit ")
+		(comment 3 "HALSPA is licensed under CERN-OHL-S v2.")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x04_Odd_Even"
@@ -2654,7 +2656,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 9c26a3b2-d0f1-4f1e-9098-aa2d012c821a)
+			(uuid 1bfdbf6d-85af-410b-8681-8e0d29c54596)
 		)
 	)
 	(rule_area
@@ -2669,7 +2671,7 @@
 			(fill
 				(type none)
 			)
-			(uuid cc6c9951-7ed3-455b-ae2d-baa54e852fdb)
+			(uuid e7278417-0358-4526-b1ad-4a641bd665ec)
 		)
 	)
 	(rule_area
@@ -2684,7 +2686,7 @@
 			(fill
 				(type none)
 			)
-			(uuid fafb5cc3-7fa4-4407-9699-de766bf783b7)
+			(uuid f0f97890-8a73-43c5-9979-9af996a15c7c)
 		)
 	)
 	(netclass_flag ""
@@ -2805,7 +2807,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HL_Connector_USB:MICRO-USB-SMD_MICRO-21-P2-T3"
+		(property "Footprint" "HL_Connector_USB:MICRO-USB-SMD_MICROXNJ"
 			(at 57.15 77.47 0)
 			(effects
 				(font
@@ -2832,7 +2834,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2834965"
+		(property "LCSC" "C404969"
 			(at 53.34 76.2 0)
 			(effects
 				(font

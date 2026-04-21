@@ -6,10 +6,12 @@
 	(paper "A4")
 	(title_block
 		(title "HALSPA - Hat Labs Spaghetti Board")
-		(date "2025-04-17")
-		(rev "v0.2.0")
+		(date "2025-08-15")
+		(rev "v0.3.0")
 		(company "Hat Labs Oy")
-		(comment 1 "See the accompanying LICENSE.md file for license details.")
+		(comment 1 "https://ohwr.org/cern_ohl_s_v2.pdf")
+		(comment 2 "To view a copy of this license, visit ")
+		(comment 3 "HALSPA is licensed under CERN-OHL-S v2.")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Current:INA199xxDCK"
@@ -1178,7 +1180,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444/4af25350-e1ae-4cb6-8ebc-d8cb232dd08c"
-					(reference "#PWR0237")
+					(reference "#PWR0238")
 					(unit 1)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444/622497c5-aad0-4b8f-b029-b557d24d2703"
@@ -1256,7 +1258,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444/4af25350-e1ae-4cb6-8ebc-d8cb232dd08c"
-					(reference "#PWR0239")
+					(reference "#PWR0240")
 					(unit 1)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444/622497c5-aad0-4b8f-b029-b557d24d2703"
@@ -1334,7 +1336,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444/4af25350-e1ae-4cb6-8ebc-d8cb232dd08c"
-					(reference "#PWR0238")
+					(reference "#PWR0239")
 					(unit 1)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444/622497c5-aad0-4b8f-b029-b557d24d2703"
@@ -1509,7 +1511,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444/4af25350-e1ae-4cb6-8ebc-d8cb232dd08c"
-					(reference "#PWR0236")
+					(reference "#PWR0237")
 					(unit 1)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444/622497c5-aad0-4b8f-b029-b557d24d2703"
@@ -1606,7 +1608,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444/4af25350-e1ae-4cb6-8ebc-d8cb232dd08c"
-					(reference "R110")
+					(reference "R111")
 					(unit 1)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/2f123bd3-5a8a-4eda-a345-37c747287444/622497c5-aad0-4b8f-b029-b557d24d2703"

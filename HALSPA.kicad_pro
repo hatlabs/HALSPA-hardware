@@ -81,11 +81,11 @@
           ""
         ],
         [
-          "footprint_type_mismatch|157420000|157220000|d3faadb1-da32-4b2c-b5f3-9026293ef2b0|00000000-0000-0000-0000-000000000000",
+          "footprint_type_mismatch|153880000|160010000|d3faadb1-da32-4b2c-b5f3-9026293ef2b0|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "footprint_type_mismatch|176022000|157226000|eab3c3a3-1db5-4f1e-8f4a-3bf07949c138|00000000-0000-0000-0000-000000000000",
+          "footprint_type_mismatch|176022000|160010000|eab3c3a3-1db5-4f1e-8f4a-3bf07949c138|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -507,6 +507,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -636,10 +637,46 @@
       "/AAL2": [
         "Digital"
       ],
+      "/Analog IO/A0_1": [
+        "Digital"
+      ],
+      "/Analog IO/A0_2": [
+        "Digital"
+      ],
+      "/Analog IO/A0_3": [
+        "Digital"
+      ],
+      "/Analog IO/A0_4": [
+        "Digital"
+      ],
       "/Analog IO/A1": [
         "Digital"
       ],
+      "/Analog IO/A1_1": [
+        "Digital"
+      ],
+      "/Analog IO/A1_2": [
+        "Digital"
+      ],
+      "/Analog IO/A1_3": [
+        "Digital"
+      ],
+      "/Analog IO/A1_4": [
+        "Digital"
+      ],
       "/Analog IO/A2": [
+        "Digital"
+      ],
+      "/Analog IO/A2_1": [
+        "Digital"
+      ],
+      "/Analog IO/A2_2": [
+        "Digital"
+      ],
+      "/Analog IO/A2_3": [
+        "Digital"
+      ],
+      "/Analog IO/A2_4": [
         "Digital"
       ],
       "/Analog IO/A3": [
@@ -647,6 +684,18 @@
       ],
       "/Analog IO/A4": [
         "Digital"
+      ],
+      "/Analog IO/Analog MUX 1/VDD": [
+        "Power"
+      ],
+      "/Analog IO/Analog MUX 2/VDD": [
+        "Power"
+      ],
+      "/Analog IO/Analog MUX 3/VDD": [
+        "Power"
+      ],
+      "/Analog IO/Analog MUX 4/VDD": [
+        "Power"
       ],
       "/Analog IO/B1": [
         "Digital"
@@ -688,6 +737,18 @@
         "Digital"
       ],
       "/Analog IO/SDA": [
+        "Digital"
+      ],
+      "/Analog IO/~{EN_1}": [
+        "Digital"
+      ],
+      "/Analog IO/~{EN_2}": [
+        "Digital"
+      ],
+      "/Analog IO/~{EN_3}": [
+        "Digital"
+      ],
+      "/Analog IO/~{EN_4}": [
         "Digital"
       ],
       "/Analog IO/~{INT}": [

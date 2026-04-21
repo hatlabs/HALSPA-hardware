@@ -1,6 +1,6 @@
-# HALPI2 Electronics Design License
+# HALSPA Electronics Design License
 
-Copyright Hat Labs 2025
+Copyright Hat Labs 2025-2026
 
 This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
 
@@ -11,7 +11,7 @@ This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
 INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
 PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.
 
-Source location: https://github.com/hatlabs/HALPI2-hardware
+Source location: https://github.com/hatlabs/HALSPA-hardware
 
 As per CERN-OHL-S v2 section 4, should You produce hardware based on this
 source, You must where practicable maintain the Source Location visible
