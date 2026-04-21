@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "HALSPA - Hat Labs Spaghetti Board")
-		(date "2025-08-15")
-		(rev "v0.3.0")
+		(date "2025-10-17")
+		(rev "v0.4.0")
 		(company "Hat Labs Oy")
 		(comment 1 "https://ohwr.org/cern_ohl_s_v2.pdf")
 		(comment 2 "To view a copy of this license, visit ")
@@ -355,7 +355,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "645db5e6-8d9b-47ff-b249-a6b69255b029")
-		(property "Reference" "#PWR0165"
+		(property "Reference" "#PWR0167"
 			(at 96.52 86.36 0)
 			(effects
 				(font
@@ -405,7 +405,7 @@
 		(instances
 			(project ""
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80"
-					(reference "#PWR0165")
+					(reference "#PWR0167")
 					(unit 1)
 				)
 			)
@@ -421,7 +421,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b6e8c6f-b1ef-4814-aecf-aa6ebeb5733b")
-		(property "Reference" "#PWR0164"
+		(property "Reference" "#PWR0166"
 			(at 96.52 58.42 0)
 			(effects
 				(font
@@ -471,7 +471,7 @@
 		(instances
 			(project ""
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80"
-					(reference "#PWR0164")
+					(reference "#PWR0166")
 					(unit 1)
 				)
 			)

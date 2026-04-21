@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "height": 1.4,
+          "width": 1.4
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -65,27 +65,11 @@
       ],
       "drc_exclusions": [
         [
-          "courtyards_overlap|73735000|106755000|6300d6e2-74f1-4c97-b9bb-6a8376ef2fbb|fc1ecf7b-5a1b-48b5-b951-9a6e44d8f9cc",
+          "footprint_type_mismatch|252660000|97810000|d3faadb1-da32-4b2c-b5f3-9026293ef2b0|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "courtyards_overlap|75005000|106755000|75b82f60-9ca7-4e75-a6a3-18791a6abe6d|fc1ecf7b-5a1b-48b5-b951-9a6e44d8f9cc",
-          ""
-        ],
-        [
-          "courtyards_overlap|77545000|106755000|b9167a47-0d98-46ae-9db6-b57ad15e4eb1|fc1ecf7b-5a1b-48b5-b951-9a6e44d8f9cc",
-          ""
-        ],
-        [
-          "courtyards_overlap|81205000|106755000|fadee92a-ee1f-4b2d-bb31-11e7f565a395|fc1ecf7b-5a1b-48b5-b951-9a6e44d8f9cc",
-          ""
-        ],
-        [
-          "footprint_type_mismatch|153880000|160010000|d3faadb1-da32-4b2c-b5f3-9026293ef2b0|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "footprint_type_mismatch|176022000|160010000|eab3c3a3-1db5-4f1e-8f4a-3bf07949c138|00000000-0000-0000-0000-000000000000",
+          "footprint_type_mismatch|256410000|84650000|eab3c3a3-1db5-4f1e-8f4a-3bf07949c138|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -832,6 +816,30 @@
       "/DUT Power/EN_LIM_4": [
         "Digital"
       ],
+      "/DUT Power/Load switch 5V 1/CLSOUT": [
+        "Power"
+      ],
+      "/DUT Power/Load switch 5V 1/Vout": [
+        "Power"
+      ],
+      "/DUT Power/Load switch 5V 2/CLSOUT": [
+        "Power"
+      ],
+      "/DUT Power/Load switch 5V 2/Vout": [
+        "Power"
+      ],
+      "/DUT Power/Load switch 5V 3/CLSOUT": [
+        "Power"
+      ],
+      "/DUT Power/Load switch 5V 3/Vout": [
+        "Power"
+      ],
+      "/DUT Power/Load switch 5V 4/CLSOUT": [
+        "Power"
+      ],
+      "/DUT Power/Load switch 5V 4/Vout": [
+        "Power"
+      ],
       "/DUT Power/PG_3V3": [
         "Analog",
         "Digital"
@@ -873,7 +881,19 @@
       "/DUT Power/~{INT}": [
         "Digital"
       ],
+      "/MCU 1/PICO_3V3": [
+        "Power"
+      ],
+      "/MCU 1/PICO_5V": [
+        "Power"
+      ],
       "/Opamp/VCC": [
+        "Power"
+      ],
+      "/Raspberry Pi GPIO/RPI_3V3": [
+        "Power"
+      ],
+      "/Raspberry Pi GPIO/RPI_5V": [
         "Power"
       ],
       "/UEN": [
@@ -1173,7 +1193,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Value"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -1234,27 +1254,27 @@
     ],
     [
       "58895391-6de3-4802-b78e-fd4c1def1d51",
-      "Curlim 1"
+      "Load switch 5V 1"
     ],
     [
       "dc4fcfb7-68a6-44ea-9d8f-e99fcae2074b",
-      "Curlim 2"
+      "Load switch 5V 2"
     ],
     [
       "f4b18902-6d6f-48e0-a670-48902db708d0",
-      "Curlim 3"
+      "Load switch 5V 3"
     ],
     [
       "13060095-6d27-44b3-bc05-db67b8476217",
-      "Curlim 4"
+      "Load switch 5V 4"
     ],
     [
       "bdd06149-f2cd-411d-9834-295c431deac0",
-      "Curlim 12V 1"
+      "Load switch 12V 1"
     ],
     [
       "e3bbb823-378e-479b-b487-992af39023d2",
-      "Curlim 12V 2"
+      "Load switch 12V 2"
     ],
     [
       "3e131f2a-dbd5-4c45-87ea-4e6b43df983f",
@@ -1333,16 +1353,20 @@
       "MCU 1"
     ],
     [
-      "0857553c-a85e-4345-93e2-1af8db70e954",
-      "MCU 2"
-    ],
-    [
       "d60c1020-d2cb-4d48-a4f2-2128439747bd",
       "Raspberry Pi GPIO"
     ],
     [
       "860f2daf-0aee-4ff4-baf5-7dbe3621b169",
       "PCB"
+    ],
+    [
+      "59dd24a4-adfb-44de-8e54-6eb8023dd64e",
+      "Power Connectors"
+    ],
+    [
+      "1d2395d0-965a-4393-a175-ebb441a2cd54",
+      "Edge Connectors"
     ]
   ],
   "text_variables": {}
