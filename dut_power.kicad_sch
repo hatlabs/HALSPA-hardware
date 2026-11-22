@@ -2093,6 +2093,260 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "HL_Power_Protection:Fuse_Clip"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim yes)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "FH"
+				(at 2.032 0.635 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "XF-003"
+				(at 2.032 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "HL_Fuse:Fuse_Clip_XFCN_XF-003"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/product-detail/C717027.html"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Fuse clip for 5x20mm cartridge fuses, one clip per fuse end; both blade pins on one pad number"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C717027"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "fuse clip 5x20 holder"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Fuse_Clip*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Fuse_Clip_0_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Fuse_Clip_1_1"
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "HL_Power_Protection:Fuse_Outline_5x20mm"
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "FO"
+				(at 0 3.175 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Fuse 5x20mm outline"
+				(at 0 -3.175 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "HL_Fuse:Fuse_5x20mm_Outline"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Board outline and clip alignment markers for a 5x20mm cartridge fuse held by two Fuse_Clip parts; no pins, no BOM line"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "fuse outline 5x20 silkscreen"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Fuse_5x20mm_Outline*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Fuse_Outline_5x20mm_0_1"
+				(rectangle
+					(start -5.08 1.27)
+					(end -3.175 -1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -5.08 1.27)
+					(end 5.08 -1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 3.175 1.27)
+					(end 5.08 -1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Interface_Expansion:TCA9535PWR"
 			(pin_names
 				(offset 1.016)
@@ -3170,6 +3424,415 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Transistor_FET:IRF7404"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "IRF7404"
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+				(at 5.08 -1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+				)
+			)
+			(property "Datasheet" "http://www.infineon.com/dgdl/irf7404.pdf?fileId=5546d462533600a4015355fa2b5b1b9e"
+				(at 5.08 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Description" "-6.7A Id, -20V Vds, P-Channel HEXFET Power MOSFET, SO-8"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "P-Channel MOSFET"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "IRF7404_0_1"
+				(polyline
+					(pts
+						(xy 0.254 1.905) (xy 0.254 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.286) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 1.778) (xy 3.302 1.778) (xy 3.302 -1.778) (xy 0.762 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0.508) (xy 0.762 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.27) (xy 0.762 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.651 0)
+					(radius 2.794)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 0) (xy 1.27 0.381) (xy 1.27 -0.381) (xy 2.286 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 2.54 -1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.794 -0.508) (xy 2.921 -0.381) (xy 3.683 -0.381) (xy 3.81 -0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 -0.381) (xy 2.921 0.254) (xy 3.683 0.254) (xy 3.302 -0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "IRF7404_1_1"
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(hide yes)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(hide yes)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(hide yes)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(hide yes)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(hide yes)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+12V"
 			(power global)
 			(pin_numbers
@@ -3992,6 +4655,12 @@
 		(uuid "0607c736-ee03-4836-b7ce-1af07edc9dea")
 	)
 	(junction
+		(at 38.1 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "11ac3096-8429-4ad7-88e1-a050dff099c5")
+	)
+	(junction
 		(at 53.34 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4106,10 +4775,10 @@
 		(uuid "9043397f-88be-41b5-88c0-cf2489a2fc0e")
 	)
 	(junction
-		(at 29.21 22.86)
+		(at 48.26 22.86)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9211a9ed-0cb2-4424-8321-46297cf668fd")
+		(uuid "913de1c5-c35e-44ad-8391-58a441e73edf")
 	)
 	(junction
 		(at 50.8 22.86)
@@ -4140,6 +4809,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0b5d74b-3027-4b5c-9648-73f85c8af8dd")
+	)
+	(junction
+		(at 27.94 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ba4cd20e-be86-45be-a7cb-40e036b1ccc9")
 	)
 	(junction
 		(at 40.64 129.54)
@@ -4229,6 +4904,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 22.86) (xy 71.12 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "059eea1c-339e-4ea3-87cb-3ae29c841243")
+	)
+	(wire
+		(pts
 			(xy 166.37 22.86) (xy 166.37 24.13)
 		)
 		(stroke
@@ -4236,6 +4921,16 @@
 			(type default)
 		)
 		(uuid "05aea52c-36b5-4317-aae3-a74af06340b7")
+	)
+	(wire
+		(pts
+			(xy 77.47 30.48) (xy 77.47 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09fb2f12-1004-4f6b-ae9d-da815d5c91a3")
 	)
 	(wire
 		(pts
@@ -4316,16 +5011,6 @@
 			(type default)
 		)
 		(uuid "1bdcef81-ef31-470f-9be6-ab7f78d86029")
-	)
-	(wire
-		(pts
-			(xy 78.74 38.1) (xy 86.36 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c0164b4-3d9e-4ba9-8826-1d9dcdccb191")
 	)
 	(wire
 		(pts
@@ -4489,7 +5174,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 22.86) (xy 50.8 22.86)
+			(xy 46.99 22.86) (xy 48.26 22.86)
 		)
 		(stroke
 			(width 0)
@@ -4589,6 +5274,16 @@
 	)
 	(wire
 		(pts
+			(xy 27.94 22.86) (xy 39.37 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5432a174-98ae-41b6-a9aa-ee5d4659bbc3")
+	)
+	(wire
+		(pts
 			(xy 181.61 74.93) (xy 173.99 74.93)
 		)
 		(stroke
@@ -4626,16 +5321,6 @@
 			(type default)
 		)
 		(uuid "5a7e6f57-fb2c-4c34-ac3c-9c3e11b0e0ae")
-	)
-	(wire
-		(pts
-			(xy 50.8 22.86) (xy 71.12 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5af63476-af36-4ae9-9981-dad82b108ad0")
 	)
 	(wire
 		(pts
@@ -4786,6 +5471,16 @@
 			(type default)
 		)
 		(uuid "7ddea793-5bc0-42e0-ae30-bf26ab0f2504")
+	)
+	(wire
+		(pts
+			(xy 77.47 38.1) (xy 86.36 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f0e545d-5c6b-4a5b-a4c1-3ff12dd508d5")
 	)
 	(wire
 		(pts
@@ -5059,16 +5754,6 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 22.86) (xy 35.56 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a230addf-c3f3-42dd-acb1-79e757697481")
-	)
-	(wire
-		(pts
 			(xy 53.34 129.54) (xy 53.34 132.08)
 		)
 		(stroke
@@ -5086,16 +5771,6 @@
 			(type default)
 		)
 		(uuid "a254c874-c82f-479f-90d8-f4e9830a8f19")
-	)
-	(wire
-		(pts
-			(xy 27.94 22.86) (xy 29.21 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a65161f7-48b2-4e32-98a6-a792e7f4cf93")
 	)
 	(wire
 		(pts
@@ -5296,16 +5971,6 @@
 			(type default)
 		)
 		(uuid "c727585d-b219-4df7-ba88-1eb6099769c5")
-	)
-	(wire
-		(pts
-			(xy 78.74 29.21) (xy 78.74 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7a3a2ca-b39a-4fd3-9fb8-52c1d1d54354")
 	)
 	(wire
 		(pts
@@ -6027,7 +6692,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 49.53 22.86 0)
+		(at 53.34 22.86 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6037,7 +6702,7 @@
 		)
 		(uuid "14a2537f-d87d-48e8-aa1f-dc260e98bd80")
 		(property "Netclass" "Power"
-			(at 50.419 20.32 0)
+			(at 54.229 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6143,6 +6808,31 @@
 					(size 1.27 1.27)
 					(italic yes)
 				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 35.56 22.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "78fb4b23-b0e3-45d8-981f-0b72d6291f9b")
+		(property "Netclass" "Power"
+			(at 36.449 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -7071,18 +7761,18 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse")
-		(at 39.37 22.86 90)
+		(at 43.18 22.86 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d735d24-afc2-4fbe-9e62-6a078af0587e")
 		(property "Reference" "F1"
-			(at 39.37 16.51 90)
+			(at 43.18 26.67 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7091,8 +7781,8 @@
 				)
 			)
 		)
-		(property "Value" "Fuse"
-			(at 39.37 19.05 90)
+		(property "Value" "5x20mm"
+			(at 43.18 29.21 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7101,8 +7791,8 @@
 				)
 			)
 		)
-		(property "Footprint" "HL_Fuse:FUSE-TH_L22.6-W9.0"
-			(at 39.37 24.638 90)
+		(property "Footprint" ""
+			(at 43.18 24.638 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7113,7 +7803,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 39.37 22.86 0)
+			(at 43.18 22.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7124,18 +7814,7 @@
 			)
 		)
 		(property "Description" "Fuse"
-			(at 39.37 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C3131"
-			(at 39.37 22.86 90)
+			(at 43.18 22.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7181,7 +7860,7 @@
 				)
 			)
 		)
-		(property "Value" "FXL0420-1R5-M"
+		(property "Value" "DH0630H-1R5M"
 			(at 144.78 20.3454 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7191,7 +7870,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Hatlabs:L_MWSA0402"
+		(property "Footprint" "HL_Inductor:L_DH0630H"
 			(at 144.78 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -7224,7 +7903,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C167205"
+		(property "LCSC" "C41407061"
 			(at 144.78 22.86 90)
 			(hide yes)
 			(show_name no)
@@ -8277,7 +8956,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SMF13CA"
+		(property "Value" "SMF16CA"
 			(at 53.34 35.5599 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8321,7 +9000,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C699053"
+		(property "LCSC" "C123805"
 			(at 50.8 34.29 90)
 			(hide yes)
 			(show_name no)
@@ -9490,9 +10169,95 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_Transistor_MOSFET_AKL:AO3401A")
-		(at 77.47 25.4 270)
-		(mirror x)
+		(lib_id "HL_Power_Protection:Fuse_Clip")
+		(at 48.26 19.05 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8fc1265f-dfa9-41f0-a50c-0e5acc2fe0e8")
+		(property "Reference" "FH2"
+			(at 48.26 13.97 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "XF-003"
+			(at 48.26 16.51 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "HL_Fuse:Fuse_Clip_XFCN_XF-003"
+			(at 48.26 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C717027.html"
+			(at 48.26 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fuse clip for 5x20mm cartridge fuses, one clip per fuse end; both blade pins on one pad number"
+			(at 48.26 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C717027"
+			(at 48.26 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b666c29f-c29c-4f0e-89b7-90536b4353eb")
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663"
+					(reference "FH2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:IRF7404")
+		(at 77.47 25.4 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9511,7 +10276,7 @@
 				)
 			)
 		)
-		(property "Value" "AO3401A"
+		(property "Value" "AO4407A"
 			(at 77.47 19.05 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9521,8 +10286,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
-			(at 74.93 20.32 0)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 80.01 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9532,7 +10297,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.tme.eu/Document/d25b071532a0a1e329733a03427696ee/AO3401A-DTE.pdf"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C2841482.html"
 			(at 77.47 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -9543,7 +10308,7 @@
 				)
 			)
 		)
-		(property "Description" "SOT-23 P-MOSFET enchancement mode transistor, 30V, 4A, 1.4W, Alternate KiCAD Library"
+		(property "Description" "P-channel MOSFET, -30V, -14A, 11.5mOhm max at Vgs -10V, SOIC-8 (UMW AO4407A)"
 			(at 77.47 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -9554,7 +10319,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C15127"
+		(property "LCSC" "C2841482"
 			(at 77.47 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -9575,17 +10340,6 @@
 				)
 			)
 		)
-		(property "JLCPCB_CORRECTION" "0;0;180"
-			(at 77.47 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "6aff8613-181a-41d8-a6b7-4531b8194eeb")
 		)
@@ -9594,6 +10348,21 @@
 		)
 		(pin "1"
 			(uuid "74332177-f9bf-424f-a71c-a84f4701b6ab")
+		)
+		(pin "4"
+			(uuid "0e0f3b4a-af41-4425-a72d-cf9b3c8cf040")
+		)
+		(pin "5"
+			(uuid "d74dd9f9-3dc6-4562-b015-58ce02c67311")
+		)
+		(pin "6"
+			(uuid "5f69719a-9c65-4637-99aa-e6b18d506b35")
+		)
+		(pin "7"
+			(uuid "6a9349e3-aa87-4c2f-abcb-3be85984eeae")
+		)
+		(pin "8"
+			(uuid "561f7335-e6d5-4e2d-adf3-f7750dd1e3fd")
 		)
 		(instances
 			(project "HALSPA"
@@ -10680,7 +11449,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 29.21 22.86 0)
+		(at 27.94 22.86 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10691,7 +11460,7 @@
 		(fields_autoplaced yes)
 		(uuid "b42a9536-c15d-4a71-82fc-3ff301290c35")
 		(property "Reference" "#FLG03"
-			(at 29.21 20.955 0)
+			(at 27.94 20.955 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10702,7 +11471,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 29.21 17.78 0)
+			(at 27.94 17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10712,7 +11481,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 22.86 0)
+			(at 27.94 22.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10723,7 +11492,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 22.86 0)
+			(at 27.94 22.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10734,7 +11503,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 29.21 22.86 0)
+			(at 27.94 22.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10829,6 +11598,79 @@
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663"
 					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "HL_Power_Protection:Fuse_Outline_5x20mm")
+		(at 29.21 41.91 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bf3dc962-ae9f-4606-b761-82912609d8e4")
+		(property "Reference" "FO1"
+			(at 29.21 38.735 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Fuse 5x20mm outline"
+			(at 29.21 45.085 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "HL_Fuse:Fuse_5x20mm_Outline"
+			(at 29.21 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 29.21 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Board outline and clip alignment markers for a 5x20mm cartridge fuse held by two Fuse_Clip parts; no pins, no BOM line"
+			(at 29.21 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663"
+					(reference "FO1")
 					(unit 1)
 				)
 			)
@@ -11525,6 +12367,93 @@
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663"
 					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "HL_Power_Protection:Fuse_Clip")
+		(at 38.1 19.05 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "dc7c688d-a62c-4d97-913c-5df3ee2b5219")
+		(property "Reference" "FH1"
+			(at 38.1 13.97 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "XF-003"
+			(at 38.1 16.51 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "HL_Fuse:Fuse_Clip_XFCN_XF-003"
+			(at 38.1 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C717027.html"
+			(at 38.1 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fuse clip for 5x20mm cartridge fuses, one clip per fuse end; both blade pins on one pad number"
+			(at 38.1 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C717027"
+			(at 38.1 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "71f57915-0519-4772-9e5d-7c277ea585f8")
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663"
+					(reference "FH1")
 					(unit 1)
 				)
 			)
@@ -12339,11 +13268,11 @@
 	(sheet
 		(at 40.64 72.39)
 		(size 19.05 12.7)
-		(fields_autoplaced)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -12376,43 +13305,43 @@
 		)
 		(pin "Vout" output
 			(at 59.69 76.2 0)
+			(uuid "a2963c54-fb1c-4c9a-b52a-adebfaecff09")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a2963c54-fb1c-4c9a-b52a-adebfaecff09")
 		)
 		(pin "EN" input
 			(at 40.64 81.28 180)
+			(uuid "90eaa1be-96c2-49ba-9e17-01ee7d48f9a4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "90eaa1be-96c2-49ba-9e17-01ee7d48f9a4")
 		)
 		(pin "Vin" input
 			(at 40.64 76.2 180)
+			(uuid "ec807cf8-1778-4924-92a7-a7e89d48c0e3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "ec807cf8-1778-4924-92a7-a7e89d48c0e3")
 		)
 		(pin "PG" output
 			(at 59.69 81.28 0)
+			(uuid "edb9c4f6-9caa-44a5-80be-e2cbdfa3b73d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "edb9c4f6-9caa-44a5-80be-e2cbdfa3b73d")
 		)
 		(instances
 			(project "HALSPA"
