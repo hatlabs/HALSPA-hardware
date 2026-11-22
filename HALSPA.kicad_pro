@@ -720,6 +720,18 @@
       "/Analog IO/~{EN_4}": [
         "Digital"
       ],
+      "/Board Power/Buck 5V/BOOT_": [
+        "Analog"
+      ],
+      "/Board Power/Buck 5V/FB": [
+        "Analog"
+      ],
+      "/Board Power/Buck 5V/SW": [
+        "Power"
+      ],
+      "/Board Power/Buck 5V/VCC": [
+        "Analog"
+      ],
       "/DUT Power/Buck 3.3V/BOOT_": [
         "Analog"
       ],
@@ -743,30 +755,6 @@
       ],
       "/DUT Power/Buck 5V/VCC": [
         "Analog"
-      ],
-      "/DUT Power/EN_EF_1": [
-        "Digital"
-      ],
-      "/DUT Power/EN_EF_2": [
-        "Digital"
-      ],
-      "/DUT Power/EN_3V3D": [
-        "Digital"
-      ],
-      "/DUT Power/EN_5VD": [
-        "Digital"
-      ],
-      "/DUT Power/EN_CLS_1": [
-        "Digital"
-      ],
-      "/DUT Power/EN_CLS_2": [
-        "Digital"
-      ],
-      "/DUT Power/EN_CLS_3": [
-        "Digital"
-      ],
-      "/DUT Power/EN_CLS_4": [
-        "Digital"
       ],
       "/DUT Power/CLS 1/CLSOUT": [
         "Power"
@@ -792,6 +780,30 @@
       "/DUT Power/CLS 4/Vout": [
         "Power"
       ],
+      "/DUT Power/EN_3V3D": [
+        "Digital"
+      ],
+      "/DUT Power/EN_5VD": [
+        "Digital"
+      ],
+      "/DUT Power/EN_CLS_1": [
+        "Digital"
+      ],
+      "/DUT Power/EN_CLS_2": [
+        "Digital"
+      ],
+      "/DUT Power/EN_CLS_3": [
+        "Digital"
+      ],
+      "/DUT Power/EN_CLS_4": [
+        "Digital"
+      ],
+      "/DUT Power/EN_EF_1": [
+        "Digital"
+      ],
+      "/DUT Power/EN_EF_2": [
+        "Digital"
+      ],
       "/DUT Power/PG_3V3": [
         "Analog",
         "Digital"
@@ -806,12 +818,6 @@
       "/DUT Power/VinP": [
         "Power"
       ],
-      "/DUT Power/~{FAULT_EF_1}": [
-        "Digital"
-      ],
-      "/DUT Power/~{FAULT_EF_2}": [
-        "Digital"
-      ],
       "/DUT Power/~{FAULT_CLS_1}": [
         "Digital"
       ],
@@ -822,6 +828,12 @@
         "Digital"
       ],
       "/DUT Power/~{FAULT_CLS_4}": [
+        "Digital"
+      ],
+      "/DUT Power/~{FAULT_EF_1}": [
+        "Digital"
+      ],
+      "/DUT Power/~{FAULT_EF_2}": [
         "Digital"
       ],
       "/MCU 1/PICO_3V3": [
@@ -1302,6 +1314,14 @@
     [
       "1d2395d0-965a-4393-a175-ebb441a2cd54",
       "Edge Connectors"
+    ],
+    [
+      "025d7156-b273-4ebf-9273-69060ea78a25",
+      "Board Power"
+    ],
+    [
+      "0b93010e-7186-4c56-8cf0-7650ecdc2789",
+      "Buck 5V"
     ]
   ],
   "text_variables": {},

@@ -1958,16 +1958,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 39.37) (xy 118.11 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09c0986f-2bac-4b4f-b7d2-42cf0c9a67bf")
-	)
-	(wire
-		(pts
 			(xy 213.36 109.22) (xy 213.36 107.95)
 		)
 		(stroke
@@ -2028,16 +2018,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 39.37) (xy 110.49 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11c2aa6e-b258-4ec7-a2c1-c3b33c370885")
-	)
-	(wire
-		(pts
 			(xy 213.36 95.25) (xy 212.09 95.25)
 		)
 		(stroke
@@ -2075,16 +2055,6 @@
 			(type default)
 		)
 		(uuid "1a21a330-3649-4c4e-af29-1133b47dac2e")
-	)
-	(wire
-		(pts
-			(xy 125.73 43.18) (xy 118.11 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ac5020e-85c2-4f2c-b606-70ab2c6057da")
 	)
 	(wire
 		(pts
@@ -2778,16 +2748,6 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 43.18) (xy 99.06 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94c098fa-e575-4866-af31-ea635add1dc1")
-	)
-	(wire
-		(pts
 			(xy 135.89 71.12) (xy 135.89 91.44)
 		)
 		(stroke
@@ -2895,16 +2855,6 @@
 			(type default)
 		)
 		(uuid "a77648c7-6528-4f4d-a20f-6ec98b82f439")
-	)
-	(wire
-		(pts
-			(xy 110.49 43.18) (xy 99.06 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa71d47f-e9bc-4569-b50c-ca84e645d1d5")
 	)
 	(wire
 		(pts
@@ -3165,16 +3115,6 @@
 			(type default)
 		)
 		(uuid "daf02be7-5e0e-4433-9db8-e9e83a139396")
-	)
-	(wire
-		(pts
-			(xy 106.68 36.83) (xy 106.68 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc33eb68-1cee-4df3-be1f-c0513eb09f3f")
 	)
 	(wire
 		(pts
@@ -16761,16 +16701,6 @@
 		)
 		(uuid "5fc9c66b-86ff-4c30-b790-24e2d4f1882e")
 	)
-	(label "RPI_3V3"
-		(at 125.73 43.18 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "65c81ac4-61f5-4e36-8821-990464c44bb3")
-	)
 	(label "GPIO6"
 		(at 198.12 101.6 180)
 		(effects
@@ -17021,16 +16951,6 @@
 		)
 		(uuid "c089071d-fce1-4a99-95c5-cc392395e3e6")
 	)
-	(label "RPI_5V"
-		(at 125.73 39.37 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c14eab6d-cfac-4928-b333-8aedb1a2ded2")
-	)
 	(label "GPIO8"
 		(at 152.4 88.9 0)
 		(effects
@@ -17216,78 +17136,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 120.65 39.37 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3a0be853-7d52-48e6-a446-f2ab3b07b0ad")
-		(property "Netclass" "Power"
-			(at 121.539 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -83.82 11.43 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 120.65 43.18 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e3848cac-0c53-42ad-9be1-14ca08772270")
-		(property "Netclass" "Power"
-			(at 121.539 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -83.82 15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
 			)
 		)
 	)
@@ -17612,87 +17460,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 114.3 43.18 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "35904ad7-eb64-4a03-80a2-2096239b5fab")
-		(property "Reference" "JP108"
-			(at 114.3 39.37 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 114.3 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 114.3 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 114.3 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 114.3 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "85910ddb-7195-46a9-8fc8-afff2e3ad1b2")
-		)
-		(pin "2"
-			(uuid "054f0cbc-4484-42cc-9644-80a6912c1823")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d60c1020-d2cb-4d48-a4f2-2128439747bd"
-					(reference "JP108")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 198.12 92.71 270)
 		(unit 1)
@@ -17999,84 +17766,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 106.68 36.83 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "90500b04-74f3-4ce9-8c86-5dcf41e7ea7a")
-		(property "Reference" "#PWR0279"
-			(at 106.68 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 106.68 31.75 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 106.68 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 106.68 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 106.68 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d669de78-66d0-4116-b92a-8a453b21f275")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d60c1020-d2cb-4d48-a4f2-2128439747bd"
-					(reference "#PWR0279")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_02x20_Odd_Even")
 		(at 204.47 85.09 0)
 		(unit 1)
@@ -18293,84 +17982,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 99.06 36.83 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b232d0c6-df7b-440b-bd18-de1b2ef5685e")
-		(property "Reference" "#PWR0278"
-			(at 99.06 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 99.06 31.75 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 99.06 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 99.06 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 99.06 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "200562ee-abb6-4f5f-bad7-d5483303a9f1")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d60c1020-d2cb-4d48-a4f2-2128439747bd"
-					(reference "#PWR0278")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 213.36 97.79 90)
 		(unit 1)
@@ -18444,87 +18055,6 @@
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d60c1020-d2cb-4d48-a4f2-2128439747bd"
 					(reference "#PWR0288")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 114.3 39.37 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c8e2af8f-7cd5-4eef-bf6f-b8048eb5dd8f")
-		(property "Reference" "JP107"
-			(at 114.3 35.56 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 114.3 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 114.3 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 114.3 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 114.3 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "02a0253e-d381-4375-aec3-cbd9a68d1650")
-		)
-		(pin "2"
-			(uuid "99912d8b-af12-4bf2-a4cc-265f05e2b5f9")
-		)
-		(instances
-			(project "HALSPA"
-				(path "/7eeba806-440e-4671-bc07-69fe183910a7/d60c1020-d2cb-4d48-a4f2-2128439747bd"
-					(reference "JP107")
 					(unit 1)
 				)
 			)
@@ -19002,6 +18532,56 @@
 					(reference "#PWR0284")
 					(unit 1)
 				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 151.13 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "afcf4fb2-e6f1-4141-828a-772fab9b9aed")
+		(property "Netclass" "Power"
+			(at 152.019 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 135.89 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d90980d9-76f5-4bf2-a6bd-3d445ecd2d5e")
+		(property "Netclass" "Power"
+			(at 136.779 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
