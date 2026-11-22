@@ -11,11 +11,11 @@ fp-info-cache
 # Generated output
 output/
 assembly-panel/
-HALSPA-panel.kicad_pcb
+HALSPA-panel.*
 *.pdf
 !cern_ohl_s_v2.pdf
 
-# 3D models (large, sourced separately)
+# Local 3D model cache, not referenced by the board
 Hatlabs.3dshapes/
 
 # Editor local history

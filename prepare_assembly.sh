@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
 set -euo pipefail
-#shopt -s inherit_errexit
+
+cd "$(dirname "$0")"
 
 BOARD=HALSPA
 
@@ -29,3 +30,5 @@ kikit fab jlcpcb \
     --schematic ${BOARD}.kicad_sch \
     ${BOARD}-panel.kicad_pcb \
     assembly-panel
+
+rm -f ${BOARD}-panel.*
