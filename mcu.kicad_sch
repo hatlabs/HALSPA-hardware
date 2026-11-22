@@ -3952,12 +3952,6 @@
 		(uuid "195cfdd1-3cf2-4d8f-ab35-8297e3bf2acb")
 	)
 	(junction
-		(at 184.15 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1a9e929e-61a2-46d3-bd3a-868c07718eab")
-	)
-	(junction
 		(at 142.24 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4256,12 +4250,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "896c82ea-5f3a-45c2-b539-11cf998fa0c7")
-	)
-	(junction
-		(at 163.83 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8c3dcfb6-c0ad-44f2-bc14-159237688c6f")
 	)
 	(junction
 		(at 76.2 133.35)
@@ -5187,7 +5175,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 100.33) (xy 184.15 100.33)
+			(xy 148.59 100.33) (xy 210.82 100.33)
 		)
 		(stroke
 			(width 0)
@@ -5384,16 +5372,6 @@
 			(type default)
 		)
 		(uuid "4d03697f-0bbe-41d5-9bc5-8779e30fc855")
-	)
-	(wire
-		(pts
-			(xy 163.83 90.17) (xy 210.82 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ecbd95b-8aee-4bb3-9eac-6a34d70ae671")
 	)
 	(wire
 		(pts
@@ -6387,7 +6365,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 90.17) (xy 148.59 90.17)
+			(xy 148.59 90.17) (xy 210.82 90.17)
 		)
 		(stroke
 			(width 0)
@@ -6454,16 +6432,6 @@
 			(type default)
 		)
 		(uuid "ace2fc99-203c-47d5-b209-2cf11d020fbe")
-	)
-	(wire
-		(pts
-			(xy 184.15 100.33) (xy 210.82 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae89f865-cef9-495a-a887-e265222ba478")
 	)
 	(wire
 		(pts
@@ -8662,6 +8630,56 @@
 		(uuid "9a1c27d5-acc1-4e3a-80ba-86c5cde3a406")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 171.45 63.2016 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 261.62 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4f2a16af-7bf3-4599-9163-9febd977e0c2")
+		(property "Netclass" "Power"
+			(at 262.509 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 260.35 91.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b70ab616-beea-402b-9716-df2582713062")
+		(property "Netclass" "Power"
+			(at 261.239 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15440,56 +15458,6 @@
 					(reference "JP50")
 					(unit 1)
 				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 260.35 91.44 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b70ab616-beea-402b-9716-df2582713062")
-		(property "Netclass" "Power"
-			(at 261.239 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 261.62 101.6 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4f2a16af-7bf3-4599-9163-9febd977e0c2")
-		(property "Netclass" "Power"
-			(at 262.509 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
