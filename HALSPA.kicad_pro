@@ -812,6 +812,12 @@
         "Analog",
         "Digital"
       ],
+      "/DUT Power/eFuse 1/Vout": [
+        "Power"
+      ],
+      "/DUT Power/eFuse 2/Vout": [
+        "Power"
+      ],
       "/DUT Power/~{FAULT_CLS_1}": [
         "Digital"
       ],
