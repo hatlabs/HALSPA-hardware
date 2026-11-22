@@ -744,10 +744,10 @@
       "/DUT Power/Buck 5V/VCC": [
         "Analog"
       ],
-      "/DUT Power/EN_12V_1": [
+      "/DUT Power/EN_EF_1": [
         "Digital"
       ],
-      "/DUT Power/EN_12V_2": [
+      "/DUT Power/EN_EF_2": [
         "Digital"
       ],
       "/DUT Power/EN_3V3D": [
@@ -756,40 +756,40 @@
       "/DUT Power/EN_5VD": [
         "Digital"
       ],
-      "/DUT Power/EN_LIM_1": [
+      "/DUT Power/EN_CLS_1": [
         "Digital"
       ],
-      "/DUT Power/EN_LIM_2": [
+      "/DUT Power/EN_CLS_2": [
         "Digital"
       ],
-      "/DUT Power/EN_LIM_3": [
+      "/DUT Power/EN_CLS_3": [
         "Digital"
       ],
-      "/DUT Power/EN_LIM_4": [
+      "/DUT Power/EN_CLS_4": [
         "Digital"
       ],
-      "/DUT Power/Load switch 5V 1/CLSOUT": [
+      "/DUT Power/CLS 1/CLSOUT": [
         "Power"
       ],
-      "/DUT Power/Load switch 5V 1/Vout": [
+      "/DUT Power/CLS 1/Vout": [
         "Power"
       ],
-      "/DUT Power/Load switch 5V 2/CLSOUT": [
+      "/DUT Power/CLS 2/CLSOUT": [
         "Power"
       ],
-      "/DUT Power/Load switch 5V 2/Vout": [
+      "/DUT Power/CLS 2/Vout": [
         "Power"
       ],
-      "/DUT Power/Load switch 5V 3/CLSOUT": [
+      "/DUT Power/CLS 3/CLSOUT": [
         "Power"
       ],
-      "/DUT Power/Load switch 5V 3/Vout": [
+      "/DUT Power/CLS 3/Vout": [
         "Power"
       ],
-      "/DUT Power/Load switch 5V 4/CLSOUT": [
+      "/DUT Power/CLS 4/CLSOUT": [
         "Power"
       ],
-      "/DUT Power/Load switch 5V 4/Vout": [
+      "/DUT Power/CLS 4/Vout": [
         "Power"
       ],
       "/DUT Power/PG_3V3": [
@@ -806,22 +806,22 @@
       "/DUT Power/VinP": [
         "Power"
       ],
-      "/DUT Power/~{FAULT_12V_1}": [
+      "/DUT Power/~{FAULT_EF_1}": [
         "Digital"
       ],
-      "/DUT Power/~{FAULT_12V_2}": [
+      "/DUT Power/~{FAULT_EF_2}": [
         "Digital"
       ],
-      "/DUT Power/~{FAULT_LIM_1}": [
+      "/DUT Power/~{FAULT_CLS_1}": [
         "Digital"
       ],
-      "/DUT Power/~{FAULT_LIM_2}": [
+      "/DUT Power/~{FAULT_CLS_2}": [
         "Digital"
       ],
-      "/DUT Power/~{FAULT_LIM_3}": [
+      "/DUT Power/~{FAULT_CLS_3}": [
         "Digital"
       ],
-      "/DUT Power/~{FAULT_LIM_4}": [
+      "/DUT Power/~{FAULT_CLS_4}": [
         "Digital"
       ],
       "/MCU 1/PICO_3V3": [
@@ -1189,27 +1189,27 @@
     ],
     [
       "58895391-6de3-4802-b78e-fd4c1def1d51",
-      "Load switch 5V 1"
+      "CLS 1"
     ],
     [
       "dc4fcfb7-68a6-44ea-9d8f-e99fcae2074b",
-      "Load switch 5V 2"
+      "CLS 2"
     ],
     [
       "f4b18902-6d6f-48e0-a670-48902db708d0",
-      "Load switch 5V 3"
+      "CLS 3"
     ],
     [
       "13060095-6d27-44b3-bc05-db67b8476217",
-      "Load switch 5V 4"
+      "CLS 4"
     ],
     [
       "bdd06149-f2cd-411d-9834-295c431deac0",
-      "Load switch 12V 1"
+      "eFuse 1"
     ],
     [
       "e3bbb823-378e-479b-b487-992af39023d2",
-      "Load switch 12V 2"
+      "eFuse 2"
     ],
     [
       "3e131f2a-dbd5-4c45-87ea-4e6b43df983f",

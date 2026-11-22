@@ -1838,7 +1838,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Current Limit switch"
+	(text "Current-limited switch"
 		(exclude_from_sim no)
 		(at 170.18 113.792 0)
 		(effects

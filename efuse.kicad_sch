@@ -3948,7 +3948,7 @@
 		)
 		(uuid "dae0f8c0-0a3c-4c19-8c9c-a1cb14f89dcf")
 	)
-	(text "Load switch"
+	(text "eFuse"
 		(exclude_from_sim no)
 		(at 32.258 110.744 0)
 		(effects
