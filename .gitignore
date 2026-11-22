@@ -1,0 +1,22 @@
+# KiCad per-user state, locks, caches and backups
+*.kicad_prl
+~*.lck
+_autosave-*
+fp-info-cache
+*-bak
+*-backups/
+*.kicad_sch.bak
+*.kicad_pcb.bak
+
+# Generated output
+output/
+assembly-panel/
+HALSPA-panel.*
+*.pdf
+!cern_ohl_s_v2.pdf
+
+# Local 3D model cache, not referenced by the board
+Hatlabs.3dshapes/
+
+# Editor local history
+.history/
