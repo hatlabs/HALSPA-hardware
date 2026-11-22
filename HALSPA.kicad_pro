@@ -3,6 +3,8 @@
     "3dviewports": [],
     "design_settings": {
       "defaults": {
+        "apply_defaults_to_fp_barcodes": false,
+        "apply_defaults_to_fp_dimensions": false,
         "apply_defaults_to_fp_fields": false,
         "apply_defaults_to_fp_shapes": false,
         "apply_defaults_to_fp_text": false,
@@ -38,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.8,
-          "height": 1.4,
-          "width": 1.4
+          "height": 1.27,
+          "width": 2.54
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -48,7 +50,23 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "border_display_style": 2,
+          "border_hatch_pitch": 0.5,
+          "corner_radius": 0.0,
+          "corner_smoothing": 0,
+          "fill_mode": 0,
+          "hatch_gap": 1.5,
+          "hatch_orientation": 0.0,
+          "hatch_smoothing_level": 0,
+          "hatch_smoothing_value": 0.1,
+          "hatch_thickness": 1.0,
+          "min_clearance": 0.2,
+          "min_island_area": 10.0,
+          "min_thickness": 0.25,
+          "pad_connection": 1,
+          "remove_islands": 0,
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -65,11 +83,11 @@
       ],
       "drc_exclusions": [
         [
-          "footprint_type_mismatch|252660000|97810000|d3faadb1-da32-4b2c-b5f3-9026293ef2b0|00000000-0000-0000-0000-000000000000",
+          "footprint_type_mismatch|153880000|160010000|d3faadb1-da32-4b2c-b5f3-9026293ef2b0|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "footprint_type_mismatch|256410000|84650000|eab3c3a3-1db5-4f1e-8f4a-3bf07949c138|00000000-0000-0000-0000-000000000000",
+          "footprint_type_mismatch|176022000|160010000|eab3c3a3-1db5-4f1e-8f4a-3bf07949c138|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -91,6 +109,7 @@
         "extra_footprint": "warning",
         "footprint": "error",
         "footprint_filters_mismatch": "ignore",
+        "footprint_symbol_field_mismatch": "warning",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "error",
         "hole_clearance": "error",
@@ -108,6 +127,7 @@
         "mirrored_text_on_front_layer": "warning",
         "missing_courtyard": "ignore",
         "missing_footprint": "warning",
+        "missing_tuning_profile": "warning",
         "net_conflict": "warning",
         "nonmirrored_text_on_back_layer": "warning",
         "npth_inside_courtyard": "ignore",
@@ -127,9 +147,12 @@
         "too_many_vias": "error",
         "track_angle": "error",
         "track_dangling": "warning",
+        "track_not_centered_on_via": "ignore",
+        "track_on_post_machined_layer": "error",
         "track_segment_length": "error",
         "track_width": "error",
         "tracks_crossing": "error",
+        "tuning_profile_track_geometries": "ignore",
         "unconnected_items": "error",
         "unresolved_variable": "error",
         "via_dangling": "warning",
@@ -169,6 +192,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 1,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -180,6 +204,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 1,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -191,6 +216,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 1,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -262,17 +288,28 @@
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
+      "bom_rev": "",
       "dist": "",
       "distpn": "",
       "internal_id": "",
       "mfg": "",
-      "mpn": ""
+      "mpn": "",
+      "sch_revision": "v0.4.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
     "viewports": []
   },
   "boards": [],
+  "component_class_settings": {
+    "assignments": [],
+    "meta": {
+      "version": 0
+    },
+    "sheet_component_classes": {
+      "enabled": false
+    }
+  },
   "cvpcb": {
     "equivalence_files": []
   },
@@ -462,11 +499,14 @@
       "duplicate_sheet_names": "error",
       "endpoint_off_grid": "warning",
       "extra_units": "error",
+      "field_name_whitespace": "warning",
       "footprint_filter": "ignore",
       "footprint_link_issues": "warning",
       "four_way_junction": "ignore",
       "global_label_dangling": "warning",
+      "ground_pin_not_ground": "warning",
       "hier_label_mismatch": "error",
+      "isolated_pin_label": "warning",
       "label_dangling": "error",
       "label_multiple_wires": "warning",
       "lib_symbol_issues": "warning",
@@ -484,11 +524,13 @@
       "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
+      "same_local_global_power": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
       "simulation_model_issue": "ignore",
       "single_global_label": "ignore",
+      "stacked_pin_name": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
       "undefined_netclass": "error",
@@ -521,6 +563,7 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.3,
+        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 5
@@ -538,6 +581,7 @@
         "priority": 6,
         "schematic_color": "rgb(0, 0, 194)",
         "track_width": 0.4,
+        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 5
@@ -546,7 +590,8 @@
         "name": "Diff100ohm",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
-        "schematic_color": "rgb(255, 141, 141)"
+        "schematic_color": "rgb(255, 141, 141)",
+        "tuning_profile": ""
       },
       {
         "diff_pair_gap": 0.2,
@@ -554,7 +599,8 @@
         "name": "Diff90ohm",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2,
-        "schematic_color": "rgb(255, 141, 141)"
+        "schematic_color": "rgb(255, 141, 141)",
+        "tuning_profile": ""
       },
       {
         "clearance": 0.3,
@@ -563,6 +609,7 @@
         "priority": 3,
         "schematic_color": "rgb(132, 132, 0)",
         "track_width": 0.15,
+        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3
       },
@@ -573,6 +620,7 @@
         "priority": 5,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.4,
+        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3
       },
@@ -580,14 +628,16 @@
         "name": "HV",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 4,
-        "schematic_color": "rgb(255, 153, 0)"
+        "schematic_color": "rgb(255, 153, 0)",
+        "tuning_profile": ""
       },
       {
         "name": "PoETap",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgb(204, 102, 0)",
-        "track_width": 0.6
+        "track_width": 0.6,
+        "tuning_profile": ""
       },
       {
         "bus_width": 12,
@@ -602,15 +652,16 @@
         "priority": 7,
         "schematic_color": "rgb(194, 0, 0)",
         "track_width": 0.4,
+        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 5
       }
     ],
     "meta": {
-      "version": 4
+      "version": 5
     },
-    "net_colors": null,
+    "net_colors": {},
     "netclass_assignments": {
       "+12V": [
         "Power"
@@ -633,9 +684,6 @@
       "/Analog IO/A0_4": [
         "Digital"
       ],
-      "/Analog IO/A1": [
-        "Digital"
-      ],
       "/Analog IO/A1_1": [
         "Digital"
       ],
@@ -646,9 +694,6 @@
         "Digital"
       ],
       "/Analog IO/A1_4": [
-        "Digital"
-      ],
-      "/Analog IO/A2": [
         "Digital"
       ],
       "/Analog IO/A2_1": [
@@ -663,66 +708,6 @@
       "/Analog IO/A2_4": [
         "Digital"
       ],
-      "/Analog IO/A3": [
-        "Digital"
-      ],
-      "/Analog IO/A4": [
-        "Digital"
-      ],
-      "/Analog IO/Analog MUX 1/VDD": [
-        "Power"
-      ],
-      "/Analog IO/Analog MUX 2/VDD": [
-        "Power"
-      ],
-      "/Analog IO/Analog MUX 3/VDD": [
-        "Power"
-      ],
-      "/Analog IO/Analog MUX 4/VDD": [
-        "Power"
-      ],
-      "/Analog IO/B1": [
-        "Digital"
-      ],
-      "/Analog IO/B2": [
-        "Digital"
-      ],
-      "/Analog IO/B3": [
-        "Digital"
-      ],
-      "/Analog IO/B4": [
-        "Digital"
-      ],
-      "/Analog IO/C1": [
-        "Digital"
-      ],
-      "/Analog IO/C2": [
-        "Digital"
-      ],
-      "/Analog IO/C3": [
-        "Digital"
-      ],
-      "/Analog IO/C4": [
-        "Digital"
-      ],
-      "/Analog IO/INH1": [
-        "Digital"
-      ],
-      "/Analog IO/INH2": [
-        "Digital"
-      ],
-      "/Analog IO/INH3": [
-        "Digital"
-      ],
-      "/Analog IO/INH4": [
-        "Digital"
-      ],
-      "/Analog IO/SCL": [
-        "Digital"
-      ],
-      "/Analog IO/SDA": [
-        "Digital"
-      ],
       "/Analog IO/~{EN_1}": [
         "Digital"
       ],
@@ -735,16 +720,10 @@
       "/Analog IO/~{EN_4}": [
         "Digital"
       ],
-      "/Analog IO/~{INT}": [
-        "Digital"
-      ],
       "/DUT Power/Buck 3.3V/BOOT_": [
         "Analog"
       ],
       "/DUT Power/Buck 3.3V/FB": [
-        "Analog"
-      ],
-      "/DUT Power/Buck 3.3V/PG": [
         "Analog"
       ],
       "/DUT Power/Buck 3.3V/SW": [
@@ -759,38 +738,11 @@
       "/DUT Power/Buck 5V/FB": [
         "Analog"
       ],
-      "/DUT Power/Buck 5V/PG": [
-        "Analog"
-      ],
       "/DUT Power/Buck 5V/SW": [
         "Power"
       ],
       "/DUT Power/Buck 5V/VCC": [
         "Analog"
-      ],
-      "/DUT Power/Curlim 1/CLSOUT": [
-        "Power"
-      ],
-      "/DUT Power/Curlim 1/Vout": [
-        "Power"
-      ],
-      "/DUT Power/Curlim 2/CLSOUT": [
-        "Power"
-      ],
-      "/DUT Power/Curlim 2/Vout": [
-        "Power"
-      ],
-      "/DUT Power/Curlim 3/CLSOUT": [
-        "Power"
-      ],
-      "/DUT Power/Curlim 3/Vout": [
-        "Power"
-      ],
-      "/DUT Power/Curlim 4/CLSOUT": [
-        "Power"
-      ],
-      "/DUT Power/Curlim 4/Vout": [
-        "Power"
       ],
       "/DUT Power/EN_12V_1": [
         "Digital"
@@ -848,12 +800,6 @@
         "Analog",
         "Digital"
       ],
-      "/DUT Power/SCL": [
-        "Digital"
-      ],
-      "/DUT Power/SDA": [
-        "Digital"
-      ],
       "/DUT Power/Vin": [
         "Power"
       ],
@@ -878,16 +824,10 @@
       "/DUT Power/~{FAULT_LIM_4}": [
         "Digital"
       ],
-      "/DUT Power/~{INT}": [
-        "Digital"
-      ],
       "/MCU 1/PICO_3V3": [
         "Power"
       ],
       "/MCU 1/PICO_5V": [
-        "Power"
-      ],
-      "/Opamp/VCC": [
         "Power"
       ],
       "/Raspberry Pi GPIO/RPI_3V3": [
@@ -959,27 +899,6 @@
       "/~{UFLT}": [
         "Digital"
       ],
-      "Net-(U401-OUT)": [
-        "Power"
-      ],
-      "Net-(U402-OUT)": [
-        "Power"
-      ],
-      "Net-(U403-OUT)": [
-        "Power"
-      ],
-      "Net-(U404-OUT)": [
-        "Power"
-      ],
-      "Net-(U501-OUT)": [
-        "Power"
-      ],
-      "Net-(U601-OUT)": [
-        "Power"
-      ],
-      "Net-(U701-OUT)": [
-        "Power"
-      ],
       "SCL": [
         "Digital"
       ],
@@ -1034,6 +953,10 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "annotation": {
+      "method": 0,
+      "sort_order": 0
+    },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
@@ -1193,8 +1116,9 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Value"
+      "sort_field": "Reference"
     },
+    "bus_aliases": {},
     "connection_grid_size": 50.0,
     "drawing": {
       "dashed_lines_dash_length_ratio": 12.0,
@@ -1202,6 +1126,7 @@
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
+      "hop_over_size_choice": 0,
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": true,
@@ -1225,6 +1150,7 @@
     "net_format_name": "",
     "page_layout_descr_file": "",
     "plot_directory": "",
+    "reuse_designators": true,
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -1233,12 +1159,21 @@
     "spice_save_all_dissipations": false,
     "spice_save_all_voltages": false,
     "subpart_first_id": 65,
-    "subpart_id_separator": 0
+    "subpart_id_separator": 0,
+    "top_level_sheets": [
+      {
+        "filename": "HALSPA.kicad_sch",
+        "name": "HALSPA",
+        "uuid": "7eeba806-440e-4671-bc07-69fe183910a7"
+      }
+    ],
+    "used_designators": "",
+    "variants": []
   },
   "sheets": [
     [
       "7eeba806-440e-4671-bc07-69fe183910a7",
-      "Root"
+      "HALSPA"
     ],
     [
       "8a7bd3c3-3783-4a08-9c22-bb373aae5663",
@@ -1301,44 +1236,16 @@
       "INA199 1"
     ],
     [
-      "c1640104-e93c-4dad-89ee-86b02155c684",
-      "Analog IO"
-    ],
-    [
       "ce058287-6d95-4419-af16-33ee4d22930e",
       "INA199 2"
-    ],
-    [
-      "47d24875-8df4-4f2a-9eb7-424cf9f25e0d",
-      "Level Shifting"
-    ],
-    [
-      "6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9",
-      "Analog MUX 1"
     ],
     [
       "d2563b9c-21b7-43a8-ad57-d0568fac8495",
       "USB serial interface"
     ],
     [
-      "622497c5-aad0-4b8f-b029-b557d24d2703",
-      "INA199 3"
-    ],
-    [
-      "884a68a7-a98a-499d-b804-4c3e5a6711fb",
-      "Analog MUX 2"
-    ],
-    [
       "e58e5285-b72c-4e4c-88bb-30be4b81421e",
       "USB connector"
-    ],
-    [
-      "4af25350-e1ae-4cb6-8ebc-d8cb232dd08c",
-      "INA199 4"
-    ],
-    [
-      "93528cc8-9ea6-4e83-9001-dc55f14534f1",
-      "Analog MUX 3"
     ],
     [
       "7f1d0812-6a9e-4744-8af9-695086760ff2",
@@ -1353,12 +1260,40 @@
       "MCU 1"
     ],
     [
+      "c1640104-e93c-4dad-89ee-86b02155c684",
+      "Analog IO"
+    ],
+    [
       "d60c1020-d2cb-4d48-a4f2-2128439747bd",
       "Raspberry Pi GPIO"
     ],
     [
+      "47d24875-8df4-4f2a-9eb7-424cf9f25e0d",
+      "Level Shifting"
+    ],
+    [
       "860f2daf-0aee-4ff4-baf5-7dbe3621b169",
       "PCB"
+    ],
+    [
+      "6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9",
+      "Analog MUX 1"
+    ],
+    [
+      "622497c5-aad0-4b8f-b029-b557d24d2703",
+      "INA199 3"
+    ],
+    [
+      "884a68a7-a98a-499d-b804-4c3e5a6711fb",
+      "Analog MUX 2"
+    ],
+    [
+      "4af25350-e1ae-4cb6-8ebc-d8cb232dd08c",
+      "INA199 4"
+    ],
+    [
+      "93528cc8-9ea6-4e83-9001-dc55f14534f1",
+      "Analog MUX 3"
     ],
     [
       "59dd24a4-adfb-44de-8e54-6eb8023dd64e",
@@ -1369,5 +1304,11 @@
       "Edge Connectors"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {},
+  "tuning_profiles": {
+    "meta": {
+      "version": 0
+    },
+    "tuning_profiles_impedance_geometric": []
+  }
 }
