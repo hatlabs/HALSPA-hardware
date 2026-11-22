@@ -538,7 +538,8 @@
 			(symbol "C_0_1"
 				(polyline
 					(pts
-						(xy -2.032 0.762) (xy 2.032 0.762)
+						(xy -2.032 0.762)
+						(xy 2.032 0.762)
 					)
 					(stroke
 						(width 0.508)
@@ -550,7 +551,8 @@
 				)
 				(polyline
 					(pts
-						(xy -2.032 -0.762) (xy 2.032 -0.762)
+						(xy -2.032 -0.762)
+						(xy 2.032 -0.762)
 					)
 					(stroke
 						(width 0.508)
@@ -703,7 +705,11 @@
 			(symbol "LED_0_1"
 				(polyline
 					(pts
-						(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
+						(xy -3.048 -0.762)
+						(xy -4.572 -2.286)
+						(xy -3.81 -2.286)
+						(xy -4.572 -2.286)
+						(xy -4.572 -1.524)
 					)
 					(stroke
 						(width 0)
@@ -715,7 +721,11 @@
 				)
 				(polyline
 					(pts
-						(xy -1.778 -0.762) (xy -3.302 -2.286) (xy -2.54 -2.286) (xy -3.302 -2.286) (xy -3.302 -1.524)
+						(xy -1.778 -0.762)
+						(xy -3.302 -2.286)
+						(xy -2.54 -2.286)
+						(xy -3.302 -2.286)
+						(xy -3.302 -1.524)
 					)
 					(stroke
 						(width 0)
@@ -727,7 +737,8 @@
 				)
 				(polyline
 					(pts
-						(xy -1.27 0) (xy 1.27 0)
+						(xy -1.27 0)
+						(xy 1.27 0)
 					)
 					(stroke
 						(width 0)
@@ -739,7 +750,8 @@
 				)
 				(polyline
 					(pts
-						(xy -1.27 -1.27) (xy -1.27 1.27)
+						(xy -1.27 -1.27)
+						(xy -1.27 1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -751,7 +763,10 @@
 				)
 				(polyline
 					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+						(xy 1.27 -1.27)
+						(xy 1.27 1.27)
+						(xy -1.27 0)
+						(xy 1.27 -1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -1074,7 +1089,8 @@
 				)
 				(polyline
 					(pts
-						(xy 1.524 0.762) (xy 1.524 -0.762)
+						(xy 1.524 0.762)
+						(xy 1.524 -0.762)
 					)
 					(stroke
 						(width 0)
@@ -1086,7 +1102,8 @@
 				)
 				(polyline
 					(pts
-						(xy 2.54 0) (xy 1.524 0)
+						(xy 2.54 0)
+						(xy 1.524 0)
 					)
 					(stroke
 						(width 0)
@@ -1528,7 +1545,8 @@
 			(symbol "+12V_0_1"
 				(polyline
 					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
+						(xy -0.762 1.27)
+						(xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -1540,7 +1558,8 @@
 				)
 				(polyline
 					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
+						(xy 0 2.54)
+						(xy 0.762 1.27)
 					)
 					(stroke
 						(width 0)
@@ -1552,7 +1571,8 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 2.54)
+						(xy 0 0)
+						(xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -1667,7 +1687,8 @@
 			(symbol "+3.3V_0_1"
 				(polyline
 					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
+						(xy -0.762 1.27)
+						(xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -1679,7 +1700,8 @@
 				)
 				(polyline
 					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
+						(xy 0 2.54)
+						(xy 0.762 1.27)
 					)
 					(stroke
 						(width 0)
@@ -1691,7 +1713,8 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 2.54)
+						(xy 0 0)
+						(xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -1806,7 +1829,12 @@
 			(symbol "GND_0_1"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+						(xy 0 0)
+						(xy 0 -1.27)
+						(xy 1.27 -1.27)
+						(xy 0 -2.54)
+						(xy -1.27 -1.27)
+						(xy 0 -1.27)
 					)
 					(stroke
 						(width 0)
@@ -1902,7 +1930,8 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 74.93) (xy 88.9 74.93)
+			(xy 83.82 74.93)
+			(xy 88.9 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1912,7 +1941,8 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 48.26) (xy 246.38 46.99)
+			(xy 246.38 48.26)
+			(xy 246.38 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1922,7 +1952,8 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 95.25) (xy 125.73 97.79)
+			(xy 125.73 95.25)
+			(xy 125.73 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1932,7 +1963,8 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 113.03) (xy 135.89 113.03)
+			(xy 139.7 113.03)
+			(xy 135.89 113.03)
 		)
 		(stroke
 			(width 0)
@@ -1942,7 +1974,8 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 74.93) (xy 93.98 74.93)
+			(xy 88.9 74.93)
+			(xy 93.98 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1952,7 +1985,8 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 80.01) (xy 107.95 80.01)
+			(xy 110.49 80.01)
+			(xy 107.95 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1962,7 +1996,8 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 39.37) (xy 213.36 41.91)
+			(xy 213.36 39.37)
+			(xy 213.36 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1972,7 +2007,8 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 97.79) (xy 135.89 97.79)
+			(xy 125.73 97.79)
+			(xy 135.89 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1982,7 +2018,8 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 85.09) (xy 107.95 85.09)
+			(xy 110.49 85.09)
+			(xy 107.95 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1992,7 +2029,8 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 74.93) (xy 140.97 74.93)
+			(xy 130.81 74.93)
+			(xy 140.97 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2002,7 +2040,8 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 36.83) (xy 200.66 36.83)
+			(xy 198.12 36.83)
+			(xy 200.66 36.83)
 		)
 		(stroke
 			(width 0)
@@ -2012,7 +2051,8 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 34.29) (xy 200.66 34.29)
+			(xy 198.12 34.29)
+			(xy 200.66 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2022,7 +2062,8 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 74.93) (xy 151.13 74.93)
+			(xy 140.97 74.93)
+			(xy 151.13 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2032,7 +2073,8 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 80.01) (xy 133.35 80.01)
+			(xy 130.81 80.01)
+			(xy 133.35 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2042,7 +2084,8 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 34.29) (xy 213.36 36.83)
+			(xy 213.36 34.29)
+			(xy 213.36 36.83)
 		)
 		(stroke
 			(width 0)
@@ -2052,7 +2095,8 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 39.37) (xy 266.7 44.45)
+			(xy 266.7 39.37)
+			(xy 266.7 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2062,7 +2106,8 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 36.83) (xy 213.36 39.37)
+			(xy 213.36 36.83)
+			(xy 213.36 39.37)
 		)
 		(stroke
 			(width 0)
@@ -2072,7 +2117,8 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 74.93) (xy 110.49 74.93)
+			(xy 93.98 74.93)
+			(xy 110.49 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2082,7 +2128,8 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 36.83) (xy 200.66 39.37)
+			(xy 200.66 36.83)
+			(xy 200.66 39.37)
 		)
 		(stroke
 			(width 0)
@@ -2092,7 +2139,8 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 82.55) (xy 110.49 82.55)
+			(xy 93.98 82.55)
+			(xy 110.49 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2102,7 +2150,8 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 82.55) (xy 140.97 82.55)
+			(xy 130.81 82.55)
+			(xy 140.97 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2112,7 +2161,8 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 109.22) (xy 139.7 113.03)
+			(xy 139.7 109.22)
+			(xy 139.7 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2122,7 +2172,8 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 44.45) (xy 271.78 44.45)
+			(xy 266.7 44.45)
+			(xy 271.78 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2132,7 +2183,8 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 48.26) (xy 233.68 46.99)
+			(xy 233.68 48.26)
+			(xy 233.68 46.99)
 		)
 		(stroke
 			(width 0)
@@ -2142,7 +2194,8 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 97.79) (xy 146.05 97.79)
+			(xy 135.89 97.79)
+			(xy 146.05 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2230,6 +2283,16 @@
 		)
 		(uuid "fd0c01a5-415b-4b02-983d-5ffb9f510adb")
 	)
+	(label "EN"
+		(at 223.52 31.75 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cd0f64d9-a7e6-4685-9a88-7ac86cbe4d29")
+	)
 	(hierarchical_label "EN"
 		(shape input)
 		(at 107.95 80.01 180)
@@ -2251,32 +2314,6 @@
 			(justify left)
 		)
 		(uuid "d6cd965d-24f0-46e7-8896-f638046d95aa")
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 146.05 74.93 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8e811a9f-6c64-4dbe-93f7-ecff6b8f818e")
-		(property "Netclass" "Power"
-			(at 146.939 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -4315,7 +4352,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "0-10k"
 			(at 133.35 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4349,39 +4386,6 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
-			(at 135.89 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "R"
-			(at 135.89 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" "POT"
-			(at 135.89 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=r0 2=wiper 3=r1"
 			(at 135.89 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -5168,5 +5172,193 @@
 				)
 			)
 		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 223.52 35.56 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6ffcd59b-1a12-448e-8836-5c5ded5ff171")
+		(property "Reference" "R144"
+			(at 226.06 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 226.06 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 223.52 35.56 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 35.56 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 223.52 35.56 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 223.52 35.56 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/bdd06149-f2cd-411d-9834-295c431deac0"
+					(reference "R144")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/e3bbb823-378e-479b-b487-992af39023d2"
+					(reference "R145")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 223.52 39.37 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "db2ecb28-fdf0-40dd-a46b-e625c6300fa2")
+		(property "Reference" "#PWR0132"
+			(at 223.52 45.72 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 223.52 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 39.37 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 39.37 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 223.52 39.37 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/bdd06149-f2cd-411d-9834-295c431deac0"
+					(reference "#PWR0132")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/e3bbb823-378e-479b-b487-992af39023d2"
+					(reference "#PWR0133")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 146.05 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8e811a9f-6c64-4dbe-93f7-ecff6b8f818e")
+		(property "Netclass" "Power"
+			(at 146.939 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(text "eFuse (TPS259474L)"
+		(exclude_from_sim no)
+		(at 83.82 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eeeec713-1633-4fe4-b047-9403af41d732")
+	)
+	(text "Current limit: I_LIM = 3334 / R_ILM (A, Ω). Measure R_ILM on the 2 mm header\nwith the board unpowered and set it with the trimpot. Keep R_ILM ≤ 6.65 kΩ (I_LIM ≥ 0.5 A).\nPG asserts when OUT rises above 10.2 V and drops below 9.27 V.\nOVLO turns the output off when IN rises above 15.8 V and back on below 14.4 V."
+		(exclude_from_sim no)
+		(at 83.82 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "9eb1244a-0ef5-42ff-a21b-2c51a3948601")
 	)
 )
