@@ -812,12 +812,6 @@
         "Analog",
         "Digital"
       ],
-      "/DUT Power/Vin": [
-        "Power"
-      ],
-      "/DUT Power/VinP": [
-        "Power"
-      ],
       "/DUT Power/~{FAULT_CLS_1}": [
         "Digital"
       ],
@@ -840,6 +834,12 @@
         "Power"
       ],
       "/MCU 1/PICO_5V": [
+        "Power"
+      ],
+      "/Power Connectors/Vin": [
+        "Power"
+      ],
+      "/Power Connectors/VinP": [
         "Power"
       ],
       "/Raspberry Pi GPIO/RPI_3V3": [
