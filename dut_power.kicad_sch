@@ -7257,7 +7257,7 @@
 				(justify left)
 			)
 		)
-		(pin "~{LF}" output
+		(pin "PG" output
 			(at 236.22 26.67 0)
 			(uuid "91d42660-b2d7-4858-81e9-60bebb36ef6f")
 			(effects
@@ -7389,7 +7389,7 @@
 				(justify left)
 			)
 		)
-		(pin "~{LF}" output
+		(pin "PG" output
 			(at 236.22 46.99 0)
 			(uuid "48d19965-5c9b-4014-965c-f74ad5365382")
 			(effects
