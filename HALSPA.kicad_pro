@@ -744,18 +744,6 @@
       "/DUT Power/Buck 3.3V/VCC": [
         "Analog"
       ],
-      "/DUT Power/Buck 5V/BOOT_": [
-        "Analog"
-      ],
-      "/DUT Power/Buck 5V/FB": [
-        "Analog"
-      ],
-      "/DUT Power/Buck 5V/SW": [
-        "Power"
-      ],
-      "/DUT Power/Buck 5V/VCC": [
-        "Analog"
-      ],
       "/DUT Power/CLS 1/CLSOUT": [
         "Power"
       ],
@@ -779,6 +767,18 @@
       ],
       "/DUT Power/CLS 4/Vout": [
         "Power"
+      ],
+      "/DUT Power/DUT Buck 5V/BOOT_": [
+        "Analog"
+      ],
+      "/DUT Power/DUT Buck 5V/FB": [
+        "Analog"
+      ],
+      "/DUT Power/DUT Buck 5V/SW": [
+        "Power"
+      ],
+      "/DUT Power/DUT Buck 5V/VCC": [
+        "Analog"
       ],
       "/DUT Power/EN_3V3D": [
         "Digital"
@@ -1197,7 +1197,7 @@
     ],
     [
       "3b017fe7-4da4-47f0-996e-c80c0d6dd0eb",
-      "Buck 5V"
+      "DUT Buck 5V"
     ],
     [
       "58895391-6de3-4802-b78e-fd4c1def1d51",

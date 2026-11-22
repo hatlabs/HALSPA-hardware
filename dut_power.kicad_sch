@@ -12339,11 +12339,11 @@
 	(sheet
 		(at 40.64 72.39)
 		(size 19.05 12.7)
+		(fields_autoplaced)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -12352,7 +12352,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "3b017fe7-4da4-47f0-996e-c80c0d6dd0eb")
-		(property "Sheetname" "Buck 5V"
+		(property "Sheetname" "DUT Buck 5V"
 			(at 40.64 71.6784 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12376,43 +12376,43 @@
 		)
 		(pin "Vout" output
 			(at 59.69 76.2 0)
-			(uuid "a2963c54-fb1c-4c9a-b52a-adebfaecff09")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
+			(uuid "a2963c54-fb1c-4c9a-b52a-adebfaecff09")
 		)
 		(pin "EN" input
 			(at 40.64 81.28 180)
-			(uuid "90eaa1be-96c2-49ba-9e17-01ee7d48f9a4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
+			(uuid "90eaa1be-96c2-49ba-9e17-01ee7d48f9a4")
 		)
 		(pin "Vin" input
 			(at 40.64 76.2 180)
-			(uuid "ec807cf8-1778-4924-92a7-a7e89d48c0e3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
+			(uuid "ec807cf8-1778-4924-92a7-a7e89d48c0e3")
 		)
 		(pin "PG" output
 			(at 59.69 81.28 0)
-			(uuid "edb9c4f6-9caa-44a5-80be-e2cbdfa3b73d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
+			(uuid "edb9c4f6-9caa-44a5-80be-e2cbdfa3b73d")
 		)
 		(instances
 			(project "HALSPA"
