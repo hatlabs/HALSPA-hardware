@@ -2990,6 +2990,52 @@
 		)
 	)
 	(sheet
+		(at 128.27 156.21)
+		(size 22.86 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d3a5f341-16d0-4d64-9819-0c03cd478f26")
+		(property "Sheetname" "Voltage Reference"
+			(at 128.27 155.4984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "vref.kicad_sch"
+			(at 128.27 169.4946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7"
+					(page "32")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 180.34 110.49)
 		(size 22.86 12.7)
 		(exclude_from_sim no)
