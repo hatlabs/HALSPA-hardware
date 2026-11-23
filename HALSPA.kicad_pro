@@ -1335,6 +1335,22 @@
     [
       "0b93010e-7186-4c56-8cf0-7650ecdc2789",
       "Buck 5V"
+    ],
+    [
+      "183183b6-f68e-4c50-bf3a-f8488e2a08da",
+      "CAN FD"
+    ],
+    [
+      "df0dddf1-f85e-4929-aa20-d1404765faf3",
+      "RS-485"
+    ],
+    [
+      "a62a468c-7b7d-420d-8a95-2ce5b20d661b",
+      "RS-485 1"
+    ],
+    [
+      "cc1ba0fb-a13b-4e22-ab60-a00b505ad8dd",
+      "RS-485 2"
     ]
   ],
   "text_variables": {},
