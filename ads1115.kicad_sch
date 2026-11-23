@@ -2167,7 +2167,7 @@
 		(uuid "33ee8807-9fc3-4bbb-a8df-a191b16acdb2")
 	)
 	(junction
-		(at 144.78 133.35)
+		(at 152.4 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3451ed42-bdd3-4e74-bee8-64a77e7fed28")
@@ -2209,7 +2209,7 @@
 		(uuid "59d7dc07-fa53-4fcb-9865-eab3e7efdf0e")
 	)
 	(junction
-		(at 144.78 118.11)
+		(at 152.4 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c354908-2c3f-45ac-9626-9d77c0166f27")
@@ -2221,7 +2221,7 @@
 		(uuid "7d96373d-53e6-437a-bd6f-e3371c31c910")
 	)
 	(junction
-		(at 144.78 163.83)
+		(at 152.4 163.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0c911d0-c296-4cd9-a29b-6735ca080c01")
@@ -2233,7 +2233,7 @@
 		(uuid "b3dc0116-6a7f-4213-be48-9c5a7f7e78b2")
 	)
 	(junction
-		(at 144.78 148.59)
+		(at 152.4 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b621840e-1769-42a7-ba1a-9db1f12dd896")
@@ -2300,7 +2300,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 168.91) (xy 127 166.37)
+			(xy 134.62 171.45) (xy 134.62 166.37)
 		)
 		(stroke
 			(width 0)
@@ -2310,7 +2310,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 138.43) (xy 127 138.43)
+			(xy 152.4 140.97) (xy 134.62 140.97)
 		)
 		(stroke
 			(width 0)
@@ -2400,13 +2400,13 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 146.05) (xy 125.73 146.05)
+			(xy 124.46 130.81) (xy 125.73 130.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1dac8e2f-6552-4502-a6c7-9b9b3bcf4840")
+		(uuid "1dcafc0d-b035-48c5-b469-9c46460d7ef4")
 	)
 	(wire
 		(pts
@@ -2420,7 +2420,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 135.89) (xy 128.27 135.89)
+			(xy 134.62 135.89) (xy 135.89 135.89)
 		)
 		(stroke
 			(width 0)
@@ -2430,7 +2430,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 151.13) (xy 128.27 151.13)
+			(xy 134.62 151.13) (xy 135.89 151.13)
 		)
 		(stroke
 			(width 0)
@@ -2450,6 +2450,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 146.05) (xy 125.73 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27975dab-29cb-4972-999a-87992a3b9877")
+	)
+	(wire
+		(pts
 			(xy 74.93 68.58) (xy 73.66 68.58)
 		)
 		(stroke
@@ -2460,7 +2470,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 166.37) (xy 128.27 166.37)
+			(xy 134.62 166.37) (xy 135.89 166.37)
 		)
 		(stroke
 			(width 0)
@@ -2560,7 +2570,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 163.83) (xy 144.78 163.83)
+			(xy 151.13 163.83) (xy 152.4 163.83)
 		)
 		(stroke
 			(width 0)
@@ -2570,7 +2580,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 148.59) (xy 144.78 148.59)
+			(xy 151.13 148.59) (xy 152.4 148.59)
 		)
 		(stroke
 			(width 0)
@@ -2580,7 +2590,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 133.35) (xy 148.59 133.35)
+			(xy 152.4 133.35) (xy 156.21 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2620,7 +2630,17 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 133.35) (xy 144.78 133.35)
+			(xy 133.35 161.29) (xy 135.89 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5434516b-170c-44ee-acde-64eb0f80a843")
+	)
+	(wire
+		(pts
+			(xy 151.13 133.35) (xy 152.4 133.35)
 		)
 		(stroke
 			(width 0)
@@ -2630,13 +2650,23 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 118.11) (xy 148.59 118.11)
+			(xy 152.4 118.11) (xy 156.21 118.11)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "5721d0d3-3663-4292-adab-74eef9fe2c58")
+	)
+	(wire
+		(pts
+			(xy 133.35 146.05) (xy 135.89 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57271baa-0e6e-400c-a70b-5ed8ebb29a0c")
 	)
 	(wire
 		(pts
@@ -2660,7 +2690,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 123.19) (xy 127 123.19)
+			(xy 152.4 125.73) (xy 134.62 125.73)
 		)
 		(stroke
 			(width 0)
@@ -2680,7 +2710,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 153.67) (xy 127 153.67)
+			(xy 152.4 156.21) (xy 134.62 156.21)
 		)
 		(stroke
 			(width 0)
@@ -2720,6 +2750,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 115.57) (xy 125.73 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e486559-4098-4dd2-a295-127e80642ad1")
+	)
+	(wire
+		(pts
 			(xy 96.52 68.58) (xy 96.52 74.93)
 		)
 		(stroke
@@ -2750,7 +2790,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 133.35) (xy 144.78 138.43)
+			(xy 152.4 133.35) (xy 152.4 140.97)
 		)
 		(stroke
 			(width 0)
@@ -2830,6 +2870,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 130.81) (xy 135.89 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "808f3de6-1d81-494a-a15d-c9893d35e50e")
+	)
+	(wire
+		(pts
 			(xy 138.43 68.58) (xy 139.7 68.58)
 		)
 		(stroke
@@ -2850,7 +2900,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 148.59) (xy 144.78 153.67)
+			(xy 152.4 148.59) (xy 152.4 156.21)
 		)
 		(stroke
 			(width 0)
@@ -2870,7 +2920,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 163.83) (xy 148.59 163.83)
+			(xy 152.4 163.83) (xy 156.21 163.83)
 		)
 		(stroke
 			(width 0)
@@ -2910,7 +2960,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 163.83) (xy 144.78 168.91)
+			(xy 152.4 163.83) (xy 152.4 171.45)
 		)
 		(stroke
 			(width 0)
@@ -2930,7 +2980,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 123.19) (xy 127 120.65)
+			(xy 134.62 125.73) (xy 134.62 120.65)
 		)
 		(stroke
 			(width 0)
@@ -2970,7 +3020,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 148.59) (xy 148.59 148.59)
+			(xy 152.4 148.59) (xy 156.21 148.59)
 		)
 		(stroke
 			(width 0)
@@ -2980,7 +3030,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 153.67) (xy 127 151.13)
+			(xy 134.62 156.21) (xy 134.62 151.13)
 		)
 		(stroke
 			(width 0)
@@ -3030,23 +3080,23 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 115.57) (xy 125.73 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3f9fef8-f8b0-4312-b267-c9348feceb5f")
-	)
-	(wire
-		(pts
-			(xy 127 120.65) (xy 128.27 120.65)
+			(xy 134.62 120.65) (xy 135.89 120.65)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a79d2f44-e936-4595-906c-edde7db52ae5")
+	)
+	(wire
+		(pts
+			(xy 133.35 115.57) (xy 135.89 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abc1951d-5887-45bf-9290-d80b75e9203d")
 	)
 	(wire
 		(pts
@@ -3060,7 +3110,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 138.43) (xy 127 135.89)
+			(xy 134.62 140.97) (xy 134.62 135.89)
 		)
 		(stroke
 			(width 0)
@@ -3120,16 +3170,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 161.29) (xy 125.73 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c77aca5b-e90c-41ac-84d0-c2daf9be7251")
-	)
-	(wire
-		(pts
 			(xy 196.85 99.06) (xy 210.82 99.06)
 		)
 		(stroke
@@ -3137,6 +3177,16 @@
 			(type default)
 		)
 		(uuid "cacaf698-31d4-4958-8629-65125dcd5f0a")
+	)
+	(wire
+		(pts
+			(xy 124.46 161.29) (xy 125.73 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb0ee92b-90c3-4cc0-8393-41f3485f9064")
 	)
 	(wire
 		(pts
@@ -3160,7 +3210,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 118.11) (xy 144.78 118.11)
+			(xy 151.13 118.11) (xy 152.4 118.11)
 		)
 		(stroke
 			(width 0)
@@ -3230,7 +3280,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 118.11) (xy 144.78 123.19)
+			(xy 152.4 118.11) (xy 152.4 125.73)
 		)
 		(stroke
 			(width 0)
@@ -3250,7 +3300,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 168.91) (xy 127 168.91)
+			(xy 152.4 171.45) (xy 134.62 171.45)
 		)
 		(stroke
 			(width 0)
@@ -3298,18 +3348,8 @@
 		)
 		(uuid "f45b923c-0b9d-4e53-b5be-ec350b1d68e3")
 	)
-	(wire
-		(pts
-			(xy 128.27 130.81) (xy 125.73 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb8910e9-698f-4937-82f9-91f38a9eff45")
-	)
 	(label "AINr3"
-		(at 125.73 161.29 180)
+		(at 124.46 161.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3329,7 +3369,7 @@
 		(uuid "12e850dc-0bf6-4189-9064-f50203eeb94d")
 	)
 	(label "AINr1"
-		(at 125.73 130.81 180)
+		(at 124.46 130.81 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3339,7 +3379,7 @@
 		(uuid "1415969a-bec8-41b5-9c1c-980430a6d8c6")
 	)
 	(label "AINr0"
-		(at 125.73 115.57 180)
+		(at 124.46 115.57 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3359,7 +3399,7 @@
 		(uuid "2f75739f-86b6-4910-bfb3-609be918da9c")
 	)
 	(label "AINr2"
-		(at 125.73 146.05 180)
+		(at 124.46 146.05 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3469,7 +3509,7 @@
 		(uuid "b00adeee-02ac-4689-9f1a-f58994ddfc4c")
 	)
 	(label "AINb1"
-		(at 148.59 133.35 0)
+		(at 156.21 133.35 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3479,7 +3519,7 @@
 		(uuid "b1898ab0-dd55-4dcc-8913-f553d1c195a1")
 	)
 	(label "AINb3"
-		(at 148.59 163.83 0)
+		(at 156.21 163.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3519,7 +3559,7 @@
 		(uuid "c5dbec48-b011-4e07-b856-995d9516eb19")
 	)
 	(label "AINb2"
-		(at 148.59 148.59 0)
+		(at 156.21 148.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3579,7 +3619,7 @@
 		(uuid "f7d46770-3afd-4f3f-89d7-d1b26279c927")
 	)
 	(label "AINb0"
-		(at 148.59 118.11 0)
+		(at 156.21 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4046,7 +4086,7 @@
 	)
 	(symbol
 		(lib_id "HL_Amplifier_Operational:OPA4388xD")
-		(at 135.89 118.11 0)
+		(at 143.51 118.11 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4055,8 +4095,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "17ecf4b9-530a-488e-b131-3e91a5d9ba2b")
-		(property "Reference" "U17"
-			(at 138.43 121.92 0)
+		(property "Reference" "U16"
+			(at 146.05 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4065,8 +4105,8 @@
 				)
 			)
 		)
-		(property "Value" "OPA4388ID"
-			(at 138.43 124.46 0)
+		(property "Value" "OPA4388ID(UMW)"
+			(at 146.05 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4076,7 +4116,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 135.89 118.11 0)
+			(at 143.51 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4087,7 +4127,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa4388.pdf"
-			(at 135.89 118.11 0)
+			(at 143.51 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4098,7 +4138,7 @@
 			)
 		)
 		(property "Description" "Quad 10 MHz, zero-drift, zero-crossover, rail-to-rail input/output operational amplifier, 2.5-5.5 V, SOIC-14"
-			(at 135.89 118.11 0)
+			(at 143.51 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4109,7 +4149,7 @@
 			)
 		)
 		(property "LCSC" "C22469438"
-			(at 135.89 118.11 0)
+			(at 143.51 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4164,11 +4204,11 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/1500ebc1-0d01-4231-ba8c-9a8727fae893"
-					(reference "U16")
+					(reference "U17")
 					(unit 1)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/e2db82f5-5de5-4c0b-9bb4-4c6c7f22ca6d"
-					(reference "U17")
+					(reference "U16")
 					(unit 1)
 				)
 			)
@@ -4391,7 +4431,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 100.33 133.35 0)
+		(at 96.52 133.35 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4401,7 +4441,7 @@
 		(dnp no)
 		(uuid "218f2592-8d0d-41d8-ab9f-15dff1eb2888")
 		(property "Reference" "#PWR0290"
-			(at 100.33 137.16 0)
+			(at 96.52 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4412,7 +4452,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 100.33 129.794 0)
+			(at 96.52 129.794 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4422,7 +4462,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 133.35 0)
+			(at 96.52 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4433,7 +4473,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 133.35 0)
+			(at 96.52 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4444,7 +4484,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 100.33 133.35 0)
+			(at 96.52 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4607,6 +4647,102 @@
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/e2db82f5-5de5-4c0b-9bb4-4c6c7f22ca6d"
 					(reference "U20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 129.54 146.05 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "408cabda-c937-4d99-93b3-f3450053a441")
+		(property "Reference" "R150"
+			(at 129.54 139.7 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 129.54 142.24 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 129.54 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 129.54 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 129.54 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a8b179a7-6d08-44d4-af26-19d05d351d45")
+		)
+		(pin "2"
+			(uuid "63901207-0810-4b98-891e-bfe46a1ef74f")
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/1500ebc1-0d01-4231-ba8c-9a8727fae893"
+					(reference "R154")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/e2db82f5-5de5-4c0b-9bb4-4c6c7f22ca6d"
+					(reference "R150")
 					(unit 1)
 				)
 			)
@@ -4789,6 +4925,102 @@
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/e2db82f5-5de5-4c0b-9bb4-4c6c7f22ca6d"
 					(reference "J24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 129.54 161.29 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4709bfd1-617a-4682-830b-b9866a2f2b1d")
+		(property "Reference" "R151"
+			(at 129.54 154.94 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 129.54 157.48 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 129.54 161.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 129.54 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 129.54 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0a08fcc3-9e9d-4964-9fb5-2604451eb260")
+		)
+		(pin "2"
+			(uuid "cd2966ae-0468-4720-9b90-50cb245fe174")
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/1500ebc1-0d01-4231-ba8c-9a8727fae893"
+					(reference "R155")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/e2db82f5-5de5-4c0b-9bb4-4c6c7f22ca6d"
+					(reference "R151")
 					(unit 1)
 				)
 			)
@@ -5116,7 +5348,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 90.17 137.16 0)
+		(at 83.82 137.16 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5126,7 +5358,7 @@
 		(dnp no)
 		(uuid "63e92e41-8838-40e7-9203-94bb98ca041d")
 		(property "Reference" "#PWR0278"
-			(at 90.17 140.97 0)
+			(at 83.82 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5137,7 +5369,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 90.17 133.604 0)
+			(at 83.82 133.604 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5147,7 +5379,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 90.17 137.16 0)
+			(at 83.82 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5158,7 +5390,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 90.17 137.16 0)
+			(at 83.82 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5169,7 +5401,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 90.17 137.16 0)
+			(at 83.82 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5201,7 +5433,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -5493,7 +5725,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 90.17 140.97 0)
+		(at 83.82 140.97 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5501,9 +5733,10 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "6bff0edf-7a62-4a66-85d7-d4455930f346")
-		(property "Reference" "C47"
-			(at 90.805 138.43 0)
+		(property "Reference" "C46"
+			(at 87.63 139.6999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5514,7 +5747,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 90.805 143.51 0)
+			(at 87.63 142.2399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5525,7 +5758,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 90.17 140.97 0)
+			(at 83.82 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5536,7 +5769,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 90.17 140.97 0)
+			(at 83.82 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5547,7 +5780,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 90.17 140.97 0)
+			(at 83.82 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5558,7 +5791,7 @@
 			)
 		)
 		(property "LCSC" "C14663"
-			(at 90.17 140.97 0)
+			(at 83.82 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5577,11 +5810,11 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/1500ebc1-0d01-4231-ba8c-9a8727fae893"
-					(reference "C46")
+					(reference "C47")
 					(unit 1)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/e2db82f5-5de5-4c0b-9bb4-4c6c7f22ca6d"
-					(reference "C47")
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -5871,7 +6104,7 @@
 	)
 	(symbol
 		(lib_id "HL_Amplifier_Operational:OPA4388xD")
-		(at 135.89 133.35 0)
+		(at 143.51 133.35 0)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5880,8 +6113,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "94424fbf-0905-4789-aa45-36a62341976d")
-		(property "Reference" "U17"
-			(at 138.43 137.16 0)
+		(property "Reference" "U16"
+			(at 146.05 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5890,8 +6123,8 @@
 				)
 			)
 		)
-		(property "Value" "OPA4388ID"
-			(at 138.43 139.7 0)
+		(property "Value" "OPA4388ID(UMW)"
+			(at 146.05 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5901,7 +6134,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 135.89 133.35 0)
+			(at 143.51 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5912,7 +6145,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa4388.pdf"
-			(at 135.89 133.35 0)
+			(at 143.51 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5923,7 +6156,7 @@
 			)
 		)
 		(property "Description" "Quad 10 MHz, zero-drift, zero-crossover, rail-to-rail input/output operational amplifier, 2.5-5.5 V, SOIC-14"
-			(at 135.89 133.35 0)
+			(at 143.51 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5934,7 +6167,7 @@
 			)
 		)
 		(property "LCSC" "C22469438"
-			(at 135.89 133.35 0)
+			(at 143.51 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5989,11 +6222,11 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/1500ebc1-0d01-4231-ba8c-9a8727fae893"
-					(reference "U16")
+					(reference "U17")
 					(unit 2)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/e2db82f5-5de5-4c0b-9bb4-4c6c7f22ca6d"
-					(reference "U17")
+					(reference "U16")
 					(unit 2)
 				)
 			)
@@ -6084,7 +6317,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 100.33 148.59 0)
+		(at 96.52 148.59 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6094,7 +6327,7 @@
 		(dnp no)
 		(uuid "a15197a6-563b-435c-8c1a-63a429e90182")
 		(property "Reference" "#PWR0291"
-			(at 100.33 154.94 0)
+			(at 96.52 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6105,7 +6338,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 100.33 152.4 0)
+			(at 96.52 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6115,7 +6348,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 148.59 0)
+			(at 96.52 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6126,7 +6359,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 148.59 0)
+			(at 96.52 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6137,7 +6370,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 100.33 148.59 0)
+			(at 96.52 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6572,7 +6805,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -6665,7 +6898,7 @@
 	)
 	(symbol
 		(lib_id "HL_Amplifier_Operational:OPA4388xD")
-		(at 135.89 163.83 0)
+		(at 143.51 163.83 0)
 		(unit 4)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6674,8 +6907,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b5b579a0-899b-416f-aed8-283ae7c1736b")
-		(property "Reference" "U17"
-			(at 139.7 167.64 0)
+		(property "Reference" "U16"
+			(at 147.32 167.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6684,8 +6917,8 @@
 				)
 			)
 		)
-		(property "Value" "OPA4388ID"
-			(at 139.7 170.18 0)
+		(property "Value" "OPA4388ID(UMW)"
+			(at 147.32 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6695,7 +6928,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 135.89 163.83 0)
+			(at 143.51 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6706,7 +6939,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa4388.pdf"
-			(at 135.89 163.83 0)
+			(at 143.51 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6717,7 +6950,7 @@
 			)
 		)
 		(property "Description" "Quad 10 MHz, zero-drift, zero-crossover, rail-to-rail input/output operational amplifier, 2.5-5.5 V, SOIC-14"
-			(at 135.89 163.83 0)
+			(at 143.51 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6728,7 +6961,7 @@
 			)
 		)
 		(property "LCSC" "C22469438"
-			(at 135.89 163.83 0)
+			(at 143.51 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6783,11 +7016,11 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/1500ebc1-0d01-4231-ba8c-9a8727fae893"
-					(reference "U16")
+					(reference "U17")
 					(unit 4)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/e2db82f5-5de5-4c0b-9bb4-4c6c7f22ca6d"
-					(reference "U17")
+					(reference "U16")
 					(unit 4)
 				)
 			)
@@ -6965,7 +7198,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7058,7 +7291,7 @@
 	)
 	(symbol
 		(lib_id "HL_Amplifier_Operational:OPA4388xD")
-		(at 135.89 148.59 0)
+		(at 143.51 148.59 0)
 		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7067,8 +7300,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d0791571-db0e-45f7-aa62-4f6a3e72ad4d")
-		(property "Reference" "U17"
-			(at 138.43 152.4 0)
+		(property "Reference" "U16"
+			(at 146.05 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7077,8 +7310,8 @@
 				)
 			)
 		)
-		(property "Value" "OPA4388ID"
-			(at 138.43 154.94 0)
+		(property "Value" "OPA4388ID(UMW)"
+			(at 146.05 154.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7088,7 +7321,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 135.89 148.59 0)
+			(at 143.51 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7099,7 +7332,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa4388.pdf"
-			(at 135.89 148.59 0)
+			(at 143.51 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7110,7 +7343,7 @@
 			)
 		)
 		(property "Description" "Quad 10 MHz, zero-drift, zero-crossover, rail-to-rail input/output operational amplifier, 2.5-5.5 V, SOIC-14"
-			(at 135.89 148.59 0)
+			(at 143.51 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7121,7 +7354,7 @@
 			)
 		)
 		(property "LCSC" "C22469438"
-			(at 135.89 148.59 0)
+			(at 143.51 148.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7176,12 +7409,108 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/1500ebc1-0d01-4231-ba8c-9a8727fae893"
-					(reference "U16")
+					(reference "U17")
 					(unit 3)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/e2db82f5-5de5-4c0b-9bb4-4c6c7f22ca6d"
-					(reference "U17")
+					(reference "U16")
 					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 129.54 115.57 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d72c3fd8-3ffc-45ff-9762-b57ace4b0b82")
+		(property "Reference" "R148"
+			(at 129.54 109.22 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 129.54 111.76 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 129.54 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 129.54 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 129.54 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4cdb8d77-4793-4f1f-9fe3-2d18f8f97008")
+		)
+		(pin "2"
+			(uuid "6a5c329d-eb6a-4389-85b3-2262b94bb27f")
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/1500ebc1-0d01-4231-ba8c-9a8727fae893"
+					(reference "R152")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/e2db82f5-5de5-4c0b-9bb4-4c6c7f22ca6d"
+					(reference "R148")
+					(unit 1)
 				)
 			)
 		)
@@ -7370,8 +7699,9 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 90.17 144.78 0)
+		(lib_id "Device:R")
+		(at 129.54 130.81 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7379,10 +7709,10 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "f026960a-1c85-465f-a7f3-6bf65b41469c")
-		(property "Reference" "#PWR0279"
-			(at 90.17 151.13 0)
-			(hide yes)
+		(fields_autoplaced yes)
+		(uuid "e8c15558-fb91-42cb-9d4d-15b27f6c1771")
+		(property "Reference" "R149"
+			(at 129.54 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7391,8 +7721,8 @@
 				)
 			)
 		)
-		(property "Value" "GND"
-			(at 90.17 148.59 0)
+		(property "Value" "10k"
+			(at 129.54 127 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7401,8 +7731,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 90.17 144.78 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 129.54 130.81 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7413,7 +7743,102 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 90.17 144.78 0)
+			(at 129.54 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 129.54 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 129.54 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f9ee5cd4-109c-4357-8cb4-3a5a59a69fa4")
+		)
+		(pin "2"
+			(uuid "b6f994eb-d96b-4cf3-a007-94397967a815")
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/1500ebc1-0d01-4231-ba8c-9a8727fae893"
+					(reference "R153")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/e2db82f5-5de5-4c0b-9bb4-4c6c7f22ca6d"
+					(reference "R149")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 83.82 144.78 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f026960a-1c85-465f-a7f3-6bf65b41469c")
+		(property "Reference" "#PWR0279"
+			(at 83.82 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 83.82 148.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 83.82 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 83.82 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7424,7 +7849,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 90.17 144.78 0)
+			(at 83.82 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7452,7 +7877,7 @@
 	)
 	(symbol
 		(lib_id "HL_Amplifier_Operational:OPA4388xD")
-		(at 102.87 140.97 0)
+		(at 99.06 140.97 0)
 		(unit 5)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7461,8 +7886,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f2d60a49-a4c4-48af-b953-a91ac7c9edcc")
-		(property "Reference" "U17"
-			(at 102.87 137.16 0)
+		(property "Reference" "U16"
+			(at 99.06 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7472,8 +7897,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "OPA4388ID"
-			(at 102.87 144.78 0)
+		(property "Value" "OPA4388ID(UMW)"
+			(at 99.06 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7484,7 +7909,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 102.87 140.97 0)
+			(at 99.06 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7495,7 +7920,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa4388.pdf"
-			(at 102.87 140.97 0)
+			(at 99.06 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7506,7 +7931,7 @@
 			)
 		)
 		(property "Description" "Quad 10 MHz, zero-drift, zero-crossover, rail-to-rail input/output operational amplifier, 2.5-5.5 V, SOIC-14"
-			(at 102.87 140.97 0)
+			(at 99.06 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7517,7 +7942,7 @@
 			)
 		)
 		(property "LCSC" "C22469438"
-			(at 102.87 140.97 0)
+			(at 99.06 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7572,11 +7997,11 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/1500ebc1-0d01-4231-ba8c-9a8727fae893"
-					(reference "U16")
+					(reference "U17")
 					(unit 5)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/f863d577-5163-4667-a0b3-93abcffbcf80/e2db82f5-5de5-4c0b-9bb4-4c6c7f22ca6d"
-					(reference "U17")
+					(reference "U16")
 					(unit 5)
 				)
 			)
@@ -7670,7 +8095,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
