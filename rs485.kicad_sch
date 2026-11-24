@@ -1,0 +1,109 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "133bf49e-9176-4d41-98c5-64df69042229")
+	(paper "A4")
+	(title_block
+		(title "HALSPA - Hat Labs Spaghetti Board")
+		(date "2025-10-17")
+		(rev "v0.4.0")
+		(company "Hat Labs Oy")
+		(comment 1 "https://ohwr.org/cern_ohl_s_v2.pdf")
+		(comment 2 "To view a copy of this license, visit ")
+		(comment 3 "HALSPA is licensed under CERN-OHL-S v2.")
+	)
+	(lib_symbols)
+	(sheet
+		(at 100.33 50.8)
+		(size 22.86 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a62a468c-7b7d-420d-8a95-2ce5b20d661b")
+		(property "Sheetname" "RS-485 1"
+			(at 100.33 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sp3485.kicad_sch"
+			(at 100.33 64.0846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/df0dddf1-f85e-4929-aa20-d1404765faf3"
+					(page "39")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 76.2)
+		(size 22.86 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "cc1ba0fb-a13b-4e22-ab60-a00b505ad8dd")
+		(property "Sheetname" "RS-485 2"
+			(at 100.33 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sp3485.kicad_sch"
+			(at 100.33 89.4846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/df0dddf1-f85e-4929-aa20-d1404765faf3"
+					(page "40")
+				)
+			)
+		)
+	)
+)
