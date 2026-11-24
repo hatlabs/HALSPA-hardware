@@ -6330,7 +6330,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "830cd3c6-efc5-420c-a06d-38f3b7ab67f3")
-		(property "Reference" "D?"
+		(property "Reference" "D24"
 			(at 104.14 130.81 0)
 			(effects
 				(font
@@ -6387,19 +6387,19 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/13060095-6d27-44b3-bc05-db67b8476217"
-					(reference "D?")
+					(reference "D27")
 					(unit 1)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/58895391-6de3-4802-b78e-fd4c1def1d51"
-					(reference "D?")
+					(reference "D24")
 					(unit 1)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/dc4fcfb7-68a6-44ea-9d8f-e99fcae2074b"
-					(reference "D?")
+					(reference "D25")
 					(unit 1)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/f4b18902-6d6f-48e0-a670-48902db708d0"
-					(reference "D?")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -6413,7 +6413,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d6517b10-2d5e-4968-8b16-7588b1f7d691")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0293"
 			(at 99.06 143.51 0)
 			(hide yes)
 			(effects
@@ -6460,19 +6460,19 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/13060095-6d27-44b3-bc05-db67b8476217"
-					(reference "#PWR?")
+					(reference "#PWR0357")
 					(unit 1)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/58895391-6de3-4802-b78e-fd4c1def1d51"
-					(reference "#PWR?")
+					(reference "#PWR0293")
 					(unit 1)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/dc4fcfb7-68a6-44ea-9d8f-e99fcae2074b"
-					(reference "#PWR?")
+					(reference "#PWR0295")
 					(unit 1)
 				)
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/8a7bd3c3-3783-4a08-9c22-bb373aae5663/f4b18902-6d6f-48e0-a670-48902db708d0"
-					(reference "#PWR?")
+					(reference "#PWR0356")
 					(unit 1)
 				)
 			)

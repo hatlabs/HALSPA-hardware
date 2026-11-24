@@ -16377,7 +16377,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "05b0d407-c202-4806-a619-91991d957680")
-		(property "Reference" "U?"
+		(property "Reference" "U44"
 			(at 222.25 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16461,7 +16461,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "U?")
+					(reference "U44")
 					(unit 1)
 				)
 			)
@@ -16478,7 +16478,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6c840f99-101c-4877-bffc-f5ce331417fb")
-		(property "Reference" "U?"
+		(property "Reference" "U45"
 			(at 222.25 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16562,7 +16562,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "U?")
+					(reference "U45")
 					(unit 1)
 				)
 			)
@@ -16579,7 +16579,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ff162269-1460-4c7b-8cfa-540113c14cf7")
-		(property "Reference" "U?"
+		(property "Reference" "U46"
 			(at 222.25 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16663,7 +16663,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "U?")
+					(reference "U46")
 					(unit 1)
 				)
 			)
@@ -16680,7 +16680,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a18e378c-e783-47e2-af5b-276875daa846")
-		(property "Reference" "U?"
+		(property "Reference" "U47"
 			(at 222.25 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16764,7 +16764,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "U?")
+					(reference "U47")
 					(unit 1)
 				)
 			)
@@ -16781,7 +16781,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0159ab9a-2a26-437a-91dc-5b07791d7b8b")
-		(property "Reference" "U?"
+		(property "Reference" "U48"
 			(at 222.25 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16865,7 +16865,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "U?")
+					(reference "U48")
 					(unit 1)
 				)
 			)
@@ -16882,7 +16882,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "086ca8a3-285f-4db0-9a33-009ae9cea1a3")
-		(property "Reference" "U?"
+		(property "Reference" "U49"
 			(at 222.25 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16966,7 +16966,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "U?")
+					(reference "U49")
 					(unit 1)
 				)
 			)
@@ -16983,7 +16983,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9a4d0e88-2ccb-49d9-b97d-eaecb61de3c6")
-		(property "Reference" "U?"
+		(property "Reference" "U50"
 			(at 222.25 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17067,7 +17067,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "U?")
+					(reference "U50")
 					(unit 1)
 				)
 			)
@@ -17084,7 +17084,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "09efa8ef-147a-48a7-8f92-b2562e413d01")
-		(property "Reference" "U?"
+		(property "Reference" "U51"
 			(at 222.25 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17168,7 +17168,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "U?")
+					(reference "U51")
 					(unit 1)
 				)
 			)
@@ -17185,7 +17185,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ccd75f49-b675-44b9-9147-5706be64db4b")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0360"
 			(at 213.36 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -17245,7 +17245,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "#PWR?")
+					(reference "#PWR0360")
 					(unit 1)
 				)
 			)
@@ -17262,7 +17262,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7117e500-e3b3-4b36-a1d9-ce5d8f535d3b")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0361"
 			(at 213.36 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -17322,7 +17322,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "#PWR?")
+					(reference "#PWR0361")
 					(unit 1)
 				)
 			)
@@ -17339,7 +17339,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "df645507-327b-40d2-a322-42d6280b5a6c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0362"
 			(at 213.36 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -17399,7 +17399,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "#PWR?")
+					(reference "#PWR0362")
 					(unit 1)
 				)
 			)
@@ -17416,7 +17416,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ae578e3a-1f75-4374-b56b-3cab24026257")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0363"
 			(at 213.36 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -17476,7 +17476,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "#PWR?")
+					(reference "#PWR0363")
 					(unit 1)
 				)
 			)
@@ -17493,7 +17493,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3dc1b32e-ecaa-42ea-96f4-4efb9de2827c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0364"
 			(at 213.36 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -17553,7 +17553,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "#PWR?")
+					(reference "#PWR0364")
 					(unit 1)
 				)
 			)
@@ -17570,7 +17570,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "976a3fa0-7e44-44be-b5d9-1428eba1156a")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0365"
 			(at 213.36 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -17630,7 +17630,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "#PWR?")
+					(reference "#PWR0365")
 					(unit 1)
 				)
 			)
@@ -17647,7 +17647,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5f7f2ead-da58-4aa2-8a44-588e7be5e647")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0366"
 			(at 213.36 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -17707,7 +17707,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "#PWR?")
+					(reference "#PWR0366")
 					(unit 1)
 				)
 			)
@@ -17724,7 +17724,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "006adbf0-25dd-40e6-8063-95aab35dc4fc")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0367"
 			(at 213.36 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -17784,7 +17784,7 @@
 		(instances
 			(project "HALSPA"
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/3e131f2a-dbd5-4c45-87ea-4e6b43df983f"
-					(reference "#PWR?")
+					(reference "#PWR0367")
 					(unit 1)
 				)
 			)
