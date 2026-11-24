@@ -4179,25 +4179,23 @@
 		(dnp no)
 		(uuid "237151bb-bec3-48c4-a273-2b7cdc45bfe6")
 		(property "Reference" "JP34"
-			(at 115.5699 91.44 90)
+			(at 116.84 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Value" "SJ2b"
-			(at 118.1099 91.44 90)
+			(at 116.84 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm"
@@ -4727,25 +4725,23 @@
 		(dnp no)
 		(uuid "95b5b9c2-93f4-428f-ba6a-da44b45a60c8")
 		(property "Reference" "JP33"
-			(at 118.1101 83.82 90)
+			(at 116.84 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Value" "SJ2b"
-			(at 115.5701 83.82 90)
+			(at 116.84 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm"
