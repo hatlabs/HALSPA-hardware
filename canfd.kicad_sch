@@ -4379,7 +4379,7 @@
 		(dnp no)
 		(uuid "89e190b0-d642-49bb-9906-cebb2a037bb1")
 		(property "Reference" "D21"
-			(at 227.33 115.57 0)
+			(at 229.87 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4388,8 +4388,8 @@
 				)
 			)
 		)
-		(property "Value" "SM24CANB"
-			(at 227.33 118.11 0)
+		(property "Value" "PESD2CANFD24V"
+			(at 229.87 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4409,7 +4409,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/894e7d6a7ffc3a433dab39224dd46048.pdf?productCode=C19185908"
+		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/7465df0ba1e8225fd83d5eb3b4ccf9fb.pdf?productCode=C53340824"
 			(at 218.44 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -4420,7 +4420,7 @@
 				)
 			)
 		)
-		(property "Description" "24V bidirectional TVS diode array for CAN, SOT-23"
+		(property "Description" "Dual bidirectional CAN FD ESD protection, 24 V, SOT-23"
 			(at 218.44 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -4431,7 +4431,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C19185908"
+		(property "LCSC" "C53340824"
 			(at 218.44 113.03 0)
 			(hide yes)
 			(show_name no)
