@@ -2211,6 +2211,268 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "HL_Power_Protection:TPD4E05U06DQA"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 3.81 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "TPD4E05U06DQA"
+				(at 3.81 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "HL_Package_SON:USON-10_2.5x1.0mm_P0.5mm_FlowThrough"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd4e05u06.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "4-channel unidirectional ESD protection array, IO to GND, 5.5 V, USON-10. Use the flow-through footprint, where each pin number covers both pads of a pair."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "ESD protection TVS array"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "USON*2.5x1.0mm*P0.5mm*FlowThrough*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TPD4E05U06DQA_0_1"
+				(rectangle
+					(start -2.54 6.35)
+					(end 2.54 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -5.08) (xy 0 -5.08) (xy 0 -3.175)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.905) (xy 0 0.635)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.905) (xy 0 3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 -3.175) (xy 0.762 -3.175) (xy 0 -1.9049999999999998) (xy -0.762 -3.175)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 -1.9049999999999998) (xy 0.762 -1.9049999999999998)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 0.635) (xy 0.762 0.635) (xy 0 1.905) (xy -0.762 0.635)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 1.905) (xy 0.762 1.905)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TPD4E05U06DQA_1_1"
+				(pin passive line
+					(at -5.08 5.08 0)
+					(length 2.54)
+					(name "IO1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 2.54)
+					(name "IO2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "IO3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name "IO4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(text "CAN FD (MCP2518FD + SIT1044T/3)"
 		(exclude_from_sim no)
@@ -2284,6 +2546,18 @@
 	(no_connect
 		(at 127 97.79)
 		(uuid "ff7ea39e-e001-498a-83ad-cda196fff508")
+	)
+	(no_connect
+		(at 172.72 50.8)
+		(uuid "7f197c8c-11f6-407c-8099-0e92cdd75c9b")
+	)
+	(no_connect
+		(at 172.72 53.34)
+		(uuid "0ee971f1-a6d5-43cd-8d84-b51f0defda6a")
+	)
+	(no_connect
+		(at 172.72 55.88)
+		(uuid "d4dbe79a-e8a9-4f9e-98bb-9d6e07fad930")
 	)
 	(wire
 		(pts
@@ -3114,6 +3388,56 @@
 			(justify right bottom)
 		)
 		(uuid "f95f86b0-27ff-47fb-b2d2-e6c62a8ed031")
+	)
+	(label "SCK"
+		(at 172.72 30.48 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c0ed14fe-a1a4-4540-90a9-26008837a41b")
+	)
+	(label "SDI"
+		(at 172.72 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "81a7466b-3f5d-42db-993f-526bc5ffb2a0")
+	)
+	(label "SDO"
+		(at 172.72 35.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "464ab9fd-0884-48bd-96c2-c8941aaeb7de")
+	)
+	(label "~{CS}"
+		(at 172.72 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a29b6203-cbcd-49d4-9d3b-b2a3fbce580c")
+	)
+	(label "~{INT}"
+		(at 172.72 48.26 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "48fe0c5c-b96b-4e3a-b1d0-290b8722f6f0")
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -4055,7 +4379,7 @@
 		(dnp no)
 		(uuid "89e190b0-d642-49bb-9906-cebb2a037bb1")
 		(property "Reference" "D21"
-			(at 227.33 115.57 0)
+			(at 229.87 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4064,8 +4388,8 @@
 				)
 			)
 		)
-		(property "Value" "SM24CANB"
-			(at 227.33 118.11 0)
+		(property "Value" "PESD2CANFD24V"
+			(at 229.87 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4085,7 +4409,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/894e7d6a7ffc3a433dab39224dd46048.pdf?productCode=C19185908"
+		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/7465df0ba1e8225fd83d5eb3b4ccf9fb.pdf?productCode=C53340824"
 			(at 218.44 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -4096,7 +4420,7 @@
 				)
 			)
 		)
-		(property "Description" "24V bidirectional TVS diode array for CAN, SOT-23"
+		(property "Description" "Dual bidirectional CAN FD ESD protection, 24 V, SOT-23"
 			(at 218.44 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -4107,7 +4431,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C19185908"
+		(property "LCSC" "C53340824"
 			(at 218.44 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -5562,5 +5886,269 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a09ab4e6-1249-45dd-918d-9998d2d0c5b4")
+	)
+	(symbol
+		(lib_id "HL_Power_Protection:TPD4E05U06DQA")
+		(at 177.8 35.56 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e0e0c176-72ac-4f7f-956b-4d968a9729d8")
+		(property "Reference" "U81"
+			(at 181.61 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TPD4E05U06DQAR"
+			(at 181.61 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "HL_Package_SON:USON-10_2.5x1.0mm_P0.5mm_FlowThrough"
+			(at 177.8 35.56 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/0c15d1c4b149ef029b0347bbd38767df.pdf?productCode=C22390021"
+			(at 177.8 35.56 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "4-channel unidirectional ESD protection array, 5 V, DFN2510-10"
+			(at 177.8 35.56 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22390021"
+			(at 177.8 35.56 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/183183b6-f68e-4c50-bf3a-f8488e2a08da"
+					(reference "U81")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 172.72 40.64 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0d268f79-1840-4ed9-bcad-6b6b3746f6ae")
+		(property "Reference" "#PWR0452"
+			(at 172.72 46.99 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 172.72 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 172.72 40.64 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 40.64 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 172.72 40.64 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/183183b6-f68e-4c50-bf3a-f8488e2a08da"
+					(reference "#PWR0452")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "HL_Power_Protection:TPD4E05U06DQA")
+		(at 177.8 53.34 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bab9ab2f-4b2c-4a2f-a01a-a659db659c1c")
+		(property "Reference" "U82"
+			(at 181.61 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TPD4E05U06DQAR"
+			(at 181.61 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "HL_Package_SON:USON-10_2.5x1.0mm_P0.5mm_FlowThrough"
+			(at 177.8 53.34 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/0c15d1c4b149ef029b0347bbd38767df.pdf?productCode=C22390021"
+			(at 177.8 53.34 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "4-channel unidirectional ESD protection array, 5 V, DFN2510-10"
+			(at 177.8 53.34 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22390021"
+			(at 177.8 53.34 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/183183b6-f68e-4c50-bf3a-f8488e2a08da"
+					(reference "U82")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 172.72 58.42 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f20bd928-5114-45d1-9b69-002e47219f71")
+		(property "Reference" "#PWR0453"
+			(at 172.72 64.77 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 172.72 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 172.72 58.42 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 58.42 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 172.72 58.42 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/183183b6-f68e-4c50-bf3a-f8488e2a08da"
+					(reference "#PWR0453")
+					(unit 1)
+				)
+			)
+		)
 	)
 )

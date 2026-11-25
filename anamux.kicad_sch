@@ -729,7 +729,8 @@
 			(symbol "C_Small_0_1"
 				(polyline
 					(pts
-						(xy -1.524 0.508) (xy 1.524 0.508)
+						(xy -1.524 0.508)
+						(xy 1.524 0.508)
 					)
 					(stroke
 						(width 0.3048)
@@ -741,7 +742,8 @@
 				)
 				(polyline
 					(pts
-						(xy -1.524 -0.508) (xy 1.524 -0.508)
+						(xy -1.524 -0.508)
+						(xy 1.524 -0.508)
 					)
 					(stroke
 						(width 0.3302)
@@ -901,7 +903,8 @@
 				)
 				(polyline
 					(pts
-						(xy -8.128 2.54) (xy -6.604 2.54)
+						(xy -8.128 2.54)
+						(xy -6.604 2.54)
 					)
 					(stroke
 						(width 0.254)
@@ -924,7 +927,8 @@
 				)
 				(polyline
 					(pts
-						(xy -5.588 2.794) (xy -3.302 3.556)
+						(xy -5.588 2.794)
+						(xy -3.302 3.556)
 					)
 					(stroke
 						(width 0.254)
@@ -936,7 +940,8 @@
 				)
 				(polyline
 					(pts
-						(xy -4.572 10.16) (xy -5.08 10.16)
+						(xy -4.572 10.16)
+						(xy -5.08 10.16)
 					)
 					(stroke
 						(width 0.254)
@@ -948,7 +953,8 @@
 				)
 				(polyline
 					(pts
-						(xy -4.572 1.524) (xy -4.572 2.159)
+						(xy -4.572 1.524)
+						(xy -4.572 2.159)
 					)
 					(stroke
 						(width 0.254)
@@ -960,7 +966,8 @@
 				)
 				(polyline
 					(pts
-						(xy -4.572 0.254) (xy -4.572 0.889)
+						(xy -4.572 0.254)
+						(xy -4.572 0.889)
 					)
 					(stroke
 						(width 0.254)
@@ -972,7 +979,8 @@
 				)
 				(polyline
 					(pts
-						(xy -4.572 0) (xy -5.207 0)
+						(xy -4.572 0)
+						(xy -5.207 0)
 					)
 					(stroke
 						(width 0.254)
@@ -984,7 +992,8 @@
 				)
 				(polyline
 					(pts
-						(xy -3.81 10.16) (xy -3.175 10.16)
+						(xy -3.81 10.16)
+						(xy -3.175 10.16)
 					)
 					(stroke
 						(width 0.254)
@@ -1007,7 +1016,8 @@
 				)
 				(polyline
 					(pts
-						(xy -1.778 10.16) (xy -2.286 10.16)
+						(xy -1.778 10.16)
+						(xy -2.286 10.16)
 					)
 					(stroke
 						(width 0.254)
@@ -1019,7 +1029,8 @@
 				)
 				(polyline
 					(pts
-						(xy -1.778 2.794) (xy 2.286 5.08)
+						(xy -1.778 2.794)
+						(xy 2.286 5.08)
 					)
 					(stroke
 						(width 0.254)
@@ -1031,7 +1042,8 @@
 				)
 				(polyline
 					(pts
-						(xy -0.508 10.16) (xy -1.016 10.16)
+						(xy -0.508 10.16)
+						(xy -1.016 10.16)
 					)
 					(stroke
 						(width 0.254)
@@ -1043,7 +1055,8 @@
 				)
 				(polyline
 					(pts
-						(xy -0.508 9.652) (xy -0.508 10.16)
+						(xy -0.508 9.652)
+						(xy -0.508 10.16)
 					)
 					(stroke
 						(width 0.254)
@@ -1055,7 +1068,8 @@
 				)
 				(polyline
 					(pts
-						(xy -0.508 8.636) (xy -0.508 9.144)
+						(xy -0.508 8.636)
+						(xy -0.508 9.144)
 					)
 					(stroke
 						(width 0.254)
@@ -1067,7 +1081,8 @@
 				)
 				(polyline
 					(pts
-						(xy -0.508 7.62) (xy -0.508 8.255)
+						(xy -0.508 7.62)
+						(xy -0.508 8.255)
 					)
 					(stroke
 						(width 0.254)
@@ -1079,7 +1094,8 @@
 				)
 				(polyline
 					(pts
-						(xy -0.508 6.35) (xy -0.508 6.985)
+						(xy -0.508 6.35)
+						(xy -0.508 6.985)
 					)
 					(stroke
 						(width 0.254)
@@ -1091,7 +1107,8 @@
 				)
 				(polyline
 					(pts
-						(xy -0.508 5.08) (xy -0.508 5.715)
+						(xy -0.508 5.08)
+						(xy -0.508 5.715)
 					)
 					(stroke
 						(width 0.254)
@@ -1103,7 +1120,8 @@
 				)
 				(polyline
 					(pts
-						(xy -0.508 3.81) (xy -0.508 4.445)
+						(xy -0.508 3.81)
+						(xy -0.508 4.445)
 					)
 					(stroke
 						(width 0.254)
@@ -1203,7 +1221,8 @@
 				)
 				(polyline
 					(pts
-						(xy 4.064 5.08) (xy 5.842 5.08)
+						(xy 4.064 5.08)
+						(xy 5.842 5.08)
 					)
 					(stroke
 						(width 0.254)
@@ -1215,7 +1234,8 @@
 				)
 				(polyline
 					(pts
-						(xy 4.064 2.54) (xy 5.842 2.54)
+						(xy 4.064 2.54)
+						(xy 5.842 2.54)
 					)
 					(stroke
 						(width 0.254)
@@ -1227,7 +1247,8 @@
 				)
 				(polyline
 					(pts
-						(xy 4.064 0) (xy 5.842 0)
+						(xy 4.064 0)
+						(xy 5.842 0)
 					)
 					(stroke
 						(width 0.254)
@@ -1239,7 +1260,8 @@
 				)
 				(polyline
 					(pts
-						(xy 4.064 -2.54) (xy 5.842 -2.54)
+						(xy 4.064 -2.54)
+						(xy 5.842 -2.54)
 					)
 					(stroke
 						(width 0.254)
@@ -1251,7 +1273,8 @@
 				)
 				(polyline
 					(pts
-						(xy 4.064 -5.08) (xy 5.842 -5.08)
+						(xy 4.064 -5.08)
+						(xy 5.842 -5.08)
 					)
 					(stroke
 						(width 0.254)
@@ -1263,7 +1286,8 @@
 				)
 				(polyline
 					(pts
-						(xy 4.064 -7.62) (xy 5.842 -7.62)
+						(xy 4.064 -7.62)
+						(xy 5.842 -7.62)
 					)
 					(stroke
 						(width 0.254)
@@ -1275,7 +1299,8 @@
 				)
 				(polyline
 					(pts
-						(xy 4.064 -10.16) (xy 5.842 -10.16)
+						(xy 4.064 -10.16)
+						(xy 5.842 -10.16)
 					)
 					(stroke
 						(width 0.254)
@@ -1287,7 +1312,8 @@
 				)
 				(polyline
 					(pts
-						(xy 4.064 -12.7) (xy 5.842 -12.7)
+						(xy 4.064 -12.7)
+						(xy 5.842 -12.7)
 					)
 					(stroke
 						(width 0.254)
@@ -1672,7 +1698,8 @@
 			(symbol "+12V_0_1"
 				(polyline
 					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
+						(xy -0.762 1.27)
+						(xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -1684,7 +1711,8 @@
 				)
 				(polyline
 					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
+						(xy 0 2.54)
+						(xy 0.762 1.27)
 					)
 					(stroke
 						(width 0)
@@ -1696,7 +1724,8 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 2.54)
+						(xy 0 0)
+						(xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -1811,7 +1840,12 @@
 			(symbol "GND_0_1"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+						(xy 0 0)
+						(xy 0 -1.27)
+						(xy 1.27 -1.27)
+						(xy 0 -2.54)
+						(xy -1.27 -1.27)
+						(xy 0 -1.27)
 					)
 					(stroke
 						(width 0)
@@ -1844,70 +1878,1140 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Diode:BAT54S"
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "D"
+				(at 2.54 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "BAT54S"
+				(at -6.35 3.175 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+				(at 1.905 3.175 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds11005.pdf"
+				(at -3.048 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "schottky diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "SOT?23*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "BAT54S_0_1"
+				(polyline
+					(pts
+						(xy -4.445 1.27)
+						(xy -4.445 -1.27)
+						(xy -2.54 0)
+						(xy -4.445 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 0)
+						(xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.175 -1.27)
+						(xy -3.175 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 1.27)
+						(xy -1.905 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -1.27)
+						(xy -3.175 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -1.27)
+						(xy -2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 1.27)
+						(xy -1.905 1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 0)
+						(xy 1.905 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0)
+						(xy 3.81 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 1.27)
+						(xy 1.905 -1.27)
+						(xy 3.81 0)
+						(xy 1.905 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 -1.27)
+						(xy 3.175 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 1.27)
+						(xy 4.445 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -1.27)
+						(xy 3.175 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -1.27)
+						(xy 3.81 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.445 1.27)
+						(xy 4.445 1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "BAT54S_1_1"
+				(pin passive line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 5.08)
+					(name "COM"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:R"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Power_Protection:SZNUP2105L"
+			(property "Reference" "D"
+				(at 5.715 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "SZNUP2105L"
+				(at 5.715 0.635 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+				(at 5.715 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pub_link/Collateral/NUP2105L-D.PDF"
+				(at 3.175 3.175 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Dual Line CAN Bus Protector, 24Vrwm, Automotive Grade"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "can esd protection suppression transient automotive"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "SOT?23*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(embedded_fonts no)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(symbol "SZNUP2105L_0_0"
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "SZNUP2105L_0_1"
+				(rectangle
+					(start -4.445 2.54)
+					(end 4.445 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 1.27)
+						(xy -3.175 0.635)
+						(xy -1.905 0.635)
+						(xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 2.54)
+						(xy -2.54 0.635)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0.635)
+						(xy -2.54 -1.27)
+						(xy 2.54 -1.27)
+						(xy 2.54 0.635)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0.635)
+						(xy -1.905 -0.635)
+						(xy -3.175 -0.635)
+						(xy -2.54 0.635)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0.635)
+						(xy -3.175 1.905)
+						(xy -1.905 1.905)
+						(xy -2.54 0.635)
+						(xy -2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27)
+						(xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27)
+						(xy 1.905 0.635)
+						(xy 2.54 0.635)
+						(xy 3.175 0.635)
+						(xy 3.81 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54)
+						(xy 2.54 0.635)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0.635)
+						(xy 1.905 -0.635)
+						(xy 3.175 -0.635)
+						(xy 2.54 0.635)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0.635)
+						(xy 3.175 1.905)
+						(xy 1.905 1.905)
+						(xy 2.54 0.635)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SZNUP2105L_1_1"
+				(pin passive line
+					(at -2.54 5.08 270)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:PWR_FLAG"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0)
+						(xy 0 1.27)
+						(xy -1.016 1.905)
+						(xy 0 2.54)
+						(xy 1.016 1.905)
+						(xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(junction
-		(at 128.27 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "11894eca-b188-4454-89f5-4d8976761180")
-	)
-	(junction
-		(at 91.44 53.34)
+		(at 53.34 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2745be47-6b5b-4306-b324-0d3e3ddfaba4")
 	)
 	(junction
-		(at 128.27 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "287cdc68-4399-4df7-bce1-bf6382ea0456")
-	)
-	(junction
-		(at 128.27 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "86f65aa8-549f-4061-b443-115490677fb4")
-	)
-	(junction
-		(at 128.27 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "88621441-27e3-4554-b599-24e39758ed78")
-	)
-	(junction
-		(at 86.36 93.98)
+		(at 48.26 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a4593964-dfcd-4f26-a1e8-52e6d56454bd")
 	)
 	(junction
-		(at 128.27 83.82)
+		(at 78.74 68.58)
 		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ca2de07d-b6e8-425b-ae43-203fdf4f2929")
+		(uuid "071baab8-224d-4bc7-bca6-aae70c1413c3")
 	)
 	(junction
-		(at 128.27 81.28)
+		(at 88.9 71.12)
 		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d27a248f-3eb2-4b7a-b6ae-8ac139b0cac3")
+		(uuid "f08a9589-31d4-42b7-836a-eecb7b3288e8")
 	)
 	(junction
-		(at 128.27 71.12)
+		(at 99.06 73.66)
 		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e45e3999-1d43-4608-8d7e-c0a293825856")
+		(uuid "4e34caa0-a6bd-4750-8a38-a9c37add31b9")
 	)
 	(junction
-		(at 128.27 78.74)
+		(at 109.22 76.2)
 		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f3dd5b4b-267a-4283-829c-0073af18e681")
+		(uuid "e74d5a1b-de75-453b-9bfc-4201928e3867")
+	)
+	(junction
+		(at 119.38 78.74)
+		(diameter 0)
+		(uuid "a58593bf-1fd5-4d2f-92f0-0d3958758dab")
+	)
+	(junction
+		(at 129.54 81.28)
+		(diameter 0)
+		(uuid "f0266e6a-a97b-4749-8de2-87ff83200831")
+	)
+	(junction
+		(at 139.7 83.82)
+		(diameter 0)
+		(uuid "1f787461-4268-4a29-9751-d5afec7c48d8")
+	)
+	(junction
+		(at 149.86 86.36)
+		(diameter 0)
+		(uuid "6066ec27-82f6-4e76-90a1-7440e59185e8")
+	)
+	(junction
+		(at 160.02 88.9)
+		(diameter 0)
+		(uuid "537538e6-abb3-4d08-bdea-1506057dfc8e")
+	)
+	(junction
+		(at 193.04 68.58)
+		(diameter 0)
+		(uuid "f5b1e6de-964d-46fd-a5d8-e2cba2aaa8c3")
+	)
+	(junction
+		(at 198.12 71.12)
+		(diameter 0)
+		(uuid "96858c13-166d-406b-bb04-3b05863aadb5")
+	)
+	(junction
+		(at 205.74 73.66)
+		(diameter 0)
+		(uuid "10afcbe3-794a-4e07-aefc-d35c1309ce4a")
+	)
+	(junction
+		(at 210.82 76.2)
+		(diameter 0)
+		(uuid "9e06fb96-65db-4a1d-9a09-720d065f6175")
+	)
+	(junction
+		(at 218.44 78.74)
+		(diameter 0)
+		(uuid "cc25653b-472c-4f7d-9671-a7eb2909090c")
+	)
+	(junction
+		(at 223.52 81.28)
+		(diameter 0)
+		(uuid "7327d2e3-e025-48a2-8de6-f2a80ea31e65")
+	)
+	(junction
+		(at 231.14 83.82)
+		(diameter 0)
+		(uuid "d2ba3cc1-362d-4df5-9ed3-f2575c341fb5")
+	)
+	(junction
+		(at 236.22 86.36)
+		(diameter 0)
+		(uuid "122e1d2f-ead8-4549-8218-bee9f6230bd2")
+	)
+	(junction
+		(at 243.84 88.9)
+		(diameter 0)
+		(uuid "4a6d277b-c30a-441c-b52c-8a1bd3f9cd7e")
+	)
+	(junction
+		(at 269.24 71.12)
+		(diameter 0)
+		(uuid "5a1da925-797d-4f31-8878-509aa2fecc18")
+	)
+	(junction
+		(at 269.24 73.66)
+		(diameter 0)
+		(uuid "9bc08fef-c45b-4556-852b-505df4288b98")
+	)
+	(junction
+		(at 269.24 76.2)
+		(diameter 0)
+		(uuid "b4a159d5-94eb-48d6-96fa-3de9207d1986")
+	)
+	(junction
+		(at 269.24 78.74)
+		(diameter 0)
+		(uuid "9a7c80c1-e5ab-4034-b85a-323ea51f26d4")
+	)
+	(junction
+		(at 269.24 81.28)
+		(diameter 0)
+		(uuid "c7369cba-17ba-41dc-bf11-8c7b2ff9f8c3")
+	)
+	(junction
+		(at 269.24 83.82)
+		(diameter 0)
+		(uuid "22094c5c-cc9a-4ace-baf0-5c31b10ff6b0")
+	)
+	(junction
+		(at 269.24 86.36)
+		(diameter 0)
+		(uuid "455d6bfb-cdac-4872-a4d6-e6439d84f7cb")
+	)
+	(junction
+		(at 269.24 88.9)
+		(diameter 0)
+		(uuid "1c4a59ce-1ddd-4794-bf7f-34c9cb35675d")
+	)
+	(junction
+		(at 73.66 114.3)
+		(diameter 0)
+		(uuid "e1913962-1f48-4dd0-a68d-8e605f8172b6")
+	)
+	(junction
+		(at 83.82 114.3)
+		(diameter 0)
+		(uuid "faf0eda5-9f3a-40c6-bf6c-79cae0371c3b")
+	)
+	(junction
+		(at 93.98 114.3)
+		(diameter 0)
+		(uuid "5999b3f2-a9eb-4764-8e64-4b326fe4fd5f")
+	)
+	(junction
+		(at 104.14 114.3)
+		(diameter 0)
+		(uuid "6d0a75b3-abbb-4d3f-ab18-1c14dac7c75f")
+	)
+	(junction
+		(at 114.3 114.3)
+		(diameter 0)
+		(uuid "087be745-fe0b-4e5f-8902-90ac57b92768")
+	)
+	(junction
+		(at 124.46 114.3)
+		(diameter 0)
+		(uuid "67af7ec2-1416-4e56-b559-45f9a7560c7a")
+	)
+	(junction
+		(at 134.62 114.3)
+		(diameter 0)
+		(uuid "73513c9e-c48b-45e5-8ba5-abf69cb855b9")
+	)
+	(junction
+		(at 144.78 114.3)
+		(diameter 0)
+		(uuid "0a7521e0-9b7e-4e00-99d9-bd94906355a6")
+	)
+	(junction
+		(at 195.58 109.22)
+		(diameter 0)
+		(uuid "67c272dc-6742-499f-8bb5-2550078ea919")
+	)
+	(junction
+		(at 208.28 109.22)
+		(diameter 0)
+		(uuid "6339d473-75fb-4174-ac70-7f67a272f338")
+	)
+	(junction
+		(at 220.98 109.22)
+		(diameter 0)
+		(uuid "1c909eac-64f6-4de6-9a30-b2aa7e3ff650")
+	)
+	(junction
+		(at 233.68 109.22)
+		(diameter 0)
+		(uuid "27796551-ab8a-4a5c-8562-ca9006107f78")
+	)
+	(no_connect
+		(at 248.92 96.52)
+		(uuid "8137e248-c0d1-4203-8adc-92a7a84df301")
 	)
 	(wire
 		(pts
-			(xy 91.44 53.34) (xy 91.44 58.42)
+			(xy 53.34 53.34)
+			(xy 53.34 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1917,27 +3021,8 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 88.9) (xy 128.27 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "00916c65-aed6-4a26-bbde-4a4288d3fa3a")
-	)
-	(wire
-		(pts
-			(xy 101.6 88.9) (xy 115.57 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04ab5d57-a9df-4e6d-a9bb-989c21979e99")
-	)
-	(wire
-		(pts
-			(xy 73.66 63.5) (xy 76.2 63.5)
+			(xy 35.56 63.5)
+			(xy 38.1 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1947,7 +3032,8 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 99.06) (xy 86.36 93.98)
+			(xy 48.26 99.06)
+			(xy 48.26 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1957,7 +3043,8 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 68.58) (xy 76.2 68.58)
+			(xy 35.56 68.58)
+			(xy 38.1 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1967,57 +3054,8 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 83.82) (xy 115.57 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13f0798b-4a92-4ba0-bc48-0ee41256ce2c")
-	)
-	(wire
-		(pts
-			(xy 101.6 73.66) (xy 115.57 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18c5697e-62b2-40d4-b45f-acb553e687ee")
-	)
-	(wire
-		(pts
-			(xy 101.6 86.36) (xy 115.57 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "212d923d-cc06-4d4e-b2dd-797f630cf593")
-	)
-	(wire
-		(pts
-			(xy 128.27 71.12) (xy 128.27 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2401179b-3c7d-409d-a3a7-471a760be999")
-	)
-	(wire
-		(pts
-			(xy 128.27 86.36) (xy 128.27 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "292bee90-8ad9-4ca3-8d77-1cea817945b0")
-	)
-	(wire
-		(pts
-			(xy 80.01 53.34) (xy 82.55 53.34)
+			(xy 41.91 53.34)
+			(xy 44.45 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2027,17 +3065,8 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 76.2) (xy 128.27 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "302fc0d6-3c77-474f-9e4c-df657f28e3fb")
-	)
-	(wire
-		(pts
-			(xy 91.44 53.34) (xy 87.63 53.34)
+			(xy 53.34 53.34)
+			(xy 49.53 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2047,17 +3076,8 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 73.66) (xy 128.27 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5502e17e-e92d-4dd7-8a2e-f908eeff52d7")
-	)
-	(wire
-		(pts
-			(xy 86.36 93.98) (xy 88.9 93.98)
+			(xy 48.26 93.98)
+			(xy 50.8 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2067,7 +3087,8 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 76.2) (xy 76.2 76.2)
+			(xy 35.56 76.2)
+			(xy 38.1 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2077,57 +3098,8 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 78.74) (xy 115.57 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7526b81b-ed7d-42ee-8359-197adc200bf6")
-	)
-	(wire
-		(pts
-			(xy 128.27 78.74) (xy 128.27 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75d2ae8d-f707-40b3-85cc-c74656313dd7")
-	)
-	(wire
-		(pts
-			(xy 101.6 76.2) (xy 115.57 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86941d7a-4d9b-49d9-94a4-7e8469134d6d")
-	)
-	(wire
-		(pts
-			(xy 114.3 68.58) (xy 115.57 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "963fd7b8-b6a7-4294-8adc-fc7151f44f36")
-	)
-	(wire
-		(pts
-			(xy 101.6 71.12) (xy 115.57 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e6e4b4c-d919-44d7-a54e-7758782ab669")
-	)
-	(wire
-		(pts
-			(xy 73.66 66.04) (xy 76.2 66.04)
+			(xy 35.56 66.04)
+			(xy 38.1 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2137,17 +3109,8 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 81.28) (xy 128.27 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa18ffa6-c002-4df2-9a00-990b533ec787")
-	)
-	(wire
-		(pts
-			(xy 91.44 49.53) (xy 91.44 53.34)
+			(xy 53.34 49.53)
+			(xy 53.34 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2157,37 +3120,8 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 68.58) (xy 128.27 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc7ebd82-95b8-4eae-9ae8-5d91d5a96092")
-	)
-	(wire
-		(pts
-			(xy 101.6 81.28) (xy 115.57 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f99ad6a2-0d95-44db-8f72-617e72358c6b")
-	)
-	(wire
-		(pts
-			(xy 128.27 83.82) (xy 128.27 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9cd5066-a685-4058-8a6f-c046df08ff24")
-	)
-	(wire
-		(pts
-			(xy 73.66 73.66) (xy 76.2 73.66)
+			(xy 35.56 73.66)
+			(xy 38.1 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2195,18 +3129,525 @@
 		)
 		(uuid "fd39337c-6436-4260-863a-06e1fa5834da")
 	)
-	(label "D"
-		(at 114.3 68.58 180)
+	(wire
+		(pts
+			(xy 66.04 68.58)
+			(xy 168.91 68.58)
+		)
+		(uuid "e9756a0c-89ca-4e89-a97c-7c97cba9773a")
+	)
+	(wire
+		(pts
+			(xy 176.53 68.58)
+			(xy 256.54 68.58)
+		)
+		(uuid "7e2585b2-29e6-4ce3-baf1-cba1a19ad2a6")
+	)
+	(wire
+		(pts
+			(xy 78.74 104.14)
+			(xy 78.74 68.58)
+		)
+		(uuid "e1ff7695-da68-4366-ac9a-ec93df5efedd")
+	)
+	(wire
+		(pts
+			(xy 63.5 71.12)
+			(xy 168.91 71.12)
+		)
+		(uuid "d2c40c18-284c-4573-8d15-74c18c246877")
+	)
+	(wire
+		(pts
+			(xy 176.53 71.12)
+			(xy 256.54 71.12)
+		)
+		(uuid "b5541118-fa40-4e0d-9ead-d30ea1d9d336")
+	)
+	(wire
+		(pts
+			(xy 88.9 104.14)
+			(xy 88.9 71.12)
+		)
+		(uuid "22c252ad-e4a8-4a42-9baa-477c67387b45")
+	)
+	(wire
+		(pts
+			(xy 63.5 73.66)
+			(xy 168.91 73.66)
+		)
+		(uuid "b31389e1-93fd-4a24-a997-74fb58e48f90")
+	)
+	(wire
+		(pts
+			(xy 176.53 73.66)
+			(xy 256.54 73.66)
+		)
+		(uuid "1342efbb-a868-4a87-8a58-6e50ab20ae05")
+	)
+	(wire
+		(pts
+			(xy 99.06 104.14)
+			(xy 99.06 73.66)
+		)
+		(uuid "4b87a8a2-eed4-43e5-b990-ec922dc2b281")
+	)
+	(wire
+		(pts
+			(xy 63.5 76.2)
+			(xy 168.91 76.2)
+		)
+		(uuid "f7101920-9b89-41ec-9df1-c3dd37355f1b")
+	)
+	(wire
+		(pts
+			(xy 176.53 76.2)
+			(xy 256.54 76.2)
+		)
+		(uuid "3942b813-a1d1-426a-80ea-6a59ec4feb95")
+	)
+	(wire
+		(pts
+			(xy 109.22 104.14)
+			(xy 109.22 76.2)
+		)
+		(uuid "a344907e-8bbc-48b2-a809-402a01146df0")
+	)
+	(wire
+		(pts
+			(xy 63.5 78.74)
+			(xy 168.91 78.74)
+		)
+		(uuid "b4e35e32-b5f2-4cfd-924a-f291a9e457a9")
+	)
+	(wire
+		(pts
+			(xy 176.53 78.74)
+			(xy 256.54 78.74)
+		)
+		(uuid "78676a62-2372-4b20-bc61-d33d9641a910")
+	)
+	(wire
+		(pts
+			(xy 119.38 104.14)
+			(xy 119.38 78.74)
+		)
+		(uuid "4833b318-7f20-42c4-a24f-7afec1babbf6")
+	)
+	(wire
+		(pts
+			(xy 63.5 81.28)
+			(xy 168.91 81.28)
+		)
+		(uuid "d8ca862c-7bb4-4b34-b157-b10b01be3f55")
+	)
+	(wire
+		(pts
+			(xy 176.53 81.28)
+			(xy 256.54 81.28)
+		)
+		(uuid "4721c597-bb5c-4e29-805d-374f23c8f775")
+	)
+	(wire
+		(pts
+			(xy 129.54 104.14)
+			(xy 129.54 81.28)
+		)
+		(uuid "f35a6dda-e01a-459d-902c-cadd6a2648a8")
+	)
+	(wire
+		(pts
+			(xy 63.5 83.82)
+			(xy 168.91 83.82)
+		)
+		(uuid "9d45da8a-eea2-4183-8bd3-03ac52c2bced")
+	)
+	(wire
+		(pts
+			(xy 176.53 83.82)
+			(xy 256.54 83.82)
+		)
+		(uuid "b0fee708-9b92-40b0-8f54-4d7e91489c41")
+	)
+	(wire
+		(pts
+			(xy 139.7 104.14)
+			(xy 139.7 83.82)
+		)
+		(uuid "cd0d8223-d26a-46f7-ad63-a18e375d7196")
+	)
+	(wire
+		(pts
+			(xy 63.5 86.36)
+			(xy 168.91 86.36)
+		)
+		(uuid "d822fc03-82eb-4b78-883d-112ebc778455")
+	)
+	(wire
+		(pts
+			(xy 176.53 86.36)
+			(xy 256.54 86.36)
+		)
+		(uuid "b1538d12-42d7-4702-9d1f-445764d92300")
+	)
+	(wire
+		(pts
+			(xy 149.86 104.14)
+			(xy 149.86 86.36)
+		)
+		(uuid "d76e82ae-7480-4839-ac5f-dead0ef3159a")
+	)
+	(wire
+		(pts
+			(xy 63.5 88.9)
+			(xy 168.91 88.9)
+		)
+		(uuid "f91550ae-df52-4762-be35-58cab04bcd21")
+	)
+	(wire
+		(pts
+			(xy 176.53 88.9)
+			(xy 256.54 88.9)
+		)
+		(uuid "cb611299-df2d-40e6-86d8-ad58dec98278")
+	)
+	(wire
+		(pts
+			(xy 160.02 104.14)
+			(xy 160.02 88.9)
+		)
+		(uuid "07f41450-09d2-44f5-9d70-135eb5be11dd")
+	)
+	(wire
+		(pts
+			(xy 193.04 96.52)
+			(xy 193.04 68.58)
+		)
+		(uuid "75ab0246-aa3e-4fb6-8c1e-f6400075c660")
+	)
+	(wire
+		(pts
+			(xy 198.12 96.52)
+			(xy 198.12 71.12)
+		)
+		(uuid "6f4e41e5-7207-46a1-9a0a-bebe5fa072fd")
+	)
+	(wire
+		(pts
+			(xy 205.74 96.52)
+			(xy 205.74 73.66)
+		)
+		(uuid "b5ca9994-0b8e-45c8-803d-b3a9b6374cda")
+	)
+	(wire
+		(pts
+			(xy 210.82 96.52)
+			(xy 210.82 76.2)
+		)
+		(uuid "eba9146f-c1cd-440d-b628-c115d0d0a682")
+	)
+	(wire
+		(pts
+			(xy 218.44 96.52)
+			(xy 218.44 78.74)
+		)
+		(uuid "b28a4360-5926-48df-8b35-7681527c53e1")
+	)
+	(wire
+		(pts
+			(xy 223.52 96.52)
+			(xy 223.52 81.28)
+		)
+		(uuid "f8d2a00e-d36f-48c7-8e89-c12bf356e18f")
+	)
+	(wire
+		(pts
+			(xy 231.14 96.52)
+			(xy 231.14 83.82)
+		)
+		(uuid "1d1fc8d9-0e2c-4e2a-8843-1e4170e44e04")
+	)
+	(wire
+		(pts
+			(xy 236.22 96.52)
+			(xy 236.22 86.36)
+		)
+		(uuid "4fd9e21f-fc79-40d3-91ba-b35e4522ab5b")
+	)
+	(wire
+		(pts
+			(xy 243.84 96.52)
+			(xy 243.84 88.9)
+		)
+		(uuid "1ed5d5f9-904c-42ef-9c3b-c436ebb9c9aa")
+	)
+	(wire
+		(pts
+			(xy 269.24 68.58)
+			(xy 269.24 71.12)
+		)
+		(uuid "e8275727-e711-4839-949a-f42afd99edf1")
+	)
+	(wire
+		(pts
+			(xy 269.24 71.12)
+			(xy 269.24 73.66)
+		)
+		(uuid "1abef625-69f6-45e4-a07c-1d1080f5d0f1")
+	)
+	(wire
+		(pts
+			(xy 269.24 73.66)
+			(xy 269.24 76.2)
+		)
+		(uuid "b1ba8622-e2f6-49e0-8b25-62f73a401397")
+	)
+	(wire
+		(pts
+			(xy 269.24 76.2)
+			(xy 269.24 78.74)
+		)
+		(uuid "791cbc3a-ebcf-4ae8-9aca-e8a9d58efe61")
+	)
+	(wire
+		(pts
+			(xy 269.24 78.74)
+			(xy 269.24 81.28)
+		)
+		(uuid "5fb3da29-cc0f-49ab-8c04-0e95f6e1fe94")
+	)
+	(wire
+		(pts
+			(xy 269.24 81.28)
+			(xy 269.24 83.82)
+		)
+		(uuid "60d34109-41de-4162-aced-326082d424a1")
+	)
+	(wire
+		(pts
+			(xy 269.24 83.82)
+			(xy 269.24 86.36)
+		)
+		(uuid "16f5eca8-108f-4c9a-9864-d668c417601e")
+	)
+	(wire
+		(pts
+			(xy 269.24 86.36)
+			(xy 269.24 88.9)
+		)
+		(uuid "d47b6d33-636e-4e88-8c1a-f34e7872d415")
+	)
+	(wire
+		(pts
+			(xy 269.24 88.9)
+			(xy 269.24 91.44)
+		)
+		(uuid "a4b374e5-1653-416d-ae08-1ef8074987b3")
+	)
+	(wire
+		(pts
+			(xy 66.04 114.3)
+			(xy 154.94 114.3)
+		)
+		(uuid "e4f70af7-e828-4bda-9f5d-47337c6a37c5")
+	)
+	(wire
+		(pts
+			(xy 73.66 111.76)
+			(xy 73.66 114.3)
+		)
+		(uuid "9a5cfadf-9740-4c0a-a1fc-aa96b4873e26")
+	)
+	(wire
+		(pts
+			(xy 83.82 111.76)
+			(xy 83.82 114.3)
+		)
+		(uuid "64fcd58f-dffb-45ab-b510-1acb926b88cf")
+	)
+	(wire
+		(pts
+			(xy 93.98 111.76)
+			(xy 93.98 114.3)
+		)
+		(uuid "0eb4f05f-a8ac-4dd0-ab49-eb45aba91594")
+	)
+	(wire
+		(pts
+			(xy 104.14 111.76)
+			(xy 104.14 114.3)
+		)
+		(uuid "541b3346-709e-41a9-92c2-36ac21cdf458")
+	)
+	(wire
+		(pts
+			(xy 114.3 111.76)
+			(xy 114.3 114.3)
+		)
+		(uuid "dc7df5b6-9aff-45ac-8816-64c3ba5499ce")
+	)
+	(wire
+		(pts
+			(xy 124.46 111.76)
+			(xy 124.46 114.3)
+		)
+		(uuid "94e5085f-54e3-45f3-a0a7-e96b5dee421c")
+	)
+	(wire
+		(pts
+			(xy 134.62 111.76)
+			(xy 134.62 114.3)
+		)
+		(uuid "b633deb7-eb6c-4b60-b5e1-9c2426ff593d")
+	)
+	(wire
+		(pts
+			(xy 144.78 111.76)
+			(xy 144.78 114.3)
+		)
+		(uuid "93197df9-8253-4b91-942c-70e6bfa26da0")
+	)
+	(wire
+		(pts
+			(xy 154.94 111.76)
+			(xy 154.94 114.3)
+		)
+		(uuid "9021e341-9770-4ab2-ac5a-53dfbe90e8ea")
+	)
+	(wire
+		(pts
+			(xy 185.42 109.22)
+			(xy 246.38 109.22)
+		)
+		(uuid "7486ef5b-8ab3-43d3-b648-2b0912f169da")
+	)
+	(wire
+		(pts
+			(xy 195.58 106.68)
+			(xy 195.58 109.22)
+		)
+		(uuid "41fa0e79-7169-4b2b-aec1-8bbccfa813d8")
+	)
+	(wire
+		(pts
+			(xy 208.28 106.68)
+			(xy 208.28 109.22)
+		)
+		(uuid "1765bc46-003b-4937-9336-fd3c1af7d9f0")
+	)
+	(wire
+		(pts
+			(xy 220.98 106.68)
+			(xy 220.98 109.22)
+		)
+		(uuid "c701d7dc-5feb-4f0c-9448-1015da41c417")
+	)
+	(wire
+		(pts
+			(xy 233.68 106.68)
+			(xy 233.68 109.22)
+		)
+		(uuid "7ca7aa0e-1c06-4c7f-8c11-5b751c368463")
+	)
+	(wire
+		(pts
+			(xy 246.38 106.68)
+			(xy 246.38 109.22)
+		)
+		(uuid "55aeaf8d-8d48-46c7-ac18-9a73d08e1d10")
+	)
+	(label "D_PAD"
+		(at 245.11 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "0a9a42ed-01cb-46f3-9ce3-69abee41fe39")
+		(uuid "73ea7587-1f5a-4249-b9ad-3976db7453d7")
+	)
+	(label "S0_PAD"
+		(at 245.11 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "813e877a-870a-44cb-87fc-311b8261f68f")
+	)
+	(label "S1_PAD"
+		(at 245.11 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6b86cfd6-f7cb-4dd8-bf7a-c2fc25935deb")
+	)
+	(label "S2_PAD"
+		(at 245.11 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "574bda84-6a07-44c1-a376-ac8718dd51eb")
+	)
+	(label "S3_PAD"
+		(at 245.11 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4c31130e-2bcd-4a7c-a311-86facc52f65f")
+	)
+	(label "S4_PAD"
+		(at 245.11 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0ac7eb84-73e2-46d3-8161-40359e1ce949")
+	)
+	(label "S5_PAD"
+		(at 245.11 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7727e4e1-8da5-4ecc-a31b-02750c28092e")
+	)
+	(label "S6_PAD"
+		(at 245.11 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4331f1cb-e464-47ce-855a-10ce5cae89ef")
+	)
+	(label "S7_PAD"
+		(at 245.11 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ff33f70b-6382-42ef-8882-bab03d47d09d")
 	)
 	(label "S0"
-		(at 102.87 71.12 0)
+		(at 64.77 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2216,7 +3657,7 @@
 		(uuid "1f4878d7-a8dd-4808-ab9d-9d5b84bfe05f")
 	)
 	(label "S2"
-		(at 102.87 76.2 0)
+		(at 64.77 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2226,7 +3667,7 @@
 		(uuid "25904bfd-4d10-4918-a153-162d8955b50f")
 	)
 	(label "S6"
-		(at 102.87 86.36 0)
+		(at 64.77 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2236,7 +3677,7 @@
 		(uuid "36a08d1e-7148-4811-b419-6901c1c8f414")
 	)
 	(label "S4"
-		(at 102.87 81.28 0)
+		(at 64.77 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2246,7 +3687,7 @@
 		(uuid "65721b3a-663a-40d4-8481-52fccff415a9")
 	)
 	(label "D"
-		(at 73.66 73.66 180)
+		(at 35.56 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2256,7 +3697,7 @@
 		(uuid "67c06bd1-6b7d-4e03-82c6-984bcefb16ed")
 	)
 	(label "S3"
-		(at 102.87 78.74 0)
+		(at 64.77 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2266,7 +3707,7 @@
 		(uuid "68e548b7-60ca-415e-886e-a3e3ec3df527")
 	)
 	(label "S5"
-		(at 102.87 83.82 0)
+		(at 64.77 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2276,7 +3717,7 @@
 		(uuid "7077ac16-09b7-4cae-a983-1c6253a5e12d")
 	)
 	(label "S1"
-		(at 102.87 73.66 0)
+		(at 64.77 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2286,7 +3727,7 @@
 		(uuid "91c2ffae-1720-47c9-bac0-433308de3e39")
 	)
 	(label "VDD"
-		(at 91.44 53.34 0)
+		(at 53.34 53.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2296,7 +3737,7 @@
 		(uuid "b19d0e58-c746-4d56-ba10-14478db1b464")
 	)
 	(label "S7"
-		(at 102.87 88.9 0)
+		(at 64.77 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2305,9 +3746,19 @@
 		)
 		(uuid "b80357e3-5fd1-421d-9738-cfedaec4346a")
 	)
+	(label "D"
+		(at 66.04 68.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fb6e254d-e791-4435-9508-4a130ab27ef0")
+	)
 	(hierarchical_label "A1"
 		(shape input)
-		(at 73.66 66.04 180)
+		(at 35.56 66.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2318,7 +3769,7 @@
 	)
 	(hierarchical_label "A2"
 		(shape input)
-		(at 73.66 68.58 180)
+		(at 35.56 68.58 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2329,7 +3780,7 @@
 	)
 	(hierarchical_label "~{EN}"
 		(shape input)
-		(at 73.66 76.2 180)
+		(at 35.56 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2340,7 +3791,7 @@
 	)
 	(hierarchical_label "A0"
 		(shape input)
-		(at 73.66 63.5 180)
+		(at 35.56 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2349,45 +3800,9 @@
 		)
 		(uuid "c2adb565-05db-442d-8cd9-bb0d9e90166a")
 	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 91.44 55.88 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "62d11264-a9dc-41de-8fcc-2f5fa2b6bf14")
-		(property "Netclass" "Power"
-			(at 88.9 54.991 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -52.07 22.86 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x09_Odd_Even")
-		(at 123.19 78.74 0)
+		(at 264.16 78.74 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -2399,7 +3814,7 @@
 		(fields_autoplaced yes)
 		(uuid "025f0782-bedb-4777-8851-759d53993e3b")
 		(property "Reference" "J45"
-			(at 121.92 62.23 0)
+			(at 262.89 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2409,7 +3824,7 @@
 			)
 		)
 		(property "Value" "Conn_02x08_Pin"
-			(at 121.92 64.77 0)
+			(at 262.89 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2419,7 +3834,7 @@
 			)
 		)
 		(property "Footprint" "HL_Connector_Pad_2.54mm:Pad_2x09_P2.54_1.7x1.7_Rect-Oct"
-			(at 123.19 78.74 0)
+			(at 264.16 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2430,7 +3845,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 78.74 0)
+			(at 264.16 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2441,7 +3856,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x09, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 123.19 78.74 0)
+			(at 264.16 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2452,7 +3867,7 @@
 			)
 		)
 		(property "THT_LCSC" ""
-			(at 123.19 78.74 0)
+			(at 264.16 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2462,7 +3877,7 @@
 			)
 		)
 		(property "LCSC" "C492426"
-			(at 123.19 78.74 0)
+			(at 264.16 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2473,7 +3888,7 @@
 			)
 		)
 		(property "JLCPCB_CORRECTION" "1.27;-10.16;270"
-			(at 123.19 78.74 0)
+			(at 264.16 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2560,7 +3975,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 80.01 53.34 0)
+		(at 41.91 53.34 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -2572,7 +3987,7 @@
 		(fields_autoplaced yes)
 		(uuid "0cc6b223-12e7-4fd5-8f94-8b96ba14e505")
 		(property "Reference" "#PWR0258"
-			(at 80.01 59.69 0)
+			(at 41.91 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2583,7 +3998,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 80.01 58.42 0)
+			(at 41.91 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2593,7 +4008,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 53.34 0)
+			(at 41.91 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2604,7 +4019,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 53.34 0)
+			(at 41.91 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2615,7 +4030,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 53.34 0)
+			(at 41.91 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2651,7 +4066,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 86.36 99.06 0)
+		(at 48.26 99.06 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2662,7 +4077,7 @@
 		(fields_autoplaced yes)
 		(uuid "14bab487-f675-4ad4-9f63-4f39a1f3f7eb")
 		(property "Reference" "#PWR0259"
-			(at 86.36 105.41 0)
+			(at 48.26 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2673,7 +4088,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 86.36 104.14 0)
+			(at 48.26 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2683,7 +4098,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 86.36 99.06 0)
+			(at 48.26 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2694,7 +4109,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 99.06 0)
+			(at 48.26 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2705,7 +4120,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.36 99.06 0)
+			(at 48.26 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2741,7 +4156,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 128.27 91.44 0)
+		(at 269.24 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2752,7 +4167,7 @@
 		(fields_autoplaced yes)
 		(uuid "21a7cee1-f715-4c4a-84af-c68fd82087ce")
 		(property "Reference" "#PWR0261"
-			(at 128.27 97.79 0)
+			(at 269.24 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2763,7 +4178,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 128.27 96.52 0)
+			(at 269.24 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2773,7 +4188,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 128.27 91.44 0)
+			(at 269.24 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2784,7 +4199,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 91.44 0)
+			(at 269.24 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2795,7 +4210,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 128.27 91.44 0)
+			(at 269.24 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2831,7 +4246,7 @@
 	)
 	(symbol
 		(lib_id "HL_Analog_Switch:TMUX4051")
-		(at 88.9 76.2 0)
+		(at 50.8 76.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2842,7 +4257,7 @@
 		(fields_autoplaced yes)
 		(uuid "4150d966-6d86-4274-9747-0b14b0b1b380")
 		(property "Reference" "U34"
-			(at 93.5833 55.88 0)
+			(at 55.4833 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2853,7 +4268,7 @@
 			)
 		)
 		(property "Value" "TMUX4051"
-			(at 93.5833 58.42 0)
+			(at 55.4833 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2864,7 +4279,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:TSSOP-16_4.4x5mm_P0.65mm"
-			(at 92.71 95.25 0)
+			(at 54.61 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2876,7 +4291,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tmux4051.pdf"
-			(at 88.392 73.66 0)
+			(at 50.292 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2887,7 +4302,7 @@
 			)
 		)
 		(property "Description" "CMOS single 8-channel analog multiplexer demultiplexer with 1.8V logic"
-			(at 88.9 76.2 0)
+			(at 50.8 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2898,7 +4313,7 @@
 			)
 		)
 		(property "LCSC" "C5449352"
-			(at 88.9 76.2 0)
+			(at 50.8 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2909,7 +4324,7 @@
 			)
 		)
 		(property "THT_LCSC" ""
-			(at 88.9 76.2 0)
+			(at 50.8 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2920,7 +4335,7 @@
 			)
 		)
 		(property "JLCPCB_CORRECTION" "0;0;270"
-			(at 88.9 76.2 0)
+			(at 50.8 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3001,7 +4416,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 85.09 53.34 270)
+		(at 46.99 53.34 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -3013,7 +4428,7 @@
 		(fields_autoplaced yes)
 		(uuid "4a4bd935-0288-4889-894e-878a515beefa")
 		(property "Reference" "C75"
-			(at 85.0836 46.99 90)
+			(at 46.9836 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3022,8 +4437,8 @@
 				)
 			)
 		)
-		(property "Value" "1uF"
-			(at 85.0836 49.53 90)
+		(property "Value" "100nF"
+			(at 46.9836 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3033,7 +4448,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 85.09 53.34 0)
+			(at 46.99 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3044,7 +4459,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 53.34 0)
+			(at 46.99 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3055,7 +4470,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 85.09 53.34 0)
+			(at 46.99 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3065,8 +4480,8 @@
 				)
 			)
 		)
-		(property "LCSC" "C15849"
-			(at 85.09 53.34 0)
+		(property "LCSC" "C14663"
+			(at 46.99 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3077,7 +4492,7 @@
 			)
 		)
 		(property "Characteristics" ""
-			(at 85.09 53.34 0)
+			(at 46.99 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3088,7 +4503,7 @@
 			)
 		)
 		(property "THT_LCSC" ""
-			(at 85.09 53.34 0)
+			(at 46.99 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3126,7 +4541,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 91.44 49.53 0)
+		(at 53.34 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3137,7 +4552,7 @@
 		(fields_autoplaced yes)
 		(uuid "fac76e1f-b708-41d1-94b2-2b424803ea4f")
 		(property "Reference" "#PWR0260"
-			(at 91.44 53.34 0)
+			(at 53.34 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3148,7 +4563,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 91.44 44.45 0)
+			(at 53.34 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3158,7 +4573,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 91.44 49.53 0)
+			(at 53.34 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3169,7 +4584,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 49.53 0)
+			(at 53.34 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3180,7 +4595,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 91.44 49.53 0)
+			(at 53.34 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3210,6 +4625,2865 @@
 				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
 					(reference "#PWR0256")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAT54S")
+		(at 73.66 104.14 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "90140ac2-7238-4ff5-89d2-abb252787ea8")
+		(property "Reference" "D42"
+			(at 73.66 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT54S"
+			(at 73.66 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 73.66 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/34ea9f8d4a2e2e40eea56b51198e5fd8.pdf?productCode=C7420333"
+			(at 73.66 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "30V 200mA dual Schottky diode, series, SOT-23"
+			(at 73.66 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7420333"
+			(at 73.66 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "D61")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "D42")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "D77")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "D93")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAT54S")
+		(at 83.82 104.14 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "94e92d81-db52-4b46-9736-4379a2d97051")
+		(property "Reference" "D43"
+			(at 83.82 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT54S"
+			(at 83.82 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 83.82 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/34ea9f8d4a2e2e40eea56b51198e5fd8.pdf?productCode=C7420333"
+			(at 83.82 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "30V 200mA dual Schottky diode, series, SOT-23"
+			(at 83.82 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7420333"
+			(at 83.82 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "D62")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "D43")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "D78")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "D94")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAT54S")
+		(at 93.98 104.14 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d56e2d2a-95a0-404d-8d60-37655adbaaeb")
+		(property "Reference" "D44"
+			(at 93.98 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT54S"
+			(at 93.98 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 93.98 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/34ea9f8d4a2e2e40eea56b51198e5fd8.pdf?productCode=C7420333"
+			(at 93.98 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "30V 200mA dual Schottky diode, series, SOT-23"
+			(at 93.98 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7420333"
+			(at 93.98 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "D63")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "D44")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "D79")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "D95")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAT54S")
+		(at 104.14 104.14 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e4f423f0-e90b-4685-9935-3d103c3d91f9")
+		(property "Reference" "D45"
+			(at 104.14 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT54S"
+			(at 104.14 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 104.14 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/34ea9f8d4a2e2e40eea56b51198e5fd8.pdf?productCode=C7420333"
+			(at 104.14 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "30V 200mA dual Schottky diode, series, SOT-23"
+			(at 104.14 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7420333"
+			(at 104.14 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "D64")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "D45")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "D80")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "D96")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAT54S")
+		(at 114.3 104.14 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "021e8be3-d4c1-454d-a86a-34dee07ef26b")
+		(property "Reference" "D46"
+			(at 114.3 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT54S"
+			(at 114.3 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 114.3 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/34ea9f8d4a2e2e40eea56b51198e5fd8.pdf?productCode=C7420333"
+			(at 114.3 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "30V 200mA dual Schottky diode, series, SOT-23"
+			(at 114.3 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7420333"
+			(at 114.3 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "D65")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "D46")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "D81")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "D97")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAT54S")
+		(at 124.46 104.14 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a7a51d5f-5f1e-4d5b-a982-c5d0a33de4f2")
+		(property "Reference" "D47"
+			(at 124.46 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT54S"
+			(at 124.46 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 124.46 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/34ea9f8d4a2e2e40eea56b51198e5fd8.pdf?productCode=C7420333"
+			(at 124.46 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "30V 200mA dual Schottky diode, series, SOT-23"
+			(at 124.46 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7420333"
+			(at 124.46 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "D66")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "D47")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "D82")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "D98")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAT54S")
+		(at 134.62 104.14 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "46acceae-4ea0-46a5-a584-514959be1e76")
+		(property "Reference" "D48"
+			(at 134.62 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT54S"
+			(at 134.62 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 134.62 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/34ea9f8d4a2e2e40eea56b51198e5fd8.pdf?productCode=C7420333"
+			(at 134.62 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "30V 200mA dual Schottky diode, series, SOT-23"
+			(at 134.62 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7420333"
+			(at 134.62 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "D67")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "D48")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "D83")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "D99")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAT54S")
+		(at 144.78 104.14 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "287cd379-f4b2-4841-8e8b-7f585dc4b968")
+		(property "Reference" "D49"
+			(at 144.78 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT54S"
+			(at 144.78 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 144.78 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/34ea9f8d4a2e2e40eea56b51198e5fd8.pdf?productCode=C7420333"
+			(at 144.78 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "30V 200mA dual Schottky diode, series, SOT-23"
+			(at 144.78 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7420333"
+			(at 144.78 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "D68")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "D49")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "D84")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "D100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:BAT54S")
+		(at 154.94 104.14 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b6c02d55-474a-4f77-8f6b-a9c865313f54")
+		(property "Reference" "D50"
+			(at 154.94 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT54S"
+			(at 154.94 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 154.94 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/34ea9f8d4a2e2e40eea56b51198e5fd8.pdf?productCode=C7420333"
+			(at 154.94 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "30V 200mA dual Schottky diode, series, SOT-23"
+			(at 154.94 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7420333"
+			(at 154.94 104.14 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "D69")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "D50")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "D85")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "D101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 172.72 68.58 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ba8d7a37-97e2-4e13-a762-8de675e79211")
+		(property "Reference" "R171"
+			(at 179.07 67.564 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220R"
+			(at 185.42 67.564 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 172.72 68.58 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 68.58 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 172.72 68.58 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17557"
+			(at 172.72 68.58 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "R181")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "R171")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "R191")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "R201")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 172.72 71.12 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0d7a2727-31ba-4142-aa56-b4270458da94")
+		(property "Reference" "R172"
+			(at 179.07 70.104 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220R"
+			(at 185.42 70.104 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 172.72 71.12 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 71.12 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 172.72 71.12 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17557"
+			(at 172.72 71.12 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "R182")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "R172")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "R192")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "R202")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 172.72 73.66 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4dab65f2-3047-4c48-b965-9c65f22128c7")
+		(property "Reference" "R173"
+			(at 179.07 72.644 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220R"
+			(at 185.42 72.644 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 172.72 73.66 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 73.66 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 172.72 73.66 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17557"
+			(at 172.72 73.66 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "R183")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "R173")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "R193")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "R203")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 172.72 76.2 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ffd165c8-957e-4b05-bafe-b03dcf3a515f")
+		(property "Reference" "R174"
+			(at 179.07 75.184 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220R"
+			(at 185.42 75.184 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 172.72 76.2 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 76.2 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 172.72 76.2 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17557"
+			(at 172.72 76.2 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "R184")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "R174")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "R194")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "R204")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 172.72 78.74 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "77f44b98-d282-42c8-8501-f4f4b1780df0")
+		(property "Reference" "R175"
+			(at 179.07 77.724 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220R"
+			(at 185.42 77.724 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 172.72 78.74 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 78.74 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 172.72 78.74 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17557"
+			(at 172.72 78.74 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "R185")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "R175")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "R195")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "R205")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 172.72 81.28 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7a79efc1-b07c-4ff4-b989-254864f0b738")
+		(property "Reference" "R176"
+			(at 179.07 80.264 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220R"
+			(at 185.42 80.264 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 172.72 81.28 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 81.28 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 172.72 81.28 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17557"
+			(at 172.72 81.28 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "R186")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "R176")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "R196")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "R206")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 172.72 83.82 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c0f9b972-ecb7-4637-af1b-cd8aa2a410be")
+		(property "Reference" "R177"
+			(at 179.07 82.804 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220R"
+			(at 185.42 82.804 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 172.72 83.82 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 83.82 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 172.72 83.82 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17557"
+			(at 172.72 83.82 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "R187")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "R177")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "R197")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "R207")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 172.72 86.36 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "20ca0ecd-5f7d-4fd7-8735-133952f0b9a7")
+		(property "Reference" "R178"
+			(at 179.07 85.344 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220R"
+			(at 185.42 85.344 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 172.72 86.36 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 86.36 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 172.72 86.36 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17557"
+			(at 172.72 86.36 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "R188")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "R178")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "R198")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "R208")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 172.72 88.9 90)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1ed826f8-7e3c-4a47-b4fb-861387836a63")
+		(property "Reference" "R179"
+			(at 179.07 87.884 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220R"
+			(at 185.42 87.884 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 172.72 88.9 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 88.9 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 172.72 88.9 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17557"
+			(at 172.72 88.9 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "R189")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "R179")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "R199")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "R209")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Power_Protection:SZNUP2105L")
+		(at 195.58 101.6 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "da3c89ac-fade-4e0c-967a-0e7904b2e72c")
+		(property "Reference" "D51"
+			(at 195.58 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SZNUP2105L"
+			(at 195.58 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 195.58 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub_link/Collateral/NUP2105L-D.PDF"
+			(at 195.58 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Dual Line CAN Bus Protector, 24Vrwm, Automotive Grade"
+			(at 195.58 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C233494"
+			(at 195.58 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "D70")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "D51")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "D86")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "D102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Power_Protection:SZNUP2105L")
+		(at 208.28 101.6 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e076e8dd-c69e-4c94-994f-521764f9237b")
+		(property "Reference" "D52"
+			(at 208.28 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SZNUP2105L"
+			(at 208.28 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 208.28 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub_link/Collateral/NUP2105L-D.PDF"
+			(at 208.28 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Dual Line CAN Bus Protector, 24Vrwm, Automotive Grade"
+			(at 208.28 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C233494"
+			(at 208.28 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "D71")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "D52")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "D87")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "D103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Power_Protection:SZNUP2105L")
+		(at 220.98 101.6 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c06661b6-86d5-465f-8754-8a1ca2138b1a")
+		(property "Reference" "D53"
+			(at 220.98 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SZNUP2105L"
+			(at 220.98 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 220.98 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub_link/Collateral/NUP2105L-D.PDF"
+			(at 220.98 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Dual Line CAN Bus Protector, 24Vrwm, Automotive Grade"
+			(at 220.98 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C233494"
+			(at 220.98 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "D72")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "D53")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "D88")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "D104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Power_Protection:SZNUP2105L")
+		(at 233.68 101.6 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8702db89-b5e9-4bd3-975c-96e6521c7b72")
+		(property "Reference" "D54"
+			(at 233.68 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SZNUP2105L"
+			(at 233.68 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 233.68 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub_link/Collateral/NUP2105L-D.PDF"
+			(at 233.68 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Dual Line CAN Bus Protector, 24Vrwm, Automotive Grade"
+			(at 233.68 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C233494"
+			(at 233.68 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "D73")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "D54")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "D89")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "D105")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Power_Protection:SZNUP2105L")
+		(at 246.38 101.6 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "242cd10d-e239-43a7-934a-a835694500ef")
+		(property "Reference" "D55"
+			(at 246.38 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SZNUP2105L"
+			(at 246.38 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 246.38 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub_link/Collateral/NUP2105L-D.PDF"
+			(at 246.38 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Dual Line CAN Bus Protector, 24Vrwm, Automotive Grade"
+			(at 246.38 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C233494"
+			(at 246.38 101.6 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "D74")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "D55")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "D90")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "D106")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 53.34 45.72 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3af87936-70ad-4c6f-9e6e-c0c09602fa7a")
+		(property "Reference" "R170"
+			(at 55.88 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1k"
+			(at 55.88 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 53.34 45.72 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 45.72 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 53.34 45.72 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C4410"
+			(at 53.34 45.72 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "R180")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "R170")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "R190")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "R200")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 73.66 96.52 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "386efc9f-0c8d-46e1-b062-815af61b9f6a")
+		(property "Reference" "#PWR0376"
+			(at 73.66 100.33 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 73.66 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 73.66 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "#PWR0413")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "#PWR0376")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "#PWR0425")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "#PWR0437")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 83.82 96.52 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "89ca7bb7-4152-47e5-abed-d441949dc6c6")
+		(property "Reference" "#PWR0377"
+			(at 83.82 100.33 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 83.82 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 83.82 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 83.82 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 83.82 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "#PWR0414")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "#PWR0377")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "#PWR0426")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "#PWR0438")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 93.98 96.52 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a5c6b273-5add-43cf-a454-275cf4d72241")
+		(property "Reference" "#PWR0378"
+			(at 93.98 100.33 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 93.98 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 93.98 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "#PWR0415")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "#PWR0378")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "#PWR0427")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "#PWR0439")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 104.14 96.52 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "273890ed-2619-40ec-9ae9-98276f9cbb2c")
+		(property "Reference" "#PWR0379"
+			(at 104.14 100.33 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 104.14 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 104.14 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 104.14 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "#PWR0416")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "#PWR0379")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "#PWR0428")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "#PWR0440")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 114.3 96.52 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1935efee-ec1d-48ea-baaa-4d722b796d03")
+		(property "Reference" "#PWR0380"
+			(at 114.3 100.33 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 114.3 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 114.3 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "#PWR0417")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "#PWR0380")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "#PWR0429")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "#PWR0441")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 124.46 96.52 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7008503a-14d3-4f61-95dd-064317564157")
+		(property "Reference" "#PWR0381"
+			(at 124.46 100.33 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 124.46 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 124.46 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "#PWR0418")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "#PWR0381")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "#PWR0430")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "#PWR0442")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 134.62 96.52 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "11ae008e-26f7-42ec-95d9-102de23ab1df")
+		(property "Reference" "#PWR0382"
+			(at 134.62 100.33 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 134.62 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 134.62 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "#PWR0419")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "#PWR0382")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "#PWR0431")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "#PWR0443")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 144.78 96.52 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6836c9bb-2c05-444a-89a4-4dbd4f43ec05")
+		(property "Reference" "#PWR0383"
+			(at 144.78 100.33 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 144.78 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 144.78 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "#PWR0420")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "#PWR0383")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "#PWR0432")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "#PWR0444")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 154.94 96.52 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5893a247-c6ce-443e-a4f2-8eb06b5de7f1")
+		(property "Reference" "#PWR0384"
+			(at 154.94 100.33 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 154.94 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.94 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 154.94 96.52 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "#PWR0421")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "#PWR0384")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "#PWR0433")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "#PWR0445")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 66.04 114.3 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "329388a3-cf99-4fe6-b08d-ad95b12e0a8f")
+		(property "Reference" "#PWR0375"
+			(at 66.04 120.65 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 66.04 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 66.04 114.3 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 114.3 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 66.04 114.3 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "#PWR0412")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "#PWR0375")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "#PWR0424")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "#PWR0436")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 185.42 109.22 0)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2e97193f-f526-4cc8-b446-bd1b8a52f14c")
+		(property "Reference" "#PWR0385"
+			(at 185.42 115.57 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 185.42 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 109.22 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 109.22 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 185.42 109.22 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "#PWR0422")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "#PWR0385")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "#PWR0434")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "#PWR0446")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 53.34 49.53 270)
+		(unit 1)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0a596079-d59e-4596-9f14-dc53a348f18c")
+		(property "Reference" "#FLG22"
+			(at 55.245 49.53 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 56.515 50.165 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 53.34 49.53 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 49.53 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 53.34 49.53 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HALSPA"
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/6bf2b6cc-eb81-4d9f-a81d-b7f6cfd4faa9"
+					(reference "#FLG22")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/7f1d0812-6a9e-4744-8af9-695086760ff2"
+					(reference "#FLG22")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/884a68a7-a98a-499d-b804-4c3e5a6711fb"
+					(reference "#FLG22")
+					(unit 1)
+				)
+				(path "/7eeba806-440e-4671-bc07-69fe183910a7/c1640104-e93c-4dad-89ee-86b02155c684/93528cc8-9ea6-4e83-9001-dc55f14534f1"
+					(reference "#FLG22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 53.34 55.88 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "62d11264-a9dc-41de-8fcc-2f5fa2b6bf14")
+		(property "Netclass" "Power"
+			(at 50.8 54.991 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -90.17 22.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
 				)
 			)
 		)
